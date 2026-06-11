@@ -1,0 +1,600 @@
+AN ACT to provide for the constitution of an Electricity Regulatory Commission,
+restructuring of the electricity industry, rationalization of the generation,
+transmission, distribution and supply of electricity, avenues for participation of private sector entrepreneurs in the electricity industry and generally for taking measures conducive to the development and management of the electricity industry in an efficient, economic and competitive manner and for matters connected therewith or incidental thereto.
+Be it enacted by the Legislature of the State of Haryana in the forty-eighth Year of the Republic of India, as follows: PART-I PRELIMINARY
+1. (1) This Act may be called the Haryana Electricity Reform Act, 1997.
+(2) It extends to the whole of the State of Haryana.
+[(3) It shall come into force on such date as the State Government shall notify in the Official Gazette.]
+2. In this Act, unless the context otherwise requires,—
+(a) “area of transmission” means the area within which the holder or a transmission licence is for the time being authorised bylicence to transmit energy;
+dated 21-7-1997, page-1665.
+2. This Act came into force with effect from the 14th August, 1997 vide Haryana Government,
+Power Department Notification No. SO-105/HA/10/1998/S.1998, dated the 13th August, 1998.Short title, extentandcommencement.
+Definitions.ELECTRICITY REFORM 1998 : Hr. Act 10]
+
+(b) “Commission” means the Haryana Electricity Regulatory Commission constituted under sub-section (1) of section 3;
+(c) “licence” means a licence granted under Part VI of this Act;(d) “licensee” or “licence holder” means a person licensed under part VI of this Act to transmit or supply energy includingTransco;
+(e) “member or members” means the members of the Commission and shall include the Chairman of the Commission;
+(f) “prescribed” means prescribed by the rules or regulations made under this Act;
+(g) “Public Service Commission” means the Public Service Commission for the State established pursuant to Article 315of the Constitution of India;
+(h) “regulations” means regulations made by the Commission under the Act;
+(i) “rules” means rules made by the State Government under this Act;
+(j) “selection committee” means the selection committee constituted under section 4 of this Act;
+(k) “State” means the State of Haryana;(l) “State Government” means the Government of the State;(m) “supply licence” means a licence under sub-section (1) (b) of section 15;
+(n) “transco” means the Transmission Corporation of Haryana incorporated as a transmission company under the CompaniesAct, 1956 for the purpose of undertaking transmission ofelectricity under a licence granted under this Act;
+(o) “transmission licence” means a licence under sub-section (1)
+(a) of section 15;
+(p) “transmit” in relation to electricity, means the transportation or transmission of electricity by means of a system operated orcontrolled by a licensee which consists, wholly or mainly, ofextra high voltage and extra high tension lines and electricalplant and is used for transforming and for conveying and/ortransferring electricity from a generating station to a sub-station,from one generating station to another or from one sub-stationto another or otherwise from one place to another;ELECTRICITY REFORM [1998 : Hr. Act 10
+
+(q) words and expressions used but not defined in this Act and defined in the Electricity (Supply) Act, 1948 (Act No. 54of 1948) have the meanings respectively assigned to them inthat Act;
+(r) Words and expressions used but not defined either in this Act or in the Electricity (Supply) Act, 1948 (Act No. 54 of 1948)and defined in the Indian Electricity Act, 1910 (Act No.IXof 1910), have the meanings respectively assigned to them inthese Acts.
+PART II HARYANA ELECTRICITY REGULATORY COMMISSION
+3. (1) For the purposes of this Act, within three months of the Act coming into force, the State Government shall establish by notification in theOfficial Gazette a Commission to be known as the Haryana Electricity RegulatoryCommission, which shall be a body corporate with perpetual succession and acommon seal with power to acquire and hold property, movable and immovable,and shall, by the said name, be entitled to sue and be sued.
+(2) The Commission shall consist of three members to be appointed by the State Government from persons selected by the selection committeeconstituted for the purpose, in the manner provided in section 4 of this Act.
+(3) The person to be appointed as a member of the Commission for the first time for a period of three years in terms of proviso to sub-section (1) ofsection 6 shall be the first Chairman of the Commission and thereafter at all timesthe most senior member of the Commission shall act as Chairman, such senioritybeing reckoned from the date of the appointment of the members. In case two ormore persons are selected at the same time the seniority amongst them shall bedetermined by the State Government while making the appointment.
+(4) When the Chairman of the Commission is unable to discharge the functions owing to absence, illness or any other cause, the next senior memberof the Commission shall discharge the functions of the Chairman, until the day onwhich the Chairman assumes the charge of his functions.
+(5) No act or proceedings of the Commission shall be invalid by reason only of the existence of any vacancy among its members or any defect inthe constitution thereof.
+4. (1) The State Government shall expeditiously constitute a selection committee, as often as may be required to select persons for appointment asmembers.
+(2) The selection committee shall consist of five members:—
+(i) the Vice Chancellor of a Haryana University-Chairman.Establishment and Constitution of theCommission.
+Constitution of the selectioncommittee toselect members.ELECTRICITY REFORM 1998 : Hr. Act 10]
+
+(ii) a Member of the Haryana Public Service Commission
+– Member.
+(iii) the Chairman or a Member of Central Electricity Authority
+– Member,
+(iv) the Secretary in charge of Finance Department,
+Government of Haryana – Member,
+(v) the Secretary incharge of the Power Department,
+Government of Haryana – Member.
+The Secretary incharge of the Department of Power Government of Haryana shall also act as the convenor of theselection committee.
+(3) The selection committee shall act expeditiously and shall generally finalise the selection within a period of two months to enable the StateGovernment to make the final selection and appointment in time for the newmember to take effective charge at the expiry of the term of the retiring member.
+(4) The selection committee shall select two suitable persons for each vacancy in the Commission who have such qualification and experience asprovided in the Act and notify the State Government of the persons shortlisted bythe selection committee. The State Government shall appoint one of the twocandidates shortlisted by the selection committee as a member of the Commission.
+(5) All decisions of the selection committee shall be by majority.
+(6) The method and manner of the selection and appointment of members and designation of one of the members as Chairman shall be as prescribedby the State Government from time to time by the rules.
+5. (1) The members of the Commission shall be persons of ability,
+integrity and standing who have adequate knowledge or experience of, or haveshown capacity in dealing with problems relating to engineering, economics,commerce, finance, accountancy, law or administration and further that at alltimes—
+(a) at least one member shall be an electrical engineer with adequate experience of either generation, transmission ordistribution of electricity;
+(b) at least one member shall have qualification and adequate experience in any of the other disciplines, namelyeconomics, commerce, finance, accountancy, law oradministration; and
+(c) the third member shall have the qualification and adequate experience in any of the disciplines mentionedabove.
+The selection and appointment of the members at all times shall be made strictly in accordance with the above qualification and experience.Conditions forappointment asmember of theCommission.ELECTRICITY REFORM [1998 : Hr. Act 10
+
+(2) A person shall be disqualified from being appointed a member of the Commission if he is a member of Parliament or of any State Legislature orany local authority or holds any post in a political party.
+(3) The persons who are considered for appointment as members of the Commission shall notify the convenor of the selection committee—
+(a) of any office, employment or consultancy agreement or arrangement which he has in his own name or in any firm,association of person or body corporate; or in the namesof any relative, carrying on any of the followingbusinesses—
+(i) generation, transmission, distribution or supply of electricity;
+(ii) manufacture, sale or supply of any fuel for generation of electricity;
+(iii) manufacture, sale, lease, hire or otherwise supply of or dealing in machinery, plant, equipment, apparatusor fittings for the generation, transmission,distribution, supply or use of electricity; and
+(iv) any entity providing professional services to any of the businesses referred to in sub-clauses (i), (ii) and(iii) above;
+(b) such other details and information as may be prescribed in the rules.
+Explanation.— For the purpose of this section the term relative shall have the same meaning as defined under section 6 of the Companies Act, 1956.
+(4) The details received from the persons shall be placed for consideration of the selection committee at the time of selection andrecommendation of the person for appointment as member.
+(5) Each member of the Commission shall, before taking charge of the office as member or within such time not exceeding three months after takingcharge as may be allowed by the State Government on the recommendation of theselection committee, divest himself from the interest in the businesses mentionedin sub-section (3) of this section as a condition of his appointment.
+(6) If a person to be appointed as a member of the Commission holds any office under the State or Central Government or any public sectorcorporation or any Government body he shall submit his resignation or takevoluntary retirement from that service and shall not seek reappointment in theservice of the Government or any Government corporation or body dealing withthe power sector at any time after he ceases to be a member of the Commission.ELECTRICITY REFORM 1998 : Hr. Act 10]
+
+(7) So long as the person holds the office of the member and for a period of two years after he ceases to be a member for any reason whatsoever, heshall not acquire, hold or maintain, directly or indirectly any office, employmentor consultancy arrangement or businesses mentioned in sub-section (3) of thissection and if he acquires any such interest involuntarily or by way of successionor testamentary disposition he will divest himself from such interest within a periodof three months of such interest being acquired.
+(8) Before recommending any person as a member of the Commission, the selection committee shall satisfy itself that the person does nothave any financial or other interest as referred to in sub-section (3) or otherwisewhich is likely to affect prejudicially his functions as a member.
+6. (1) Every member shall hold office for a period of five years from the date of his appointment as member or until the age of sixty-five years, whicheveris earlier and he shall not be eligible for re-appointment at any time after theexpiry of his term of appointment:
+Provided that the first three members shall be appointed for varying periods of three years, four years and five years respectively so as to avoid theretirement of all the members at the same time and ensure continuity in thefunctioning of the Commission:
+Provided further that no person shall be appointed as member after he has attained the age of sixty two years so that he has a minimum tenure of threeyears as member.
+(2) The Chairman of the Commission and other members shall receive such remuneration and other allowances as provided in Schedule I andshall be governed by such conditions of service as may be prescribed from time totime under the rules:
+Provided that the terms shall not be varied to their disadvantage during the tenure of the appointment.
+(3) The Chairman of the Commission and every other member shall before entering upon his office, make and subscribe to an oath of office and ofsecrecy in such form, in such manner and before such authority as may beprescribed.
+7. (1) The Governor of the State may remove from office any member of the Commission, in accordance with sub-section (2) who—
+(a) has been adjudged an insolvent; or(b) has been convicted of an offence involving moral turpitude; or
+(c) has become physically or mentally incapable of acting as such member; or
+(d) has without reasonable cause refused or failed to act for a period of at least six months; orTerm of office,conditions ofservice, etc., ofmembers.
+Removal of Members.ELECTRICITY REFORM [1998 : Hr. Act 10
+
+(e) ceases to fulfill any of the conditions of his appointment as member; or
+(f) has acquired such financial or other interest that can affect prejudicially his functions as a member; or
+(g) has conducted himself in a manner or has so abused his position as to render his continuance in officeprejudicial to the public interest or to the objects andpurpose of the Act.
+(2) Except where a member admits the charge, in writing, no member of the Commission shall be removed from his office on the groundsspecified in clauses (c), (d) (e) (f) and (g) of sub-section (1) until a sitting judge ofthe High Court of Punjab & Haryana, as recommended by the Chief Justice of theHigh Court at the relevant time, has carried out an investigation and has forwardeda report to the Governor of the State.
+(3) The Governor and the State Government shall act in accordance with the recommendation in the final report under sub-section (2) and the StateGovernment shall communicate its decision to the member concerned within aperiod of two months of the receipt of such report.
+(4) A member who has been removed shall not be eligible for reappointment as a member or in any other capacity in the Commission or in theState Government or in any State Government undertakings.
+(5) If the member removed under this section is the Chairman of the Commission, he shall cease to be the Chairman of the Commission.
+(6) The vacancy caused by the removal of the member shall be filled in the same manner as provided for the appointment of a member ordesignation of the Chairman of the Commission.
+8. (1) The Commission shall appoint a person as Secretary of the Commission to assist the Commission to discharge its functions.
+(2) The Commission shall, in consultation with the State Government, determine the number, nature and categories of other officers andemployees required to assist the Commission in the discharge of its functions.
+(3) The salaries and allowances payable to the members and the administrative expenses, including salaries, allowances and pensions payable toor in respect of the Secretary, officers and other employees of the Commission,shall be charged to the Consolidated Fund of the State.
+(4) The method and manner of selection of the Secretary, officers and other employees and the terms and conditions of their service may beprescribed by the Commission by regulations.
+(5) The Commission shall be entitled to appoint, from time to time,
+consultants required to assist the Commission in the discharge of its functions onterms and conditions to be decided by the Commission.Appointment ofthe Secretary, Staffand Consultants ofthe Commission.ELECTRICITY REFORM 1998 : Hr. Act 10]
+
+PART III PROCEEDINGS, POWERS AND FUNCTIONS OF THE COMMISSION
+9. (1) The headquarters of the Commission shall be at Panchkula,
+Haryana, but the Commission shall be entitled to conduct its proceedings,consultations and hearings at any place in the State.
+(2) The Commission shall have the exclusive power to frame regulations for the conduct of its proceedings and discharge of its functions andall such regulations framed shall be published in the Official Gazette.
+(3) In case of a difference of opinion among the members of the Commission, the opinion of the majority shall prevail and the opinion of theCommission shall be expressed in terms of the views of the majority. Each memberof the Commission shall have one vote only. The Chairman shall have no castingor second vote.
+(4) The quorum for the meeting of the Commission shall be two;
+provided that for a meeting of the Commission to review any previous decisiontaken by the Commission or for consideration of any issue which could not bedecided on account of equality of votes in favour of and against the resolutionproposed, the quorum for the meeting shall be all members being personally present.
+(5) The Chairman of the Commission may instruct the Secretary to call a meeting of the Commission to be held at such time and at such place as theChairman may direct. In addition, any member of the Commission may request ameeting of the Commission at any time by sending a notice in writing to the othermembers and with a copy to the Secretary. The notice of all meetings shall begiven to the members in writing, unless all the members waive the notice in writing.
+(6) The Commission shall be entitled to decide urgent matters by circulation of the papers to members.
+(7) All decisions, directions and orders of the Commission shall be in writing and shall be supported by reasons. The decisions, directions and ordersof the Commission shall be available for inspection by any person and copies ofthe same shall also be made available in a manner the Commission may prescribe.
+10. (1) The Commission shall, for the purposes of any inquiry or proceedings under this Act shall have the powers as are vested in a Civil Courtunder the Code of Civil Procedure, 1908 (5 of 1908), while trying a suit in respectof the following matters, namely:—
+(a) the summoning and enforcing of attendance of any witness and examining on oath;
+(b) the discovery and production of any document or other material object producible as evidence;
+(c) the reception of evidence on affidavits;Proceedings of the Commission.
+Powers of the Commission.ELECTRICITY REFORM [1998 : Hr. Act 10
+
+(d) the requisition of any public record from any court or office;
+(e) the issue of commission for examination of witnesses;
+(f) the appearance of parties and consequences of nonappearance;
+(g) the grant of adjournments at the hearing; and(h) the review of its decisions, directions and orders.
+(2) _________________ Deleted _______________.
+(3) The Commission shall have the power to require any person—
+(a) to produce before, and allowed to be examined and kept by, an officer of the Commission specified in this behalf,such books, accounts, or other documents in the custodyor under the control of the person so required as may bespecified or described in the requisition, being documentsrelating to any matter concerning the generation,transmission, distribution and supply or use of electricity,the functioning of any undertaking involved in the aboveareas and other matters, the examination of which theCommission considers is necessary or relevant for thepurposes of this Act or the discharge of the functions bythe Commission under this Act; and
+(b) to furnish to an officer so specified such information as may be required for the purposes of this Act or such otherinformation as may be in his possession in relation to anyactivity carried on by any other person.
+(4) For the purpose of enforcing the attendance of witnesses the local limits of the jurisdiction of the Commission shall be the limits of the territoryof India.
+(5) Where, during any inquiry or proceedings under this Act, the Commission has any grounds to believe that any books or papers or documentsof, or relating to any unit or person in relation to which such inquiry is being madeor which the owner of such unit may be required to produce in such inquiry, arebeing, or may be, destroyed, mutilated, altered, falsified or secreted, it may, by awritten order authorise any officer of the Commission to exercise the powers ofentry, search and seizure as may be exercised by an Inspector appointed forinspection under sections 240 and 240-A of the Companies Act, 1956 (1 of 1956).
+(6) Notwithstanding anything contained in any other law for the time being in force, the Commission may, by a general or special order, call uponany person including the generating companies or the licensees to furnish to theCommission periodically or as and when required any information concerningELECTRICITY REFORM 1998 : Hr. Act 10]
+
+the activities carried on by such person related to generation, transmission,
+distribution and supply or use of electricity, the connection between such personand any other person or undertaking including such other information relating tothe organisation, business, cost of production, conducts, etc. as may be prescribedto enable the Commission to carry out its functions under this Act.
+(7) In the discharge of its functions the Commission shall be entitled to and shall consult to the extent the Commission considers appropriate fromtime to time such persons or group who may be affected or are likely to be affectedby the decisions of the Commission.
+(8) The Commission shall be entitled to exercise the above mentioned powers to call for information, details, books, accounts and otherdocuments from any person and make inquiry for the purposes of providing thesame to the Central Electricity Authority, the Central Government, the StateGovernment or other persons. The Central Electricity Authority, the CentralGovernment and the State Government shall be entitled to ask the Commission tomake such inquiry and provide the information, details and documents to them.
+(9) All persons to whom notices may be issued shall have a statutory obligation under this Act to duly, faithfully and effectively furnish the information,details, books, accounts and other documents, which the Commission considersrelevant in connection with its functions under this Act or which may be requiredto be obtained at the directions of the Central Electricity Authority, the CentralGovernment or the State Government as the case may be and shall be proceededwith and punishable for any failure or delay to comply with such requirementsand the directions and orders issued by the Commission.
+(10) Notwithstanding anything contained in sections 12 to 16 (both inclusive) and sections 18 and 19 of the Indian Electricity Act, 1910, for the placingof the electric supply lines, appliances and apparatus for transmission, distributionand supply of energy, the Commission may, by order in writing, confer uponlicensees or any other person engaged in the business of transmission, distributionor supply of energy to the public under the Act, subject to such conditions andrestrictions as the Commission may provide, any of the powers which the telegraphauthority possess under the Indian Telegraph Act, 1885 with respect to placing oftelegraph lines and post.
+11. (1) Subject to the provisions of this Act, the Commission shall be responsible to discharge, amongst others, the following functions:—
+(a) to aid and advise, in matters concerning electricity generation, transmission, distribution and supply in theState;
+(b) to regulate the working of the licensees and to promote their working in an efficient, economical and equitablemanner;
+Functions of theCommission.ELECTRICITY REFORM [1998 : Hr. Act 10
+
+(c) to issue licences in accordance with the provisions of this Act and determine the conditions to be included in thelicences;
+(d) to promote efficiency, economy and safety in the use of the electricity in the State including and in particular inregard to quality, continuity and reliability of service andenable all reasonable demands for electricity to be met;
+(e) to regulate the purchase, distribution, supply and utilization of electricity, the quality of service, the tariffand charges payable keeping in view both the interest ofthe consumer as well as the consideration that the supplyand distribution cannot be maintained unless the chargesfor the electricity supplied are adequately levied and dulycollected;
+(f) to promote competitiveness and progressively involve the participation of private sector, while ensuring fair dealto the customers;
+(g) to collect data and forecast on the demand for and use of electricity and to require the licensees to collect such dataand forecast;
+(h) to require licensees to formulate perspective plans and schemes in coordination with others for the promotion ofgeneration, transmission, distribution and supply ofelectricity;
+(i) to set appropriate code of conduct and standards for the electricity industry in the State;
+(j) to regulate the assets, properties and interest in properties concerning or related to the electricity industry in theState; and
+(k) to undertake all incidental or ancillary things.
+(2) The Commission shall always act consistent with the objectives and purposes for which the Commission has been established as an independentstatutory body corporate and all acts, decisions and orders of the Commissionshall be pursuant to and shall seek to achieve such object and purpose.
+(3) Notwithstanding the provisions of section 52 of the Indian Electricity Act, 1910 or the provisions of section 3 (1) (ii) and section 76 of theElectricity (Supply) Act, 1948, the Commission shall have the power to act asarbitrator or nominate arbitrator or arbitrators to adjudicate and settle the disputesarising between the licenses in accordance with the regulations to be prescribedand this shall be a condition of the grant of licences.ELECTRICITY REFORM 1998 : Hr. Act 10]
+
+PART IV POWERS OF THE STATE GOVERNMENT
+12. (1) The State Government shall have the power to issue policy directions on matters concerning electricity in the State including the overallplanning and coordination. All policy directions shall be issued by the StateGovernment consistent with the objects sought to be achieved by this Act andaccordingly shall not adversely affect or interfere with the functions and powersof the Commission including but not limited to determination of the structure oftariffs for supply of electricity to various classes of consumers.
+(2) If any dispute arises between the Commission and the State Government as to whether or not a question is a matter of policy or whether apolicy direction issued by the State Government adversely affects or interfereswith the exercise of the functions of the Commission, the same shall be referred tothe Central Electricity Authority and the decision given by the Central ElectricityAuthority shall be final and binding. The Central Electricity Authority may appointone or more members of the Authority to act on behalf of the Authority in relationto any matter referred to under this sub-section.
+(3) The State Government shall be entitled to issue policy directions concerning the subsidies to be allowed for supply of electricity to anyclass or classes of persons in addition to the subsidies adjusted by the Commissionwhile regulating and approving the tariff structure provided that the StateGovernment shall contribute the amount to compensate such concerned body orunit affected by the grant of the subsidies by the State Government to the extentof the subsidies granted. The Commission shall determine the amounts and theterms and conditions on which such amounts are to be paid by the StateGovernment.
+(4) The State Government shall consult the Commission in relation to any proposed legislation or rules concerning any policy direction and shallduly take into account the recommendation by the Commission on all such matters.
+PART V TRANSCO
+13. (1) Within sixty days of the Act coming into force, the State Government shall cause Transco to be incorporated and organised under theprovisions of the Companies Act, 1956, as the Transmission Corporation of HaryanaLimited, with the principal objects of engaging in the business of procurement,transmission and supply of electric energy.
+(2) Subject to the powers of the State Government under section
+12, the Transco established by the State Government in terms of sub-section (1)shall be the principal company to undertake all planning and coordination inregard to transmission, undertaking the works connected with transmission,determining the electricity requirements in the State in coordination with theGenerating companies, State Government, the Commission, the RegionalElectricity Board and the Central Electricity Authority; the operation of the powersystem.General powers ofthe StateGovernment.
+Constitution and functions of theTransco.ELECTRICITY REFORM [1998 : Hr. Act 10
+
+(3) Transco shall own the extra high voltage transmission system,
+shall be responsible for the transmission system operation and shall operate thepower system in an efficient manner.
+(4) Transco shall undertake the functions specified in this section and such other functions as may be assigned to it by the licence to be granted to itby the Commission under this Act.
+(5) Upon the grant of licence to the Transco under clause (a) of sub-section (1) of section 15 of this Act, the Transco shall discharge such powers,duties and functions of the Haryana State Electricity Board including those underthe Indian Electricity Act, 1910 and the Electricity (Supply) Act, 1948 or therules framed thereunder as the Commission may specify in the licence and it shallbe the statutory obligation of the Transco to undertake and duly discharge thepowers, duties and functions so assigned.
+(6) Subject to sub-sections (1) and (2) and subject to the overall supervision and control of the Transco, a number of subsidiary or associatedtransmission companies may be established in the State and the Commission maygrant licences under the terms of this Act to such transmission companies, inconsultation with the Transco.
+PART VI LICENSING OF TRANSMISSION AND SUPPLY
+14. (1) No person, other than those authorised to do so by licence or by virtue of exemption under this Act or authorised to or exempted by any otherauthority under the Electricity (Supply) Act, 1948, shall engage in the State in thebusiness of—
+(a) transmitting electricity; or
+(b) supplying electricity.
+(2) Where any difference or dispute arises as to whether any person is or is not engaged or about to engage in the business of transmitting or supplyingelectricity as described in sub-section (1), the matter shall be referred to theCommission and the decision of the Commission shall be final.
+(3) The Commission shall have the power to order any unlicensed person to cease operating and disconnect its apparatus.
+(4) Notwithstanding anything contained in other provisions of this Act and until the establishment of the Commission in terms of section 3, the StateGovernment shall for the period of six months from the date, this Act comes intoforce have the power to grant provisional licences under this section having aduration not exceeding six months to any person or persons to engage in the Statein the business of transmission for supply of electricity on such terms and conditionsLicensing.ELECTRICITY REFORM 1998 : Hr. Act 10]
+
+as the State Government may determine consistent with the provision of this Act,
+subject however, to the following conditions:—
+(a) upon the establishment of the Commission, each of the provisional licences granted by the State Governmentshall be placed before the Commission and shall be deemedto constitute an application for grant of a licence by theCommission under the provisions of this Act; and
+(b) each provisional licence granted under this section shall cease to be valid and effective on the date on which theCommission communicates the decision.
+(5) The State Government shall be entitled to confer on the provisional licensees under sub-section (4) such powers, rights and authorisationas the Commission is entitled to grant to the licensees under this Act.
+15. (1) The Commission may on an application made in such form and on payment of such fee, if any, as it may prescribe, grant a licence authorizing anyperson to—
+(a) transmit electricity in a specified area of transmission;
+and/or
+(b) supply electricity in a specified area of supply.
+(2) In respect of the grant of any such licence the following provisions shall apply—
+(a) any person applying for a licence shall publish a notice of his application in such manner, and with such particularsas may be prescribed by the Commission within 14 daysafter making the application;
+(b) the Commission shall not grant a licence until—
+(i) all objections received relating to the application for the licence have been considered by theCommission; provided that no objection shall beconsidered by the Commission unless it is receivedwithin three months of the date of the firstpublication of the notice under clause (a) above;and
+(ii) in the case of an application for a licence to supply or transmit in an area which includes the whole orany part of any cantonment, aerodrome, fortress,arsenal, dockyard or camp or of any building or placein the occupation of the Central Government fordefence purposes, the Commission has ascertainedthat there is no objection to the grant of the licenceon the part of the Central Government;Grant of licencesby theCommission.ELECTRICITY REFORM [1998 : Hr. Act 10
+
+(c) where an objection is received from any local authority concerned, the Commission shall, if in its opinion theobjection is insufficient, record in writing andcommunicate to such local authority its reasons for suchopinion; and
+(d) no application for a licence shall be made by any local authority except pursuant to a resolution passed at ameeting of such authority held after one month’s previousnotice of the same specifying the purpose thereof has beengiven in the manner in which notices of meetings of suchlocal authority are usually given.
+(3) A licence may prescribe the duration, extent to which, and the terms and conditions under which the transmission or supply of energy is to bemade and contain such other conditions as the Commission may considerappropriate for achieving the purposes of the Act.
+(4) Without prejudice to the generality of sub-section (3), conditions included in a licence by virtue of that sub-section may require the licensee to—
+(a) enter into agreements on specified terms with other persons for the use of any electric lines, electrical plant(s) andassociated equipment operated by the licensee;
+(b) comply with any direction given by the Commission;(c) act in accordance with the terms of the licence;
+(d) refer all disputes arising under the licence for determination by the Commission;
+(e) furnish information, documents and details which the Commission may require for its own purpose or for thepurposes of the Central or State Government or CentralElectricity Authority;
+(f) comply with the requirements of the Indian Electricity Act, 1910 and the Electricity (Supply) Act, 1948 or rulesframed thereunder in so far as they are applicable;
+(g) undertake such functions and obligations of the Haryana State Electricity Board under the Indian Electricity Act,1910 and Electricity (Supply) Act, 1948 as theCommission may prescribe;
+(h) obtain the approval of the Commission of such things that are required under the licence conditions or fordeviation from the same;
+(i) notify the Commission of any scheme that he is proposing to undertake including the schemes in terms of theprovisions of the Electricity (Supply) Act,1948;ELECTRICITY REFORM 1998 : Hr. Act 10]
+
+(j) purchase of the power in an economical manner and under a transparent power purchase procurement process; and
+(k) supply in bulk to other licensees or to customers.
+(5) Without prejudice to the generality of sub-section (3), conditions included in a licence granted by the Commission may require the holder of sucha licence to establish a tariff or to calculate its charges from time to time inaccordance with the requirements prescribed by the Commission.
+(6) The provisions contained in the Schedule to the Indian Electricity Act, 1910 shall be deemed to be incorporated with, and to form part of,every supply licence granted under this Part save in so far as they are expresslyvaried or excepted by the supply licence and shall, subject to any such additions,variations or exceptions which the Commission is empowered to make havingregard to the purposes of the Act, apply to the undertaking authorised by thelicence in relation to its activities in the State :
+Provided that where a supply licence is granted by the Commission for the supply of energy to other licensees for distribution by them,then in so far as such licence relates to such supply, the provisions of clauses IV,V, VI, VII, VIII and XII of the said Schedule shall not be deemed to be incorporatedwithin the supply licence.
+(7) The conditions included in a licence may contain provision for the conditions to cease to have effect or be modified at such times, in such mannerand in such circumstances as may be specified in or determined by or under theconditions.
+(8) Any provisions included by virtue of sub-section (7) above in a licence shall have effect in addition to the provision made by sub-section (5) ofsection 18 and section 19 with respect to the amendment of the conditions of alicence.
+(9) If so indicated in the terms of a licence, the grant of a licence under this section to a person shall not in any way hinder or restrict the grant of alicence to another person within the same area of supply for a like purpose, thelicensee shall not claim any exclusivity.
+(10) The licence granted by the Commission in terms of this Act may provide that the licensee shall have the powers and authorities to takeappropriate actions for revenue realization, prosecution for theft, meter tampering,diversion of electricity, and all such and similar matters affecting the distributionand supply of electricity to the consumer.
+(11) The Commission shall be entitled to authorise the licensees and persons to exercise such power and authority as the licensees and personscould be given under the provisions of the Indian Electricity Act, 1910 and theElectricity (Supply) Act, 1948.ELECTRICITY REFORM [1998 : Hr. Act 10
+
+16. (1) The Commission may make regulations to grant exemption from the requirement to have a supply licence, but subject to compliance withsuch conditions, if any, as may be specified in the order:
+Provided that the Commission shall not, under any such regulation,
+grant any exemption except with the consent—
+(i) of the local authority, if any, constituted in the area where energy is to be supplied;
+(ii) in any case where energy is to be supplied in any area forming part of any cantonment, aerodrome, fortress, arsenal, dockyardor camp or any building or place in the occupation of the CentralGovernment for defence purposes, of the Central Government;
+(iii) in any area falling within the area of supply of a licensee, of that licensee:
+Provided that, except in a case falling under sub-clause (ii) no such consent shall be necessary if the Commission is satisfied that such consent hasbeen unreasonably withheld.
+(2) An exemption may be granted—
+(a) to persons of a particular category; or
+(b) to a particular person; or
+(c) for a particular period and an exemption to persons of a particular category or to a particular person shall be published in such manner as the Commission considers appropriate for bringingit to the attention of that person or persons of that category and of the public ingeneral.
+(3) The exemption granted may be revoked by the Commission at any time for reasons to be recorded in writing.
+(4) An exemption, unless previously revoked, shall continue in force for such period as may be specified in or determined by or under the exemption.
+(5) Every regulation or exemption made by the Commission under this Act shall be published in the Official Gazette.
+17. (1) It shall be the duty of the holder of a supply licence or a transmission licence in respect of a particular area to develop and maintain anefficient, coordinated and economical system of electricity supply or transmissionin the area of transmission or area of supply, as the case may be.
+(2) Each licensee and Generating Company in discharge of its duties shall comply with the provisions of the regulations framed from time totime governing the terms and conditions for the operation and maintenance ofpower system and electric supply lines.Exemptions fromthe requirement tohave a licence.
+General Duties and Powers of thelicensees.ELECTRICITY REFORM 1998 : Hr. Act 10]
+
+(3) Subject to sub-section (4), sections 12 to 19 of the Indian Electricity Act, 1910 (which relate to the carrying out of Works) shall have effectin relation to a person authorised by a licence under this Act to transmit or supplyelectricity, as if he is a licensee in that Act.
+(4) Where any of the sections mentioned in sub-section (3) above is applied to a licence holder by his licence, it shall have effect subject to suchrestrictions, exceptions and conditions as may be included in the licence.
+18. (1) The Commission may inquire into the conduct or functioning or any licensee in carrying out the obligations under the Act or rules or regulationsframed thereunder or the terms and conditions of its licence—
+(a) upon receiving a complaint from any consumer or consumer association or any trade association; or
+(b) upon a reference made to it by the State Government or by the Central Government or the Central ElectricityAuthority; or
+(c) upon receiving a complaint from any company or person involved in the generation, transmission, distribution orsupply; or
+(d) upon its own knowledge or information derived from any source.
+(2) Upon making such inquiry the Commission may, if in its opinion the public interest so requires, revoke a licence in any of the following cases,namely—
+(a) where the licensee, in the opinion of the Commission, has committed a willful or unreasonable default in doinganything required of him by or under this Act, the IndianElectricity Act, 1910, or the Electricity (Supply) Act, 1948,or rules made thereunder to the extent applicable in theState, read with the provisions of this Act;
+(b) where the licensee commits a breach of any of the terms and conditions of his licence the breach of which isexpressly declared by such licence to render it liable torevocation;
+(c) where the licensee fails within the period specified in his licence or any longer period which the Commission mayallow by order—
+(i) to show, to the satisfaction of the Commission, that he is in a position to fully and efficiently dischargethe duties and obligations imposed on him by hislicence; andRevocation oflicences.ELECTRICITY REFORM [1998 : Hr. Act 10
+
+(ii) to make the deposit or furnish the security required by his licence; and
+(d) where in the opinion of the Commission the financial position of the licensee is such that he is unable to fullyand efficiently discharge the duties and obligationsimposed on him by his licence.
+(3) Notwithstanding the provisions of sub-section (1) and (2) where in its opinion the public interest so requires, the Commission may, on the applicationor with the consent of the licensee, and if the licensee is not a local authority, afterconsulting the local authority concerned, if any, revoke a supply licence as tothe whole or any part of the area of supply upon such terms and conditions as itthink fit.
+(4) No licence shall be revoked under sub-section (2) or (3) unless the Commission has given to the licensee not less than three months’ notice inwriting, stating the grounds on which it is proposed to revoke the licence and hasconsidered any cause shown by the licensee within the period of that notice, againstthe proposed revocation and has given reasons for such revocation.
+(5) The Commission may, instead of revoking the licence, permit it to remain in force subject to such further terms and conditions as it thinks fit toimpose and any further terms or conditions so imposed shall be binding upon, andbe observed by, the licensee, and be of like force and effect as if they were containedin the licence.
+19. (1) The Commission may, where in its opinion the public interest so permits or requires, on the application of the licensee if the licensee is not alocal authority, on the application of the local authority concerned or otherwiseon its own may make such alterations and amendments to the terms and conditionsof a licence as it thinks fit taking into account the object and purposes of the Act:
+Provided that no such alterations or amendments, other than an alteration or amendment pursuant to a licence condition referred to in sub-section(7) of section 15 or sub-section (5) of section 18 shall be made except with theconsent of the licensee.
+(2) Where the licensee has made an application under subsection (1) proposing any alterations or amendments in his licence, the followingprovisions shall apply—
+(a) the licensee shall publish a notice of the application in the manner and with the particulars as may be prescribedby the Commission;
+(b) the Commission shall not make any alterations or amendments until all objections received by it withreference to the application within three months from thedate of the first publication of the notice have beenconsidered; andAmendment oflicences.ELECTRICITY REFORM 1998 : Hr. Act 10]
+
+(c) in the case of an application proposing alterations or amendments in an area of supply comprising the whole orany part of the cantonment, aerodrome, fortress, arsenal,dockyard or camp or of any building or place in theoccupation of the Central Government for defencepurposes, the Commission shall not make any alterationsor amendments except with the consent of the CentralGovernment.
+(3) Before making any alterations or amendments in a licence otherwise than on the application of the licensee, the Commission shall publishthe proposed alterations or amendments and consider all objections received by itwith reference to the proposed alterations or amendments within three monthsfrom the date of the first publication of the notice.
+20. (1) Notwithstanding the provisions of sections 6 and 7 of the Indian Electricity Act, 1910, where the Commission revokes a licence, under sub-section(2) of section 18 the following provisions shall apply:—
+(a) the Commission shall serve a notice of revocation upon the licensee and shall fix a date on which the revocationshall take effect. On and with effect from that date, or onand with effect from the date, if earlier, on which theundertaking of the licensee is sold to a purchaser in pursuance of any of the provisions of this Act all the rights,
+duties, obligations and liabilities of the licensee under thisAct shall absolutely cease and determine except for anyliabilities that have accrued to that date;
+(b) the Commission shall invite applications for acquiring the undertaking of the licensee whose licence has beenrevoked and determine terms and conditions of the sale ofthe undertaking;
+(c) the Commission may, by notice in writing, require the licensee to sell, and thereupon the licensee shall sell theundertaking to the person whose application has beenaccepted by the Commission. Such person is referred toin this section as the “purchaser”; and
+(d) the Commission may make such interim arrangement in regard to the undertaking of the licensee for maintainingthe electricity transmission and supply as may beconsidered appropriate including the appointment ofadministrators and special directors for the undertaking.
+(2) Where an undertaking is sold under sub-section (1), the purchaser shall pay to the licensee the purchase price of the undertaking determinedin accordance with the application submitted by the purchaser.Provisions whereLicence isRevoked.ELECTRICITY REFORM [1998 : Hr. Act 10
+
+(3) Where the Commission issues any notice under sub-section (1)
+requiring the licensee to sell the undertaking, it may by such notice require thelicensee to deliver, and thereupon the licensee shall deliver on a date specified inthe notice, the undertaking to the designated purchaser pending the payment ofthe purchase price of the undertaking :
+Provided that in any such case, the purchaser shall pay to the licensee interest at such percent exceeding the Reserve Bank lending rate rulingat the time of delivery of the undertaking as the Commission may decide, on thepurchase price of the undertaking for the period from the date of delivery of theundertaking to the date of payment of the purchase price.
+(4) Where before the date fixed in the notice issued under subclause (a) of sub-section (1) as the date on which the revocation of the licenceshall take effect, no notice has been issued to the licensee requiring him to sell theundertaking or where for any reason no sale of the undertaking has been effectedunder that sub-section, the State Government shall acquire the undertaking onthe date of revocation of the licence and shall pay to the licensee an amountdetermined in accordance with sub-section (1) and (2) of section 7-A of the IndianElectricity Act, 1910, as amended in the State and shall perform all the obligationsof the licensee until such time as the State Government is able to sell theundertaking to a new licensee, which it shall endeavour to do when reasonablypracticable.
+(5) The licensee shall duly implement the orders of the Commission,
+notwithstanding that the licensee may be aggrieved by the orders of the Commissionand intends to take legal action challenging the orders of the Commission.
+21. (1) No licensee or Generating Company shall, at any time, without the previous consent in writing of the Commission, acquire by purchase orotherwise the licence or the undertaking of, or associate himself with, so far as thebusiness of generating, transmitting, distribution or supply of energy is concerned,any other licensee or person generating, transmitting, supplying or intending togenerate, transmit or supply electricity:
+Provided that, before applying for such consent, the licensee shall give not less than one month’s notice of the application(a) to the Commission; and
+(b) if the licensee holds a supply licence, to every local authority both in the licensee’s area of supply and also inthe area, if any, in which such other person supplies, orintends to supply energy.
+(2) The licensee shall not, at any time, assign his licence or transfer his undertaking, or any part thereof, by sale, mortgage, lease, exchange orotherwise without the previous consent in writing of the Commission.
+(3) The provisions of section 44 of the Electricity (Supply) Act,
+shall apply except that the persons to whom the section applies shall be Restrictions onlicensees andGeneratingCompanies.ELECTRICITY REFORM 1998 : Hr. Act 10]
+
+required to obtain the sanctions and consents from the Commission, instead of such sanctions and consents to be obtained from the Board as provided under thatsection.
+(4) A holder of a supply or transmission licence may, unless expressly prohibited by the terms of its licence, enter into arrangements for thepurchase of electricity from—
+(a) the holder of a supply licence which permits the holder of such licence to supply energy to other licensees fordistribution by them; and
+(b) any person or Generating Company with the consent of the Commission.
+(5) Any agreement relating to any transaction of the nature described in sub-sections (1), (2) (3) or (4) unless made with, or subject to suchconsent as aforesaid, shall be void.
+22. Every licensee shall, unless expressly exempted by the licence,
+prepare and render to the Commission, or before the date in each year specified inthe licence, an annual statement or statements of accounts of its undertaking andof each separate business unit as specified in the licence made up to such date, insuch form and containing such particulars, as may be set out in the licence. It shallbe a term of the licence that such statements shall be published.
+PART VII REORGANISATON OF THE ELECTRICITY INDUSTRY
+23. (1) On and with effect from the date on which a transfer scheme prepared by the State Government to give effect to the object and purposes of thisAct is published or such further date as may be prescribed by the State Government,(hereinafter referred to as the effective date), any property, interest in property,rights and liabilities which immediately before the effective date belong to theBoard shall vest in the State Government on such terms as may be agreed betweenthe State Government and the Board.
+(2) Any property, interest in property, rights and liabilities vested in the State Government under sub-section (1) shall be revested by the StateGovernment in the Transco and generating company(ies) in accordance with thetransfer scheme so published alongwith such other property, interest in property,rights and liabilities of State Government as may be specified in such scheme, onsuch terms and conditions as may be agreed between the State Government andthe Transco or generating company(ies), as the case may be. The State Governmentwould consult the major lenders while finalizing the transfer scheme. The StateGovernment would continue to guarantee all the liabilities transferred to thesuccessor companies.
+Explanation: For the purposes of this chapter generating company(ies)
+shall mean the company or companies to be incorporated by the State Governmentto implement the reorganisation of the Electricity Industry in the State.Annual Accountsof licensee.
+Reorganisation of State ElectricityBoard.ELECTRICITY REFORM [1998 : Hr. Act 10
+
+(3) Such of the rights and power exercisable by the Board under the Electricity Supply Act, 1948 as the State Government may, by notification,specify shall be exercisable by the Transco or generating company(ies), as thecase may be, for the purpose of discharging the functions and duties with which itis charged.
+(4) Notwithstanding anything in this section, where
+(a) the transfer scheme involves the transfer of any property or rights to any person or undertaking not wholly ownedby the State Government, the scheme shall give effect tothe transfer only for fair value to be paid by the transfereeto the State Government.
+(b) a transaction of any description is effected in pursuance of a transfer scheme, it shall be binding on all personsincluding third parties, even if such persons third partieshave not consented to it.
+(5) The State Government may, after consulting the Transco (the
+“transferor licensee”), or generating company(ies), as the case may be, requirethem to draw up a transfer scheme to vest in a further licensee (the “transfereelicensee”) or any generating companies, any property, interest in property, rightsand liabilities which have been vested in the transferor licensee or generatingcompanies, as the case may be, under this section.
+(6) A transfer scheme may:—
+(a) define the property, interest in property, rights and liabilities to be allocated:—
+(i) by specifying or describing the property, rights and liabilities in question;
+(ii) by referring to all the property, interest in property,
+rights and liabilities comprised in a specified part ofthe transferor’s undertaking; or
+(iii) partly in the one way and partly in the other;(iv) provide that in case of transfer scheme made for distribution of the property, interest in property,rights and liabilities could be allocated either to awholly State owned undertaking or a Joint VentureCompany.
+(b) provide that any rights or liabilities specified or described in the scheme shall be enforceable by or against thetransferor or the transferee;
+(c) impose on any licensee an obligation to enter into such written agreements with, or execute such other instrumentsELECTRICITY REFORM 1998 : Hr. Act 10]
+
+in favour of, any other subsequent licensee as may be specified in the scheme; and
+(d) make such supplemental, incidental and consequential provisions as the transferor licensee considers appropriateincluding provision specifying the order in which anytransfer or transaction is to be regarded as taking effect.
+(7) All debts and obligations incurred, all contracts entered into and all matters and things engaged to be done by, with or for the Board, or theTransco or generating company(ies) before a transfer scheme becomes effectiveshall, to the extent specified in the relevant transfer scheme be deemed to havebeen incurred, entered into or done by with or for the State Government or thetransferee and all suits or other legal proceedings instituted by or against the Boardor transferor, as the case may be, may be continued or instituted by or against theState Government or concerned transferee, as the case may be.
+(8) In the event that a licensee is required to vest any part of its undertaking in another licensee pursuant to sub-section (5), the Commissionshall amend the transferee licensee’s in accordance with section 19 or revoke itslicence in accordance with section 18.
+(9) The Board shall cease to be charged with, and shall not perform,
+the functions and duties specified in sub-section (3) with regard to transfers madeon and after the effective date.
+(10) The exercise by a licensee of any of the Board’s rights and powers may be made on such conditions as shall be specified in the transfer schemeincluding a condition that they shall be exercised by the licensee only with theapproval of the Commission.
+24. (1) The State Government may by a transfer scheme provide for the transfer of the personnel to Transco, generating company(ies) and distributioncompanies; on the vesting of properties, rights and liabilities in the Transco orgenerating company(ies) under section 23.
+(2) Upon such transfer scheme the personnel, shall hold office or service under Transco or generating company(ies), as the case may be, on termsand conditions that may be determined in accordance with the transfer scheme:
+Provided that such terms and conditions on the transfer shall not in any way be less favourable than these which would have been applicable tothem if there had been no such vesting.
+(3) Notwithstanding anything contained in the Industrial Disputes Act, 1947 or any other law as is applicable, and except for the provisions made inthis Act, the transfer of the employment of the personnel referred to in sub-section(1) shall not entitle such employees to any compensation or damages under thisAct, or any other Central or State law or under the general law, save as provided inthe transfer scheme.
+Provisions relatingto Personnel.ELECTRICITY REFORM [1998 : Hr. Act 10
+
+Explanation:- For the purposes of this section as well as the transfer scheme the term “personnel” shall mean all persons who on the effective date are theemployees of the Board or the employees of the State Government on deputationor assignment to the Board and other persons assigned for the electricity generation,transmission, distribution and supply related work as may be notified by the StateGovernment as forming part of the personnel under this section notwithstandingthat they have been employed by other departments and organisations.
+25. (1) The State Government may provide that the transfers in terms of section 23 and 24 shall be provisional for a period of sixty months from theeffective date and reserve the right to alter, vary, modify, add or otherwise changethe terms in such manner as the State Government may consider appropriate.
+(2) At any time before the end of the period of sixty months commencing on the effective date, the Transco or generating company(ies) towhom property, interests in property, rights, liabilities and personnel have beentransferred, may with the consent of the State Government, draw up a transferscheme to vest some or all of the property, rights, liabilities and personnel inanother licensee, or generating companies subject to the consents of such otherlicensee of generating companies to such vesting and any such transfer schemeshall take effect as if it were a transfer scheme under section 23 and 24.
+PART VIII TARIFFS
+26. (1) The holder of each licence granted under this Act shall observe the methodologies and procedures specified by the Commission from time totime in calculating the expected revenue from charges which it is permitted torecover pursuant to the terms of its licence and in designing tariffs to collect thoserevenues.
+(2) The Commission shall (subject to the provisions of sub-section
+(3)) be entitled to prescribe the terms and conditions for the determination of thelicensees revenue and tariffs by regulations duly published in the Official Gazetteand in such other manner as the Commission considers appropriate provided thatin doing so the Commission shall be bound by the following parameters:—
+(a) the financial principles and their applications provided in the Sixth Schedule to the Electricity (Supply) Act, 1948read with sections 57 and 57-A of the said Act;
+(b) the factors which would encourage efficiency, economic use of the resources, good performance, optimuminvestments and other matters which the Commissionconsiders appropriate keeping in view the salient objectand purposes of the provisions of this Act; and
+(c) the interest of the consumer including that the consumers are not exploited because of any monopolistic or scarcityVariation ofTransfers byAgreement.
+Licensee’s Revenues andTariffs.ELECTRICITY REFORM 1998 : Hr. Act 10]
+
+situation and at the same time the consumers pay for the use of the electricity in a reasonable manner to maintainthe electricity generation, transmission, distribution andsupply on commercial principles.
+(3) Where the Commission, departs from factors specified in the Sixth Schedule of the Electricity (Supply) Act, 1948 while determining thelicensees’ revenues and tariffs it shall record the reasons thereof in writing.
+(4) Any methodology or procedure specified by the Commission under sub-section (1), (2) and (3) above shall be to ensure that the objects andpurposes of the Act are duly achieved.
+(5) Every licensee shall provide to the Commission at least 3 months before the ensuing financial year full details of its calculation for that financialyear of the expected aggregate revenue from charges which it believes it is permittedto recover pursuant to the terms of its licence and thereafter it shall furnish suchfurther information as the Commission may reasonably require to assess thelicensee’s calculation. Within 90 days of the date on which the licensee hasfurnished all the information that the Commission requires, the Commission shallnotify the licensee either:—
+(a) that it accepts the licensee’s calculation; or
+(b) that it does not consider the licensee’s calculation to be in accordance with the methodology or procedure in itslicence, and such notice to the licensee shall:—
+(i) specify fully the reasons why the Commission considers that the licensee’s calculation does notcomply with the methodology or proceduresspecified in its licence or is in any way incorrect;and
+(ii) propose a modification or an alternative calculation of the expected revenue from charges, which thelicensee shall accept.
+(6) Each holder of a supply licence shall publish in the daily newspaper having circulation in the area of supply and make available to thepublic on request the tariff or tariffs for the supply of electricity within its licensedarea and such tariff or tariffs shall take effect only after seven days from the date ofsuch publication. Any tariff implemented under this section—
+(a) shall not show undue preference to any consumer of electricity, but may differentiate according to theconsumer’s load factor or power factor, the consumer’stotal consumption of energy during any specified period,or the time at which supply is required;
+(b) shall be just and reasonable and be such as to promote economic efficiency in the supply and consumption ofelectricity; andELECTRICITY REFORM [1998 : Hr. Act 10
+
+(c) shall satisfy all other relevant provisions of this Act and the conditions of the relevant licence.
+(7) No tariff or part of any tariff required by sub-section (6) may be amended more frequently than once in any financial year except in respect of anychanges expressly permitted under the terms of any fuel surcharge formulaprescribed. At least three months before the proposed date for implementation ofany tariff or an amendment to a tariff the licensee shall provide details of theproposed tariff or amendment to a tariff to the Commission, together with suchfurther information as the Commission may require to determine whether the tariffor amended tariff would satisfy the provisions of sub-section (6). If the Commissionconsiders that the proposed tariff or amended tariff of a licensee does not satisfyany of the provisions of sub-section (6), it shall, within 60 days for receipt of allthe information which it required, and after consultation with the CommissionAdvisory Committee and the licensee, notify the licensee that the proposed tariffor amended tariff is unacceptable to the Commission and it shall provide to thelicensee an alternative tariff or amended tariff which shall be implemented by thelicensee. The licensee shall not amend any tariff unless the amendment has beenapproved by the Commission.
+(8) Notwithstanding anything contained in sections 57-A and
+57-B of the Electricity (Supply) Act, 1948, no Rating Committee shall beconstituted after the date of this enactment and the Commission shall secure thatlicensees comply with the provisions of their licences regarding their charges for the sale of electricity (both wholesale and retail) and for the connection to and use of their assets or systems in accordance with the provisions of this Act.
+(9) In this section:–
+(a) “the expected revenue from charges” means the total revenue which a licensee is expected to recover fromcharges for the level of forecast supply used in thedetermination under sub-section (5) above in any financialyear in respect of goods or services supplied to customerspursuant to a licensed activity; and
+(b) “tariff” means a schedule of standard prices or charges for specified services which are applicable to all suchspecified services provided to the type or types ofcustomers specified in the tariff.
+27. (1) The State Government may, with the approval of the State Legislature, from time to time make subventions to any licensee for the purposeof this Act or the Electricity (Supply) Act, 1948 for such amounts as may berecommended by the Commission and on such terms and conditions as the StateGovernment may determine.
+(2) The State Government may from time to time advance loans to any licensee or Generating Company which for the time being is wholly or partly Finances oflicensees.ELECTRICITY REFORM 1998 : Hr. Act 10]
+
+owned by the State Government on such terms and conditions, not inconsistent with the provisions of this Act or the Electricity (Supply) Act, 1948, as the StateGovernment may determine.
+(3) The State Government may guarantee in such manner as it thinks fit the repayment of the principal or the payment of interest (or both) on any loanproposed to be raised by any licensee or Generating Company which is for thetime being wholly or partly owned by the State Government or the discharge ofany other financial obligation of any licensee or Generating Company:
+Provided that the State Government shall, so long as such guarantees are in force, lay before the State Legislature during the budget session in everyyear a statement of the guarantees, if any, given during the current financial yearof the State and an up-to-date account of the total sums, if any, which have beenpaid out of State revenues in each case by reason of any such guarantees or paidinto State revenues towards repayment of any money so paid out.
+PART IX COMMISSION’S POWER TO PASS ORDERS AND ENFORCE DECISIONS
+28. (1) Where the Commission is satisfied that a licensee is contravening, or is likely to contravene any relevant condition or requirement, itshall by final order under section 29 and, if it thinks it appropriate in accordance with sub-section (2) by interim order under this section, issue such directions as it deems proper for securing compliance.
+(2) In determining whether it is appropriate that an interim order be made, the Commission shall have regard, in particular to—
+(a) the extent to which the contravention or likely contravention by the licensee will affect the achievementof the objects and purposes of this Act;
+(b) the extent to which any person is likely to sustain loss or damage in consequence of anything which, is likely to bedone, or omitted to be done, in contravention of therelevant condition or requirement, before a final ordercan be made; and
+(c) the extent to which (having regard to the following provisions of this section) there is any other availableremedy in respect of the alleged contravention of a relevantcondition or requirement.
+(3) If the Commission proposes to make an interim order, it shall give notice to the licensee—
+(a) stating that it proposes to make the order;Interim Orders for SecuringCompliance.ELECTRICITY REFORM [1998 : Hr. Act 10
+
+(b) setting out:—
+(i) the relevant conditions or requirement which the proposed order is intended to secure compliance;
+(ii) the acts or omissions which, in its opinion constitute contravention of that condition or requirement;
+(iii) the other facts which in its opinion, justify the making of the proposed order; and
+(iv) the effects of the proposed order.
+(c) specifying the period (being not less than 5 days from the date of notice) within which the licensee may make representations or objectionsto the proposed order.
+(4) Subject to sub-section (5), having considered any representations or objections from the licensee pursuant to sub-section (3) (c), the Commissionmay make an interim order (which may be modified from the proposed orderfollowing the licensee’s representations or objections) at any time after expiry ofthe period referred to in sub-section (3) (c), if—
+(a) the Commission has good reason to believe that the licensee to whom the order relates has contravened or iscontravening or is likely to contravene any relevantcondition or requirement; and
+(b) the provisions made by the order are requisite for the purpose of securing compliance with that condition orrequirement.
+(5) The Commission may not make an interim order if it is satisfied that the licensee has agreed to take and is taking all such steps as the Commissionconsiders that the licensee should take to secure or facilitate compliance with thecondition or requirement in question.
+(6) An interim order—
+(a) shall require the licensee to whom it relates (according to the circumstances of the case) to do, or not to do, suchthings as are specified in the order or are of a descriptionso specified;
+(b) shall take effect from such time, being the earliest practicable time, as is determined by the order; and
+(c) may be revoked, modified or rescinded at any time by the Commission, but in any event shall cease to have effect atthe end of such period as is stated in the order unless theCommission is at that time following the procedure setout in section 29 to declare the interim order to be afinal order.ELECTRICITY REFORM 1998 : Hr. Act 10]
+
+(7) As soon as practicable after making an interim order, the Commission shall—
+(a) serve a copy of the order on the licensee to whom the order relates;
+(b) publish the order in such manner as it considers appropriate for the purpose of bringing it to the attention of personslikely to be affected by it; and
+(c) commence proceedings to declare the interim orders to be a final order in accordance with section 29.
+29. (1) If the Commission proposes to make a final order or to declare an interim order to be a final order, the Commission shall give notice—
+(a) stating that it proposes to make the final order or to declare the interim order to be a final order;
+(b) setting out the information referred to in sub section (3) (b) of section 28 in respect of the proposedfinal order; and
+(c) specifying the period (being not less than 60 days from the date of publication of the notice) within whichrepresentations or objections to the proposed order maybe made;and shall consider any representations orobjections that are duly made and not withdrawn. TheCommission shall publish notice of such representationsor objections and specify a period (being not less than 30days from the date of publication of the notice) withinwhich further representations or objections may be made.
+(2) A notice under sub-section (1) above shall be given—
+(a) by publishing the notice in such manner as the Commission considers appropriate for the purpose of bringing thematters to which the notice relates to the attention ofpersons likely to be affected by them; and
+(b) by serving a copy of the notice, and a copy of the proposed final order on the licensee to whom the order relates.
+(3) The Commission shall not modify the proposed final order as a result of any representations or objections received following publications of thenotice referred to in sub-section (1), except—
+(a) with the consent to the modification of the licensee to whom the proposed final order relates; and
+(b) after complying with the requirements of sub-section (4)
+below.Final Orders forSecuringCompliance.ELECTRICITY REFORM [1998 : Hr. Act 10
+
+(4) The requirements mentioned in sub-section (3) above are that the Commission shall:—
+(a) serve on the licensee to whom the proposed final order relates such notice as appears to the Commission requisiteof its proposal to modify the proposed final order, togetherwith details of such modifications;
+(b) in that notice specify the period (being not less than 30
+days from the date of the service of the notice) withinwhich representations or objections to the proposedmodifications can be made; and
+(c) consider any representations or objections which are duly made and not withdrawn within 10 days.
+(5) The provisions of clauses (a) and (b) of sub-section (6) of section
+shall apply to final orders.
+(6) As soon as practicable after making a final order, the Commission shall with respect to the final order, follow the procedure set out inclauses (a) and (b) of sub-section (7) of section 28.
+(7) The Commission may revoke a final order at any time, but before revoking a final order the Commission shall give notice:—
+(a) stating that it proposes to revoke the order and setting out its effect; and
+(b) specifying the period (being not less than 30 days from the date of delivery of the notice) within whichrepresentations or objections to the proposed publicationmay be made, and shall consider any representations orobjections which are duly made and not withdrawn within10 days.
+(8) If, after giving a notice under sub-section (7) above, the Commission decides not to revoke the final order to which the notice relates, itshall give notice of its decision to the concerned persons.
+(9) A notice under sub-section (7) or (8) above shall be given by the procedure set out in clauses (a) and (b) of sub-section (7) of section 28.
+30. (1) Without prejudice to section 46 of this Act, all orders and directions, interim or final, passed by the Commission shall be enforceable in lawas if it is a decree passed by a Civil Court.
+(2) The Commission shall be entitled to take such assistance of the police and other authorities in the State required to effectively enforce the ordersand directions given by the Commission.
+Effect andenforcement ofInterim and FinalOrders andEmergencyProvision.ELECTRICITY REFORM 1998 : Hr. Act 10]
+
+(3) The Commission shall be entitled to give directions for vesting of the management and control of any of the undertaking of the licensee with theassets, interests and rights of the undertaking pending any inquiry and passing ofinterim or final orders in the matter, if the Commission considers, taking intoaccount the object and purposes of this Act and the need to maintain continuedsupply of electricity in an efficient and safe manner to the consumer, it is imminentto pass such orders or directions. Such directions or orders shall not be questionedon the ground that no prior notice of or hearing on the intention to pass the orderor direction was given to the licensee. The Commission shall however giveopportunity to the licensee and hear the licensee before passing further orders interms of sections 28 and 29 of this Act.
+31. (1) The Commission shall be entitled to impose such fines and charges as may be prescribed by the Commission in the regulations for noncompliance or violation on the part of the Generating Companies, licensees orother persons, of the provisions or requirements of this Act or rules and regulationsframed thereunder and directions or orders of the Commission made from time totime. The fines which the Commission shall be entitled to impose may extend upto Rs. 1,00,000 (one lakh) for an act of non compliance or violations and a furtheramount not exceeding Rs. 6,000 (six thousand) for every day during which thenon-compliance or violation continues.
+(2) The Commission shall, while making an interim or final orders under this Part, shall be entitled to direct compensation to be paid by the personguilty of violation or non compliance as provided in sub-section (1) to the personor persons affected by such violation or non compliance.
+(3) The fines, charges and compensation which may be imposed by the Commission under this section shall be in addition to and not in derogationof any other liability, which the person guilty of violation or non compliance,may have incurred.
+31A. (1) The generating companies shall comply with the provisions of the regulations framed by the Commission from time to time governing the termsand conditions for the operation and maintenance of the power system and electricsupply lines.
+(2) After the Act comes into force all assets, properties, interests in property and other facilities forming part of or used in connection withthe electricity industry in the State of Haryana, established in the State whetherbefore or after the commencement of the Act, shall be deemed to be specialproperties and the same shall be subject to the regulations to be framed by theCommission.Fines and Charges.
+General Control of the Commission.ELECTRICITY REFORM [1998 : Hr. Act 10
+
+PART X ADVISORY COMMITTEE, CONSUMER CONSULTATION, ETC.
+32. (1) The Commission shall constitute a committee to be known as the Commission Advisory Committee, in consultation with the State Governmentwhich shall consist of such number of persons being not less than 9 and not morethan 15 as the Commission may appoint after consultation with such representativesor bodies representatives of the following interests as the Commission thinks fit,that is to say, holders of supply licences in the State, holders of transmission licencesin the State; generating companies operating in the State, commerce, industry,transport, agriculture, labor employed in the electricity supply industry andconsumers of electricity.
+(2) The Chairman and members of the Commission shall be exofficio Chairman and members of the Commission Advisory Committee.
+(3) The Commission Advisory Committee shall meet at least once in every 3 months.
+(4) The functions of the Commission Advisory Committee shall be as follows:—
+(a) to advise the Commission on major questions of policy relating to the electricity industry in the State; and
+(b) to advise the Commission on any matters which the Commission may put before it, including matters relatingto the quality, continuity and extent of service providedby licensees and compliance by licensees with theconditions and requirements of their licences.
+33. (1) The Commission may, after consultation with (a) holders of supply licences, (b) other persons or bodies appearing to the Commission to berepresentative of persons and categories of person likely to be affected and (c) theCommission Advisory Committee, frame regulations prescribing:—
+(a) the circumstances in which such licensees are to inform customers of their rights;
+(b) the standards of performance in relation to any duty arising under sub-section (a) above or otherwise inconnection with the electricity supply to the consumer;and
+(c) the circumstances in which licensees are to be exempted from any requirements of the regulations or this sectionand may make different provision for different licensees.
+(2) Nothing in this or other provisions of this Act shall in any way prejudice or affect the rights and privileges of the Consumers under other lawsincluding but not limited to the Consumer Protection Act, 1986.CommissionAdvisoryCommittee.
+Consumer Protection;Standards ofPerformance.ELECTRICITY REFORM 1998 : Hr. Act 10]
+
+34. (1) The Commission may, after consultation with the licensees,
+the Commission Advisory Committee, and with persons or bodies appearing to itto be representative of persons likely to be affected, from time to time:—
+(a) determine such standards of overall performance in connection with the provision of electricity supply servicesand in connection with the promotion of the efficient useof electricity by consumers as, in its opinion, is economicand ought to be achieved by such licensees; and
+(b) arrange for the publication, in such form and in such manner as it considers appropriate, of the standards sodetermined.
+(2) Different standards may be determined under this section for different licensees.
+35. (1) The Commission shall from time to time collect information with respect to—
+(a) the fines or penalties levied on licensees under this Act;
+(b) the levels of overall performance achieved by such licensees in connection with the transmission and provisionof electricity supply services; and
+(c) the levels of performance achieved by such licensees in connection with the promotion of the efficient use ofelectricity by consumers.
+(2) On or before such date in each year as may be specified in a direction given by the Commission, each licensee shall furnish to the Commissionthe following information:—
+(a) with respect to each standard prescribed the number of cases in which a penalty was levied and the aggregateamount of value of those penalties; and
+(b) with respect to each standard determined such information with respect to the level of performance achieved by thelicensee as may be so specified.
+(3) The Commission shall, at least once in every year, arrange for the publication, in such form and in such manner as it considers appropriate, ofsuch of the information collected by or furnished to it under this section as mayappear to the Commission to be so required.
+36. (1) Subject to the provisions of this Act, no confidential information with respect to any particular business which:—
+(a) has been obtained by the Commission under or by virtue of any of the provisions of this Act; andElectricity Supply;OverallPerformanceStandards.
+Information with respect to Levelsof Performance.
+Restriction on Disclosure ofInformation.ELECTRICITY REFORM [1998 : Hr. Act 10
+
+(b) relates to the affairs of any individual or to any particular business;
+shall during the lifetime of that individual or for so long as that particular business continues to be carried on, be disclosed by the Commission without the consent ofthat individual or the person for the time being carrying on that business.
+(2) The restriction contained in sub-section (1) above shall not apply to any disclosure of information which is made:—
+(a) for the purpose of facilitating the carrying out by the State Government of any of its functions under a statute;
+(b) for the purpose of facilitating the carrying out by the Central Government of any of its duties or functions underthis Act or any Central legislation;
+(c) for the purpose of facilitating the carrying out by the Accountant General, Haryana of his duties and functionsunder this Act;
+(d) for the purpose of enabling or assisting any competent person to carry out its functions under the enactmentrelating to insolvency;
+(e) in connection with the investigation of any criminal offence or for the purposes of any criminalproceedings; or
+(f) for the purpose of any civil proceedings brought under or by virtue of this Act or any other State or Central legislationto which the information is directly relevant.
+(3) The restrictions contained in sub-section (1) above do not apply to the disclosure of any information which is otherwise in the public domain.
+PART XI ARBITRATION AND APPEALS
+37. (1) Notwithstanding anything contained in the Arbitration and Conciliation Act, 1996 (No. 26 of 1996), any dispute arising between licensees orin respect of matters provided under section 33 shall be referred to the Commission.The Commission may proceed to act as arbitrator or nominate arbitrator(s) toadjudicate and settle such dispute. The practice or procedure to be followed inconnection with any such adjudication and settlement shall be such as may beprescribed by regulations.
+(2) Where the award is made by the arbitrator appointed by the Commission it shall be filed before the Commission and the Commission shall beentitled to pass appropriate orders on the award including, orders to:—
+(a) confirm and enforce the award;Arbitration by the Commission.ELECTRICITY REFORM 1998 : Hr. Act 10]
+
+(b) set aside or modify the award; or
+(c) remit the award for reconsideration by the arbitrator.
+(3) The award given by the Commission under sub-section (1) or the order passed by the Commission under sub-section (2) shall be a decision ororder of the Commission and shall be appealable as provided in this Act.
+(4) An award made or an order passed by the Commission under sub-section (2) shall be enforceable as if it were a decree of the Civil Court.
+38. Notwithstanding the provisions of section 36(2), Indian Electricity Act, 1910 in the absence of any express provision to the contrary in the IndianElectricity Act, 1910 or the Electricity (Supply) Act, 1948 or any rule madethereunder, an appeal shall lie from the decision of an Electrical Inspector (otherthan an Inspector of the Central Government or the Central Electricity Authority)to the Commission or to an arbitrator to be appointed by the Commission in termsof section 37.
+39. A person aggrieved by any decision or order of the Commission passed under this Act may file an appeal to the High Court of Punjab and Haryanawithin 90 days from the date of communication of the decision or order of theCommission to him, on questions of law arising out of such order:
+Provided that the High Court may, if it is satisfied that the appellant was prevented by sufficient cause from filing the appeal within the said period,allow it to be filed within a further period not exceeding 60 days.
+PART XII OFFENCES AND PENALTIES
+40. Whoever in contravention of the provisions of this Act or the regulations framed under this Act or of the provisions of the Indian ElectricityAct, 1910 or the Electricity (Supply) Act, 1948 or the rules framed under the saidActs, engages in the business of transmission or supply or use of energy, shall bepunishable with imprisonment which may extend to 2 years or with penalty byway of fine which may extend to Rs. 1,00,000 (one lakh) or both and a furtherpenalty which may extend to Rs. 6,000 (six thousand) for each day after the firstduring which the offence continues.
+41. If any licensee or other person refuses or fails without reasonable excuse to comply with or give effect to, any direction, order or requirement madeunder any of the provisions of this Act he shall be punishable with imprisonmentwhich may extend to 2 years or with penalty by way of fine which may extend toRs. 1,00,000 (one lakh) or both and a further penalty which may extend toRs. 4,000 (four thousand) for each day after the first during which the offencecontinues.Appeals fromdecisions ofElectricalInspector.
+Appeals against the orders of theCommission.
+Penalty for contravention ofsection 14.
+Penalties for contravention ofother provisions.ELECTRICITY REFORM [1998 : Hr. Act 10
+
+42. (1) Where an offence under this Act has been committed by a company, every person who, at the time the offence was committed, was inchargeof, and was responsible to the company for, the conduct of the business of thecompany, as well as the company, shall be deemed to be guilty of the offence andshall be liable to be proceeded against and published accordingly:
+Provided that nothing contained in this sub-section shall render any such person liable to any punishment if he proves that the offence was committedwithout his knowledge or that he had exercised all due diligence to prevent thecommission of such offence.
+(2) Notwithstanding anything contained in sub-section (1), wherein an offence under this Act, has been committed by a company and it is proved thatthe offence has been committed with the consent or connivance of, or is attributableto any neglect on the part of, any director, manager, secretary or other officer ofthe company, such director, manager, secretary or other officer shall also be deemedto be guilty of that offence and shall be liable to be proceeded against and punishedaccordingly.
+For the purposes of this section—
+(a) “company” means a body corporate and includes a firm or other association of individuals; and
+(b) “director” in relation to a firm, means a partner in the firm.
+43. The Commission may for reasons to be recorded in writing either before or after the institution of proceedings compound any offence relating tocontravention of any order made by it.
+44. (1) No Court shall take cognizance of any offence punishable under this Act except upon a complaint in writing made by an officer of the Commission,generally or specially authorised in this behalf by the Commission and no Courtother than that of a Metropolitan Magistrate or a Judicial Magistrate of FirstClass or a Court superior thereto shall try any such offence.
+(2) Notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974) the Court may, if he sees reason so to do, dispensewith the personal attendance of the officer of the Commission filing the complaint.
+45. The proceedings and actions under this Act against a person contravening the provisions of the Act or orders passed by the Commission shallbe in addition to and without prejudice to actions that may be initiated under otherActs including and in particular under the Indian Electricity Act, 1910 and theElectricity (Supply) Act, 1948.Offences byCompanies.
+Power to compoundoffences.
+Cognizance of offences.
+Penalties and Proceedings not toprejudice otheractions.ELECTRICITY REFORM 1998 : Hr. Act 10]
+
+PART XIII MISCELLANEOUS
+46. The Commission shall be entitled to recover all sums due to it under this Act, whether by way of licence, fees or fines and charges, in accordance withthe provisions of the Haryana Govt. Electrical Undertaking (Dues Recovery) Act,1970, as if any such sum were a public demand as defined in that Act and handover the amount due to the person or authority concerned.
+47. The Commission or Court imposing the fine and charges under this Act may direct that the whole or any part thereof shall be applied in or towardspayment of the costs of the proceedings.
+48. The licensee, Generating Companies and others on whom the fines,
+charges, penalties etc. are imposed under this Act shall not, directly or indirectly,pass the same to the consumers in the form of tariff or charges payable.
+49. No suit or legal proceedings shall lie against the Commission or the Chairman or other members of the Commission or the staff or representatives ofthe Commission in respect of anything which is in good faith done or intended tobe done under this Act or any rule or regulations or order made thereunder.
+50. No order or proposal made under this Act or rules or regulations framed under the Act shall be appealable except as provided in the Act and noCivil Court including under the Arbitration & Conciliation Act, 1996 shall havejurisdiction in respect of any matter which the Commission or the AppellateAuthority under the Act is empowered by or under this Act.
+51. (1) If any difficulty arises in giving effect to the provisions of this Act or the rules, regulations, scheme or orders made thereunder, the StateGovernment may by order published in the Official Gazette, make such provision,not inconsistent with the provisions of this Act as appear to it to be necessary orexpedient for removing the difficulty.
+(2) Every order made under this section shall, as soon as may be after it is made, be laid before the State Legislature.
+52. All proceedings before the Commission shall be deemed to be judicial proceeding within the meaning of sections 193, 219 and 228 of the Indian PenalCode (45 of 1860) and the Commission shall be deemed to be a Civil Court for thepurposes of section 195 and Chapter XXVI of the Code of Criminal Procedure,1973 (Act 2 of 1974.)
+53. The Chairman, other members and officers and other employees of the Commission appointed for carrying out the objects and purposes of this Actshall be deemed to be public servants within the meaning of section 21 of theIndian Penal Code.Recovery of Fees,Fines and Charges.
+Application of fine and charges.
+No part of the fines or penaltiesimposed to bepassed on.
+Protection of action taken ingood faith.
+Bar of Jurisdiction.
+Power to remove difficulties.
+Proceedings beforethe Commission tobe judicialproceedings.
+Members and staff of Commission tobe public servants.ELECTRICITY REFORM [1998 : Hr. Act 10
+
+54. (1) The Commission may, make regulation by notification in the Official Gazette, for the proper performance of its functions under this Act.
+(2) In particular, and without prejudice to the generality of the foregoing provisions and matters specifically provided for in this Act, suchregulations may provide for all or any of the following matters, namely:—
+(a) the administration of the affairs of the Commission including the exercise of its administrative, quasi-judicialand judicial powers including arbitration and procedure,summoning and holding of the meeting of theCommission, the times and places at which such meetingsshall be held, the conduct of the business thereof;
+(b) the duties of the Secretary, officers and employees of the Commission, their salaries, allowances and conditions ofservice;
+(c) determination of the functions to be assigned to licensees and others involved in the generation, purchase,transmission, distribution and supply, the manner in whichsuch functions shall be discharged and the procedure andcode to be adopted in regard to power system and electricsupply lines;
+(d) the procedure for licensing of transmission and supply,
+the conditions for the grant of licenses and particulars,details and documents to be made available by the personsapplying for the licence, the standard and generalconditions subject to which the licence shall be granted,the exemption from grant of licence, revocation andamendment and effect thereof, of the licence, and allmatters related to the above;
+(e) the duties, powers, rights and obligations of the licensee;
+(f) the particulars to be furnished, the collection of information, details, particulars, documents, accounts,books, etc. from or of the persons involved in thegeneration, transmission, distribution, supply and use ofelectricity, the form and manner in which the same are tobe furnished and enforcing and compelling the productionof the same;
+(g) method and manner of determination of licensee’s revenues, tariff fixation, the matters to be considered insuch determination and fixation;
+(h) the constitution of the Commission Advisory Committee;Power to make regulations.ELECTRICITY REFORM 1998 : Hr. Act 10]
+
+(i) the determination of the standard of performance of the persons involved in the generation, transmission,distribution and supply of electricity in the State;
+(j) the amount of fines and penalties to be imposed for violation of provisions of this Act including the methodand manner of imposition of fines and penalties andcollection of the same;
+(k) to prescribe the form and manner in which the accounts of the Commission shall be maintained; and
+(l) to regulate the properties, assets and interest in the properties used for or in connection with the electricityindustry in the state.
+55. (1) The State Government may, by notification make rules to carry out its functions under the provisions of the Act.
+(2) In particular, and without prejudice to the generality of the foregoing power and matters specifically provided for in this Act, such rule mayprovide for all or any of the following matters, namely—
+(a) the procedure to be adopted by the selection committee for discharge of functions under the Act;
+(b) the preparation and implementation of the transfer scheme,
+the transfer of assets, liabilities and personnel to Generating Companies, licensees and others in the State;and
+(c) the financing, funding giving of guarantee etc., to the persons involved in the generation, transmission,distribution and supply of electricity in the State.
+(3) Every rule made under this section shall be laid, as soon as may be after it is made, before the State Legislature while it is in session, for a totalperiod of thirty days and if before the expiry of the above period the StateLegislature agrees in making any modification in the rule, the rule shall thereafterhave the effect only in such modified form, however that any such modificationshall be without prejudice to the validity of anything previously done under thatrule.
+PART XIV EFFECT ON EXISTING CENTRAL LEGISLATION
+56. (1) Except as provided in section 57 of this Act, the provisions of this Act, notwithstanding that the same are inconsistent with or contrary to theprovisions of the Indian Electricity Act, 1910, or the Electricity (Supply) Act,1948 shall prevail in the manner and to the extent provided in sub-section (3).
+(2) Subject to sub-section (1) in respect of all matters in the Indian Electricity Act, 1910 and the Electricity (Supply) Act, 1948 with which HaryanaPower to makeRules.
+Effect of the Act on the IndianElectricity Act,1910 and theElectricity(Supply) Act,1948.ELECTRICITY REFORM [1998 : Hr. Act 10
+
+State Electricity Board has been concerned or dealing with, upon the constitution of the Commission the functions of the Board shall be discharged by theCommission and the Transco, provided however:—
+(a) the State Government shall be entitled to issue all policy directives and undertake overall planning and coordinationas specified in section 12 of this Act and to this extent thepowers and functions of the Haryana State ElectricityBoard as per the provisions of the Indian Electricity Act,1910 and the Electricity (Supply) Act, 1948 or rulesthereunder shall vest in the State Government and the StateGovernment shall coordinate and deal with the CentralGovernment and the Central Electricity Authority;
+(b) in respect of such matters which the Commission directs in terms of a general or special order, or in the regulationsor in the licence as the case may be the GeneratingCompany or Companies, the licensees or other bodycorporate as may be designated by the Commission shalldischarge the functions of the Board under the IndianElectricity Act, 1910 and the Electricity (Supply) Act, 1948to the extent directed by the Commission or specified inlicences.
+(3) Subject to sub-section (1) and (2) of this section, upon the establishment of the Commission the provisions of the Indian Electricity Act,1910 and the Electricity (Supply) Act, 1948 shall, in so far as the State is concerned,shall be read subject to the following modifications and reservations:—
+INDIAN ELECTRICITY ACT, 1910
+(i) All references to State Electricity Board in the Indian Electricity Act,
+in so far as the State is concerned shall be read as reference tothe Haryana Electricity Regulatory Commission or Transco or otherlicensees or wherever it relates to general policy matters of the StateGovernment.
+(ii) In respect of matters provided in sections 3 to 11, 28, 36(2), 49-A,
+and 50 & 51 of the Indian Electricity Act, 1910, to the extent this Acthas made specific provisions, the provisions of the Indian ElectricityAct, 1910 shall not apply in the State.
+(iii) The provisions of all other sections of the Indian Electricity Act,
+shall apply except that:—
+(a) the term “licence” “licensee” “license holder” shall have the meaning as defined under this Act and the licences shall beconstrued as having been issued under this Act;ELECTRICITY REFORM 1998 : Hr. Act 10]
+
+(b) the reference to the sections of the Indian Electricity Act, 1910
+and the Electricity (Supply) Act, 1948 in the provisions of theIndian Electricity Act, 1910 shall be taken as reference to thecorresponding provisions of this Act to the extent modified bythe said Act.
+(c) the reference to arbitration in these provisions except where it is by the Central Electricity Authority shall be taken as referenceto the proceedings under section 37 of this Act and the arbitrationprocedure prescribed under the Indian Electricity Act, 1910 shallnot apply.
+(iv) The Schedules to the Indian Electricity Act, 1910 shall be applicable only with reference to the provisions in this Act wherein theapplications of the Schedules are specified and not otherwise.
+ELECTRICITY SUPPLY ACT, 1948
+(v) All references to State Electricity Board in the Electricity (Supply)
+Act, 1948 in so far as the State of Haryana is concerned shall be readas reference to the Haryana Electricity Regulatory Commission orTransco or other licensees or where it relates to general policy matters,the State Government.
+(vi) In respect of matters provided in sections 5 to 18, 19, 20, 23 to 27, 37,
+to 45, 46 to 54, 56 to 69, 72 and 75 to 83 of the Electricity(Supply) Act, 1948, to the extent this Act has made specific provisions,the provisions of the Electricity (Supply) Act, 1948 shall not applyin the State.
+(vii) The provisions of all other sections of the Electricity (Supply) Act,
+shall apply except that:—
+(a) the term “licence” “licensee” “license holder” shall have the meaning as defined under this Act and the licences shall beconstrued as having been issued under this Act;
+(b) the reference to the sections of the Indian Electricity Act, 1910
+and the Electricity (Supply) Act, 1948 in the provisions of theElectricity (Supply) Act, 1948 shall be taken as reference to thecorresponding provisions of this Act to the extent modified bythis Act.
+(c) the reference to arbitration in these provisions except where it is by Central Electricity Authority shall be taken as reference tothe proceedings under section 37 of this Act and the arbitrationprocedure prescribed under the Electricity (Supply) Act, 1948shall not apply.ELECTRICITY REFORM [1998 : Hr. Act 10
+
+(viii) The provisions of sections 72, 73 of the Electricity (Supply) Act,
+shall be restricted to Generating Companies and reference tothe State Electricity Board in these sections shall stand deleted.
+(ix) The Schedules to the Electricity (Supply) Act, 1948 shall be applicable only with reference to the provisions in this Act whereinthe applications of the Schedules are specified and not otherwise.
+57. (1) Notwithstanding anything contained in this Act, the powers rights and functions of Regional Electricity Authority, the Central ElectricityAuthority, the Central Government and authorities, other than the State ElectricityBoard and the State Government under the Indian Electricity Act, 1910 or theElectricity (Supply) Act, 1948 or rules framed thereunder shall remain unaffectedand shall continue to be in force.
+(2) Nothing contained in this Act will apply to the Power Grid Corporation, BBMB or other bodies or licensees in relation to the inter-Statetransmission of the electricity or generating companies owned or controlled byCentral Government or undertaking owned by the Central Government.
+Schedule THE HARYANA ELECTRICITY REGULATORY COMMISSION PART-I The Commission’s Finance, Accounts and Audit I. (1) (In December of) each year the Commission shall submit to the State Government a statement of its estimated expenditure for the ensuing financialyear.
+(2) The State Government shall as soon as possible after the receipt of the said statement cause it to be laid on the table of the State Legislature.
+(3) The Commission may at any time during the year in respect of which a statement under sub-paragraph (1) has been submitted, submit to theState Government a supplementary statement, and all the provisions of this sectionshall apply to such statement as they apply to the statement under the said sub-section.
+II. (1) The Commission shall cause proper accounts and other records in relation thereto to be kept, including a proper system of internal check andshall prepare an annual statement of accounts, in such form as may be prescribedby regulations made by the Commission in consultation with the AccountantGeneral, Haryana.
+(2) The accounts of the Commission shall be audited by the Accountant General, Haryana or by such person as he may authorise on his behalfand any expenditure incurred by him in connection with such audit shall bepayable by the State Government.Savings.
+Annual Financial Statement.
+Accounts and Audit.ELECTRICITY REFORM 1998 : Hr. Act 10]
+
+(3) The Accountant General Haryana or any person authorised by him in connection with the audit of the accounts of the Commission shall have theright to demand the production of books, accounts, connected vouchers and otherdocuments and papers of the Commission.
+(4) The account of the Commission as certified by the Accountant General Haryana or any other person authorised by him on his behalf, togetherwith the audit report thereon shall be forwarded to the State Government withinsix months of the close of the year to which the accounts audit report relates andthe Commission shall cause the said accounts of the Commission to be publishedand make available copies thereof on sale at a reasonable price. The audit reportshall contain full details of any discrepancies or irregularities in the accounts ofthe Commission. At the same time, the Commission shall publish an annualstatement of its activities in relation to the functions carried out by it under thisAct during the year to which the said accounts relate and make available copiesthereof on sale at a reasonable price.
+(5) The State Government shall cause the accounts of the Commission, together with the audit report thereof forwarded to it under sub-paragraph (4) to be laid annually before the State Legislature.
+PART II GENERAL III. (1) As an expense of the Commission there shall be paid to the Chairman and the Members of the Commission such remuneration, and suchtraveling and other expenses and allowances, as the State Government maydetermine, provided that the remuneration determined by the State Governmentfor the Chairman and Members of the Commission shall at no time be inferior tothe remuneration paid to Chairman and Members of Haryana Public ServiceCommission respectively.
+(2) The State Government may cause to be paid, as an expense of the Commission, to or in respect of any person holding the office of Chairman ora Member of the Commission such pension, allowance or gratuity or suchcontributions or payments towards provision of such a pension, allowance orgratuity.
+IV. The Commission shall have an official seal for the authentication of documents required for the purposes of its functions.
+V. Anything authorised or required by or under this Act or any other enactment to be done by the Commission may be done by any member of the staffof the Commission who is authorised generally or specially in that behalf by theCommission.
+Remuneration, etc.
+Official Seal.
+Performance of Functions.ELECTRICITY REFORM [1998 : Hr. Act 10

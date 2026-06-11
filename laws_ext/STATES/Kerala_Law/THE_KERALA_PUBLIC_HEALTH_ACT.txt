@@ -1,0 +1,1609 @@
+AN
+ACT
+to replace the existing laws relating to public health in the State of Kerala by bringing
+provisions including periodical changes and requirements.
+Preamble .—WHEREAS , an approach of one -health for public healthcare has to be adopted;
+AND WHEREAS , apart from diagnosis and treatment, the social systems that provide
+health has to be strengthened and the conditions that may cause disease has to be weakened or
+eliminated;
+AND WHEREAS , it is necessary to prevent the new viruses, germs, communicable diseases
+and pandemics that may emerge as part of climate change, human -animal contact, etc., and it
+is essential to prevent and control the increasing lifestyle diseases;
+AND WHEREAS , the density of population is high throughout the State irrespective of the
+urban -rural differences and as the Kerala gives special attention to the healthcare of groups
+including the elderly and differently -abled persons;
+AND WHEREAS , to bring a new law applicable throughout the State by replacing the
+Travancore Cochin Public Health Act, 1955 (XVI of 1955) applicable in the Travancore Cochin
+Region and the Madras Public Health Act, 1939 (III of 1939) applicable in the Malabar Region,
+which were in existence in State of Kerala in relation to public health and to provide for matt ers
+connected therewith or incidental thereto;
+BE it enacted in the Seventy -fourth year of the Republic of Inida, as follows: —
+
+CHAPTER 1
+PRELIMINARY
+1. Short title and commencement .—(1) This Act may be called the Kerala Public Health
+Act, 2023.
+(2) Sub -section (8) of section 15, sub -section (7) of section 18, sub -section (3) of
+Act shall be deemed to have come into force on the 16th day of January, 2023.
+
+This is a digitally signed Gazette.
+Authenticity may be verified through
+2. Definitions .—(1) In this Act, unless the context otherwise requires, —
+(a) “bio-medical waste” means solid - liquid waste having the presence of germs
+and the chance of infection therefrom that may be generated during the diagnosis of disease,
+surgeries, other treatments, injections of person or persons or during research in the field of
+health at hospitals and health research institutions during research in the health sector;
+(b) “building” includes house, out -house, apartment, stable, latrine, shed, hut,
+bunk and also any other structure made out of stone, brick, mud, metal or any other material
+whatsoever;
+(c) “communicable disease” means disease caused to human or animals due to
+infection with or without symptoms and communicable from human to human or from animals
+to animals or to human and can be detected with the assistance of diagnostic measures;
+Explanation: —For the purpose of this Act, “animals” include “birds”.
+(d) “Community gathering” means gathering of a group of people for the
+purposes related to family, educational, social, political, spiritual, racial or religious or for the
+purposes of games, shows, entertainments or for similar matters;
+(e) “District Public Health Officer” means Medical Officer deputed as the
+Member Secretary of the District Public Health Committee as per this Act and authorised for
+the implementation of this Act at district level;
+(f) “drain” means any kind of drain which carry filth, waste water, drained water,
+rain water or subsoil water;
+(g) “dwelling house” means a building constructed, used or taken for use
+wholly or partly for human dwelling or connected therewith;
+(h) “educational institution” means a place which imparts knowledge or
+education and includes preschools, childcare institutions, schools, colleges, technical
+educational institutions, universities, coaching centers, tuition centers, training centers which
+are either public or private;
+(i) “epidemic” means condition of public health importance caused due to the
+sudden and rapid increase in the number of cases of a disease;
+(j) “factory” means any premise including the precincts thereof wherein any
+industrial, manufacturing or trade processes is carried on with the aid of steam, water, oil, gas,
+electricity or any other form of power which is mechanically transmitted and includes any
+premise as defined in the Factories Act, 1948 (Central Act 63 of 1948);
+(k) “filth” includes sewage, excreta, putrid and putrified substances and all other
+substances which may cause danger to public health if not removed;
+(l) “food” or “food items” includes all substances including grains, fruits,
+vegetables, flowers, leaves, milk, fish, meat and its produces and drinks including packed
+drinking water and also all ingredients added to such items or drinks for colour or for add ed
+flavour, which are used by persons for eating or drinking (as food or drinks) or for chewing, 57
+This is a digitally signed Gazette.
+Authenticity may be verified through
+which are cooked or partially cooked or not cooked or processed, partially processd or not
+processed;
+(m) “food business” means carrying out of any activity at any stage whether for
+profit or not and either in public or private which is related to manufacturing, processing,
+packing, storage, transportation, distribution or import of food items and include food services,
+catering services, sale of food or food ingredients;
+(n) “Government” means the Government of Kerala;
+(o) “healthcare institution” means institutions, or hospitals, nursing homes,
+maternity hospitals or other treatment centres in whole or in part either under public or private
+ownership, and which provides to the public various health services including activ ities for
+health promotion, prevention of disease, treatment, diagnosis, nursing, rehabilitative services,
+palliative care, restoration of health and research, through healthcare including diagnostic,
+therapeutic, nursing, palliative and other therapeu tic care processes or reproductive health
+services or emergency health services or its different combinations;
+(p) “healthcare providers” means a person who undertakes a service or
+profession related to the maintenance or restoration of the health of another person, and it
+includes any physician, nurse, paramedic, psychologist, counsellor, healthcare providers
+extendin g outreach healthcare services or persons providing medical, nursing, psychological,
+or other healthcare services of any kind;
+(q) “healthcare services” means consultation, diagnosis and treatment and
+outreach services and services for the maintenance and promotion of public health;
+(r) “health hazard” means any micro organism, chemical condition or any
+circumstance that may cause injury or illness;
+(s) “health inspector” means a health inspector of Local Self Government or of
+an institution handed over to Local Self Government or a health inspector of a Government
+Medical College or an officer in the rank of health inspector, appointed for an area either
+permanently or temporarily;
+(t) “hygiene facilities” means wash room facilities of sufficient number for
+various genders arranged in a room or rooms or building and with privacy, cleanliness and
+maintained in a germ free manner without any possibility of spread of disease;
+(u) “infection” means the entry and growth or multiplication of an infectious
+agent in the body of a human being or animal;
+(v) “isolation” means prohibition of a person or persons having infection from
+mingling with others for a specified period with an object of preventing or confining the spread
+of disease to persons and society;
+(w) “latrine” means a facility or place set apart for defecating or urinating or for
+both and includes a closet and urinal;
+(x) “local area” means an area within the jurisdiction of a Local Self
+Government Institution or as specified by the Local Public Health Officer from time to time; 58
+This is a digitally signed Gazette.
+Authenticity may be verified through
+(y) “Local Self -Government Institution” means a Municipality constituted
+under section 4 of the Kerala Municipality Act, 1994 (20 of 1994) or a Panchayat, at any level,
+constituted under section 4 of the Kerala Panchayat Raj Act, 1994 (13 of 1994);
+(z) “Local Public Health Officer” means a Medical Officer appointed as the
+Member Secretary of the Local Public Health Committee as per this Act and authorised for the
+implementation of this Act at the local level;
+(aa) “lodging house” means a hotel, boarding house, a choultry, dharmasala,
+resort, home stay, service apartment, rest house etc. where lodging facility is provided to
+persons with or without food on payment basis;
+(ab) “market” means any place set apart or ordinarily or periodically used for
+the assembling of persons for the sale or purchase of grains, fruits, vegetables, meat, fish or
+other perishable articles of food or for the sale or purchase of livestock or poultry or of any
+agricultural or industrial produce or any raw or manufactured products or any other articles or
+commodities necessary for the convenience of life. However, a single shop or a group of shops
+not being more than six in number shall not be dee med to be a market;
+(ac) “medical treatment” means treatment for the cure of disease or for the
+improvement of health condition of a patient after systematic diagnosis, through any mode of
+recognised treatment as per the Kerala State Medical Practitioners Act, 2021(Act 36 of 2021);
+(ad) “migrant labourer” means people from outside the State and residing in the
+State for doing various works for the purpose of livelihood;
+(ae) “notifiable communicable diseases” means the diseases mentioned in sub section (2) of section 28 of this Act;
+(af) “notification” means a notification published in the Official Gazette;
+(ag) “nuisance” means any act or abstinence or place or thing which causes any
+hindrance, injury, danger or annoyance to sight, smell and hearing or cause annoyance to rest
+or sleep or cause or likely to cause danger to life or injury to health;
+(ah) “Occupier” includes,
+(a) any person who, for the time being, is paying or is liable to pay to the
+owner the rent or any portion of the rent of the land or building in respect of which such rent
+is paid or is payable;
+(b) any owner in occupation of or otherwise using land or building;
+(c) a rent -free tenant of any land or building;
+(d) a licensee in occupation of any land or building; and
+(e) any person who is liable to pay the owner damages for the use or
+occupation of any land or building;
+(ai) “offensive trade” means any trade in which the substance dealt with are, or
+are likely to cause, a nuisance; 59
+This is a digitally signed Gazette.
+Authenticity may be verified through
+(aj) “owner” means a person receiving or eligible to receive the rent or profits
+of a property or building, in relation to which the expression is used, to her own account or as
+an agent, trustee, guardian, manager or receiver of any other person or estate or f or any religious
+or charitable purposes and shall include such persons;
+(ak) “prescribed” means prescribed by rules or regulations made under this Act;
+(al) “private healthcare institutions” means any institutions owned by any
+private person, trust, corporation or non governmental organisation wherein investigation,
+diagnosis, preventive procedure, curative medical treatment facilities are provided with or
+without inpatient facility. These shall include medical clinics with or without inpatient
+treatment, healthcare centres, maternity home, hospitals, old age home, day care centre, kaya
+chikitsa institution, in -vitro fertility clinic, genetic laboratories , counselling centres, medical
+laboratory, diagnostic centres, radiological and imaging centres, scanning centres,
+physiotherapy centres, dispensaries and mental health institutions;
+Explanation :—For the purpose of this Act, healthcare institutions owned or run by
+societies or co -operative societies shall also deemed to be private healthcare institutions.
+(am) “public building” shall include all buildings which are used or constructed
+as such for the use of general public such as public schools, colleges, hospitals, work place,
+worship centres, public theatres, cinema halls, libraries, lecture halls, concert halls, exhibition
+halls, assembly halls, hotels, restaurants, lodging houses and shelter homes but does not include
+dwelling house;
+(an) “public health” means health condition of the society in general. It
+includes activities ensuring physical, mental and social well being through various methods
+such as health stimulative activities centered on the social sources of health, preventio n of
+diseases, early diagnosis, treatment, rehabilitation and to ensure and improve the healthy
+coexistence between man and nature;
+(ao) “public health committee or committee” means State Public Health
+Committee, the District Public Health Committee and the Local Public Health Committee, as
+the case may be, which shall come into existance as per section 3;
+(ap) “public health emergency” means the occurence of a disease considered
+severe from a public health perspective or death due to a sudden threat of a disease or health
+condition or the occurence of a serious health condition in a large number of people and likely
+to affect even the growth of an embryo or the large scale spread of biotoxins or other poisonous
+substances or germs likely to cause serious harm or the occurence of significant harm due to a
+new or previously present or controlled or eradicated germ or biotoxin or any disaster including
+large accidents;
+(aq) “public place” means a place not meant for private use;
+(ar) “quarantine” means isolating a person or persons suspected to have a
+disease or having contact with diseased persons or coming from an area of disease spread so as 60
+This is a digitally signed Gazette.
+Authenticity may be verified through
+to prevent mingling with others for a specified period in order to prevent the spread of the
+disease to persons and to society;
+(as) “registered medical practitioner” or “medical practitioner” means a
+medical practitioner registered under the Kerala State Medical Practitioners Act, 2021
+(Act 36 of 2021);
+(at) “Secretary” means the Secretary of the Local Self Government Institution;
+(au) “sewage” means latrine waste, waste contained in the cesspools or drains,
+trade effluents and all type of discharges from industrial units and include such things;
+(av) “shopping mall” means a complex of various trading centres situated in
+one or more interconnected buildings;
+(aw) “specimen” means a sample and culture of blood, sputum, urine, stool or
+other bodily fluids, wastes and tissues needed to conduct required tests;
+(ax) “State” means State of Kerala;
+(ay) “state public health officer” means a medical officer appointed as the
+Member Secretary of the State Public Health Committee as per this Act and authorised for the
+implementation of this Act at State level;
+(az) “vaccination” means the process of inducting into the body of a human
+being, inactivated or weakened micro organism, their cell parts, their genetic substance or any
+other bio or non -bio micro matters having similarities with the structure of micro or ganism,
+through injection or otherwise for the purpose stimulating the immune mechanism of the body
+and thereby reducing the chance of being affected by the disease;
+(ba) “vector” means insects and other arthropods which carry germs in their
+body and may cause infection to humans or animals through biting, contacting and polluting
+food and beverages;
+(bb) “water course” includes any natural or artificial river, stream, canal or lake
+and water theme park except a drain;
+(bc) “water theme park” means an amusement park having exclusive places for
+waterplay such as water slides, splash pads, spray grounds, water playground, lazy rivers, or
+other recreations, swimming, plays without water skies, wave pool with or without arti ficial
+surfing or body boarding like flow rider;
+(bd) “work place” means any premises including the precincts thereof wherein
+any industrial, manufacturing, trade, service process is carried on, and where person or persons
+are employed for wages or any other remuneration but does not include a factory or workshop; 61
+This is a digitally signed Gazette.
+Authenticity may be verified through
+(be) “workshop” means any premises including the precincts thereof wherein
+any article is made, repaired, altered, ornamented, finished or otherwise adapted for use on a
+commercial basis and person or persons are employed for that purpose for wages or any other
+remuneration, but does not include a factory.
+(2) In this Act, save as the context otherwise requires, the feminine gender wherever
+expressed, shall include all genders.
+CHAPTER 2
+PUBLIC HEALTH COMMITTEES, PUBLIC HEALTH OFFICERS: FUNCTIONS AND
+POWERS
+3. State, District and Local Public Health Committees and Public Health Officers .—(1)
+For the implementation of the provisions of this Act, the following arrangements shall come
+into existence from the date notified by the Government, namely: —
+(i) the State Public Health Committee and an implementing officer called the
+State Public Health Officer at the State level;
+(ii) the District Public Health Committee and an implementing officer called the
+District Public Health Officer at the District level;
+(iii) the Local Public Health Committee and an implementing officer called
+Local Public Health Officer at the local level.
+(2) Subject to other provisions of this Act, —
+(i) for ensuring public health in the State, District and Local levels, the Public
+Health Committees shall formulate programmes in the State, District and Local levels
+respectively;
+(ii) the committees shall evaluate and ensure that the action programmes
+fomulated by the Government from time to time, to attain the sustainable development goals
+in the health sector are effectively implemented at appropriate levels;
+(iii) the Public Health Officers shall place the report regarding the activities
+related to the public health before the committee at least once in three months and the
+committee shall review the public health activities at appropriate levels.
+4. The State Public Health Committee and the State Public Health Officer .—(1) The
+State Public Health Committee shall consists of the following members, namely: —
+(i) Minister, Health Department : Chairperson
+(ii) Secretary, Health & Family Welfare Department : Vice
+Chairperson
+(iii) Director, Health Services : Member
+Secretary 62
+This is a digitally signed Gazette.
+Authenticity may be verified through
+(iv) Principal Director, Local Self Government Department : Member
+(v) Director, Medical Education : ”
+(vi) Director, Department of Indian Systems of Medicine : ”
+(vii) Director, Department of Homoeopathy : ”
+(viii) Commissioner, Food Safety Department : ”
+(ix) Director, Department of Agricutural Development
+and Farmers Welfare : ”
+(x) Director, Animal Husbandary Department : ”
+(xi) Director, Fisheries Department : ”
+(xii) Director, Dairy Development Department : ”
+(2) The Director, Health Services shall, by virtue of her office , be the Member
+Secretary of the Committee and shall be the State Public Health Officer.
+(3) If required by the State Public Health Officer on behalf of the State Public
+Health Committee, the academic -research -technical assistance institutions and experts under
+the Health and Family Welfare Department shall take necessary steps to deal with pu blic health
+issues.
+5. The District Public Health Committee and the District Public Health Officer .—(1)
+The District Public Health Committee shall consists of the following members, namely: —
+(i) District Panchayath President : Chairperson
+(ii) District Collector : Vice-
+Chairperson
+(iii) District Medical Officer (Health) : Member
+Secretary
+(iv) Principal of Government Medical College
+in the District : Member
+(v) District Medical Officer
+(Department of Indian Systems of Medicine) : ”
+(vi) District Medical Officer (Homoeopathy) : ”
+(vii) Joint Director, Local Self Government Department : ”
+(viii) Assistant Commissioner, Food Safety Department : ”
+(ix) Principal Agricultural Officer : ”
+(x) District Animal Husbandary Officer : ” 63
+This is a digitally signed Gazette.
+Authenticity may be verified through
+(xi) District Officer, Fisheries Department : ”
+(xii) District Officer, Dairy Development Department : ”
+(2) The District Medical Officer (Health) shall , by virtue of her office , be the
+Member Secretary of the Committee and shall be the District Public Health Officer.
+6. The Local Public Health Committee and the Local Public Health Officer .—(1)
+The Public Health Committee at Grama Panchayath Level shall consists of the following
+members, namely: —
+(i) Grama Panchayath President : Chairperson
+(ii) Medical Officer of Health Department
+in charge of Grama Panchayath : Member
+Secretary
+(iii) Medical Officer (Indian Systems of Medicine) : Member
+(iv) Medical Officer (Homoeopathy) : ”
+(v) Panchayath Secretary : ”
+(vi) Animal Husbandary Officer : ”
+(vii) Circle Food Safety Officer : ”
+(viii) Agricultural Officer : ”
+(2) At Municipality/Corporation level, the Public Health Committee shall be
+constituted at each transferred institutions of the Health Department at urban areas. Mayor of
+Corporation or Municipal Chairperson concerned shall be the Chairperson and the Head of the
+transferred health institution shall be the Member Secretary. In the urban areas, which do not
+fall under the limits of such transferred health institutions, a Deputy District Medical Officer
+(Health) authorised by District Medical Officer (Health) shall be the Member Secretary of the
+committee. The following shall be the other members in the Local Public Health Committee
+at the Municipality/ Corporation level, namely: —
+(i) Municipal/Corporation Secretary;
+(ii) Medical Officer (Indian Systems of Medicine);
+(iii) Medical Officer (Homoeopathy);
+(iv) Animal Husbandary Officer;
+(v) Circle Food Safety Officer;
+(vi) Agricultural Officer.
+(3) The Member Secretary of the Local Public Health Committee shall also hold the
+charge of Local Public Health Officer. 64
+This is a digitally signed Gazette.
+Authenticity may be verified through
+7. Duties and functions of Public Health Officer .—(1) The responsibility to implement
+the provisions of this Act in the State, District and Local levels shall be on the State Public
+Health Officer, the District Public Health Officer and the Local Public Health Officer
+respectively.
+(2) Government shall have the power to delegate to the State Public Health Officer
+the power to issue any direction, as it deem necessary , for the implementation of the activities
+under this Act in accordance with the Kerala Panchayath Raj Act, 1994 (13 of 1994) and the
+Kerala Municipality Act, 1994 (20 of 1994).
+(3) The State, the District and the Local Public Health Officers shall provide plan
+proposals relating to public health, while formulating the annual plans for the health sector by
+the State Government and Local Self Governments. Such suggestions shall be given based on
+the annual health report of their area of jurisdiction.
+(4) Action taken report shall be submitted every month by the Local Public Health
+Officer to the District Public Health Officer, by the District Public Health Officer to the State
+Public Health Officer and by the State Public Health Officer to the Governme nt.
+(5) For attaining public health objectives, the State Public Health Officer shall
+prepare the methodology and the criteria for vector density studies, disease surveillance
+programmes, screening for specified diseases, clinical audit and death audit and g uidelines
+regarding precautionary measures for prevention of communicable diseases and shall ensure
+its implementation.
+(6) The State Public Health Officer shall have the power to collect information on
+matters of public health from public and private healthcare institutions of the State. The State
+Public Health Officer shall make arrangements to evaluate the said informat ion and on the basis
+of such evaluation shall give recommendation to the Government in policy matters in respect
+of public health and shall give directions to individuals, institutions and agencies related to
+public health matters. All public health offi cers and committees concerned shall ensure the
+protection and privacy of individual datas collected in this manner.
+(7) At the State Level, the State Public Health Officer through the Secretary of the
+Department and at the District or Local Level, the District Public Health Officer through the
+District Collector, may recommend to the State Government to declare public h ealth emergency.
+The District Collector may declare public health emergency at district and local level subject
+to the sanction of the Government.
+(8) When it is satisfied that there is necessity to have a common protocol for the
+treatment or prevention of diseases notified under this Act or diseases included in the National
+Health Programmes, the State Public Health Officer shall with the assistance of experts
+determined by the Government, prepare recommendation and shall submit to the Government. 65
+This is a digitally signed Gazette.
+Authenticity may be verified through
+Such protocol as directed by the Government shall be followed by all Government and private
+healthcare providers and healthcare institutions.
+(9) The State Public Health Officer shall give recommendation to the State Public
+Health Committee for the fixation of health protocols, to be followed by the public for
+surveillance of diseases, prevention and control of communicable diseases, life style diseases,
+any other diseases that may be notified by the Government from time to time and health hazards.
+8. Assistance to Public Health Officer .—(1) There shall be a health inspector and other
+employees to assist the Local Public Health Officer for carrying out the functions under this
+Act.
+(2) The Local and the District Public Health Officers may, in writing, assign an
+officer not below the rank of a Junior Health Inspector to take the following actions under this
+Act, namely: —
+(i) to conduct inspections;
+(ii) to issue notice;
+(iii) to take legal actions; and
+(iv) to take other actions as directed by the Public Health Officer.
+(3) Subject to the supervision and control of the Public Health Officer, the officer
+shall be liable to carry out such directions given under sub -section (2) in the manner as
+prescribed.
+9. Temporary appointment of Additional Public Health Officers during emergency
+situations .—The State and the District Public Health Officers shall under the following
+circumstances have the power to appoint one or more medical officers as additional public
+health officers temporarily for a specified period, namely: —
+(i) when notified communicable diseases occured or a threat of its outbreak is there;
+(ii) when there is an outbreak of epidemic diseases, or a threat of such outbreak
+exists;
+(iii) when there occurs disaster or unusual deaths;
+(iv) in a situation where people gather on a large scale in an area;
+(v) to prevent communicable diseases or to enquire into its causes and to prevent
+such causes;
+(vi) in other emergency situations in which the State Public Health Officer
+considers necessary to appoint such additional public health officers. 66
+This is a digitally signed Gazette.
+Authenticity may be verified through
+10. Powers of the State Public Health Officer. —Subject to such conditions as may be
+prescribed, the State Public Health Officer shall have all the powers throughout the State which
+the Local Public Health Officer has in the local level. The State Public Health Officer may
+exercise these powers either directly or through District or the Local Public Health Officers,
+and shall also have the power, —
+(a) to depute one or more employees of any institutions under her control for
+temporary duty in an area of any other institution;
+(b) to formulate guidelines on public health criteria and to issue necessary orders
+for its implementation; and
+(c) to enforce the rules, regulations, restrictions and guidelines relating to the
+abatement of nuisance or health hazards.
+11. Powers of the District Public Health Officer .—Subject to such conditions as may be
+prescribed, the District Public Health Officer shall have all the powers throughout the District
+which the Local Public Health Officer has in the local level. At the district and local level the
+District Public Health Officer may exer cise these powers either directly or through the Local
+Public Health Officers, and shall also have the power, —
+(a) to issue guidelines and to exercise supervision and control for public health
+activities within the District;
+(b) to conduct public health inspections from time to time, which may be deemed
+necessary for the prevention of diseases and for the improvement of public health;
+(c) to conduct enquiry and inspection regarding all types of communicable diseases,
+notifiable communicable diseases and health hazards; and
+(d) to issue guidelines to Local Public Health Officer from time to time, as may
+deem necessary.
+12. Powers of the Local Public Health Officer .—(1) The Local Public Health Officer
+shall ensure that the healthcare institutions within her jurisdiction are complying with the public
+health guidelines and rules.
+(2) The Local Public Health Officer shall have the power to direct, any person or
+institution to do or refrain from doing any activity, or to change any situation that may be deem
+necessary for ensuring public health, within such time as specified. If such pe rson or institution
+fails to do so within the time specified in the order, the public health officer shall inform the
+same to the local self government institution concerned and the local self government
+institution shall either carry out or stop or mo dify such activity and recover the cost incurred
+from the person or institution concerned in the manner as prescribed. 67
+This is a digitally signed Gazette.
+Authenticity may be verified through
+(3) In matters of public health, the Local Public Health Officer shall perform such
+functions and discharge such duties as applicable to her, as per the provisions under this Act
+and shall also have the power, —
+(i) to impose fine on any person who fails to comply with any order issued under
+this Act; or
+(ii) to compound offences for violations of any provisions or for committing of
+offences, which are declared to be compoundable under this Act or the Rules made thereunder.
+(4) The Local Public Health Officer shall excercise all the powers and discharge
+all the duties specifically conferred by this Act or the rules made there under and shall subject
+to the provisions of this Act and the rules made thereunder, implement all t he necessary
+activities in her capacity as the Local Public Health Officer.
+(5) Without prejudice to the safety and privacy of persons, the Local Public Health
+Officer or an officer authorised by her shall enter into and inspect, —
+(a) any place where any kind of nuisance has taken place or is continuing;
+(b) any place where any offensive trade is conducted;
+(c) any place where any article of food and beverages including drinking water
+are prepared, manufactured, stocked, sold, served or distributed;
+(d) any place which exists in a polluted condition or in a condition which
+facilitate the spread of any epidemic disease including the multiplication of vectors or
+pathogens; and
+(e) any place which the Local Public Health Officer is satisfied as necessary for
+the protection of public health.
+(6) When it is found that any food or beverages are suspected to be contaminated,
+putrid or decayed, the Local Public Health Officer or an officer authorised by her shall have
+the following powers, namely :—
+(i) to take steps including closing of establishments, when it is satisfied that there
+exists polluted condition particularly where food and beverages are cooked, preserved and
+distributed or in circumstances of the presence of non -permitted chemicals, poo r hygiene of
+persons who handles food and beverages, lack of certificates such as medical certificate and
+license as per Food Safety and Standards Act, 2006 due to which there is chance for the spread
+of diseases or occurance of health issues;
+(ii) to seek the service of Food Safety Officer concerned in circumstances where
+samples of food and beverages have to be collected and examined. She shall have the power
+to take steps as may be prescribed to keep them intact until sample is collected by the F ood 68
+This is a digitally signed Gazette.
+Authenticity may be verified through
+Safety Officer and prevent attempts by the owner of the establishment or others from destroying
+the same;
+(iii) when there is no chance for collection of samples or when there is no
+possibility for ensuring that food and beverages are not sold until standards are ensured, she
+shall have the power to destroy food items which are suspected to be stale or decay ed, if it is
+found necessary to prevent public health issues. However, before taking such steps she shall
+prepare mahazar as prescribed by the rules, by ensuring the presence of two respectable
+witnessess and shall ensure the proof of their presence in wr iting.
+(7) Without prejudice to the safety and privacy of the persons the Local Public Health
+Officer or an officer authorised by her, may, —
+(a) may inspect at any time, without notice and assistance, any place, factory,
+work shop, work place, office, cinema hall, hospital or other place as may appear to her
+necessary, including dwelling places, from where communicable diseases are reported or any
+place suspected to be at risk of contamination;
+(b) take such measures, as she may consider necessary to prevent the spread of
+such disease beyond such place; and
+(c) take samples of food or water or any article from any place or premises for
+analysis if it deem fit.
+(8) When the Local Public Health Officer or the authorized officer takes any of the
+actions mentioned in sub -section (7), she shall after the completion of action and within a
+maximum of twenty -four hours furnish a report on the action so taken to the Distric t Public
+Health Officer and the Local Self Government Institution, in the specified format.
+(9) The Local Public Health Officer or an officer authorised by her, shall while, —
+(a) taking action against the person or persons who contravenes any of the
+provisions of this Act or the rules made thereunder; or
+(b) initiating prosecution for violations of any of the provisions of this Act or
+the rules made thereunder; or
+(c) taking any action as per this Act or the rules made thereunder for the removal
+of nuisance as defined in sub -section (1) of section 2,
+file a report in writing to the Secretary of the Local Self Government Institution for placing
+it before the Local Self Government Institution concerned.
+13. Ensuring of assistance of public servants .—(1) All public servants under the
+Government shall extend all help and co -operation whenever approached in the capacity as the
+Local Public Health Officer for assisting or authenticating the action or in the conduct of 69
+This is a digitally signed Gazette.
+Authenticity may be verified through
+enquiry on public health matters. Any refusal or non -cooperation noticed on the part of such
+officer shall be taken as a breach of conduct and indiscipline and the Local Public Health
+Officer shall report the same to the superior officer of the officer co ncerned and to the District
+Public Health Committee for taking appropriate disciplinary action by the disciplinary
+authority concerned.
+(2) It shall be the duty of the Station House Officer concerned to assist the Local
+Public Health Officer when the Local Public Health Officer seeks in writing such assistance
+for the lawful exercise of any power under this Act or the rules or regulations made thereunder.
+14. Local Self Government Institution to extend support .—Every Local Self Government
+Institution shall provide facilities and shall extend support to the Local Public Health Officer
+for the due discharge of official duties.
+CHAPTER 3
+ENSURING SAFETY OF WATER FOR HUMAN USE
+15. Water for human use. —(1) The quality of drinking water shall be reckoned as per the
+criteria specified by Bureau of Indian Standards for safe drinking water, from time to time, and
+the provisions of the Food Safety and Standards Act, 2006. It shall be the duty of the
+distrib utors of drinking water to ensure such quality.
+(2) For ensuring the safety of drinking water for human use, the Public Health
+Officers shall have the following powers within their jurisdiction, namely: —
+(a) to test and direct to test the quality of drinking water at regular intervals and
+when water borne diseases are suspected;
+(b) to seek explanation from the distributor, direct remedial action and to
+disrupt the distribution and if required to take legal actions including fine when it is found that
+the quality of water is inadequate:
+Provided that, when the distribution of drinking water is distrupted as per this sub -section
+the Local Public Health Officer shall forthwith inform the same to the Local Self Government.
+(3) The Local Public Health Officer may at any time issue notice in writing to the
+owner or to any person having control or charge over any river, lake, backwater, stream, spring,
+well, tank, reservoir, pond or water in tanker lorries or water in other water s upply sources or
+schemes which is used for drinking or bathing or for any other purpose including entertainment
+and may within such time as may be specified in the notice direct, —
+(a) to keep and maintain water supply sources in such manner not injurious to
+public health;
+(b) to protect such water supply sources by removing silt and filth; 70
+This is a digitally signed Gazette.
+Authenticity may be verified through
+(c) to protect such water supply sources and water supply systems from
+contamination caused through drainage;
+(d) to ensure necessary maintenance work and protection of water supply
+sources considering the health and safety of general public;
+(e) to stop the use and prevent others from using the water from such water
+source, when it is unfit for drinking purpose or for other human uses or is injurious to public
+health;
+(f) to drain or otherwise dispose off the water or contaminated water which is
+injurious or harmful to public health:
+Provided that, where a direction is given under clause (e) the same shall be informed to
+the Local Self Government.
+(4) As aforementioned where the owner or the person having control fails to comply
+with or neglects any notice issued under sub -section (3) within the time stipulated therein the
+Local Public Health Officer shall, if immediate action is required to protect the health of any
+person or persons, proceed to execute the works specified in such notice urgently and all the
+expenses incurred thereof by the Local Public Health Officer shall be remitted by the owner or
+the person having control over such water supply source in the manner as may be prescribed.
+(5) No person shall, save as generally or specially prescribed, erect, throw, or permit
+to throw or pour or dump or put into public drainage or any drainage connecting public
+drainage, —
+(a) any construction which affect the drainage or which block the free flow of
+matters imbedded therein or any other thing or any matter which affect the treatment and
+disposal of such things;
+(b) any liquid or steam which either by itself or when combined with other
+materials within the drainage causes danger, harm or injury to health;
+(c) any explosive substance.
+(6) Save as generally or prescribed, no person shall, —
+(a) put or causes to put or cause to fell or shed or eject or carry or knowingly
+permit to put, fall, shed or carry, in or around any water course, —
+(i) any matter, filth, excreta, wash room waste which is injurious to health,
+(ii) any solid or liquid matter formed out of manufacture or the
+manufacturing process, which are poisonous, noxious or contaminated or injurious to health;
+or 71
+This is a digitally signed Gazette.
+Authenticity may be verified through
+(b) deposit or cause to deposit or eject or cause to fall or put, or shed into water
+course, or obstructs the free flow of water course by oneself or jointly with similar acts of any
+other person or to contaminate water therein, or deposit the solid – liquid waste from any
+factory, manufacturing process or from quarry or to deposit any rubbish or cinders or any other
+waste including industrial waste; or
+(c) cause any nuisance in or around any water course in a manner which is
+injurious to public health.
+(7) Any person who contravenes the provisions of sub -section (5) shall be liable to
+penalty specified in section 65.
+(8) Any person who contravenes the provisions of sub -section (6) shall on
+conviction be liable to punishment with imprisonment for a term which may extend to three
+years or with fine which shall not be less than twenty five thousand and may extent to two
+lakhs rupees or with both.
+16. Powers of State, District Public Health Officers with respect to water supply. —(1)
+The District Public Health Officer may cause to conduct enquiry in any local area or part
+thereof, for ascertaining whether the source of water supply for such local area or its part is
+contaminated or not.
+(2) The District Public Health Officer or any officer duly authorized may, taking
+into account the outcome of such enquiries, issue order directing the owner or occupier or the
+institution or the authority concerned to clean, improve, repair or protect t he source of water
+supply from contamination within the time specified:
+Provided that before issuing an order under this sub -section, the District Public Health
+Officer or the authorized officer shall afford a reasonable opportunity of being heard to the
+authorities or to the persons concerned and shall consider the same.
+17. Powers of the State, District Public Health Officers to improve the quality of water .—
+If the State Public Health Officer or the District Public Health Officer is satisfied that the source
+of public water supply in a local area is contaminated or under the risk of contamination they
+may issue directions in writing to the Local Public Health Officer to take such measures as may
+be specified therein.
+CHAPTER 4
+SANITATION FACILITIES
+18. Responsibilitiy to ensure public latrine facilities .—(1) The State Public Health
+Committee shall discuss and formulate criteria for latrine facilities in public places and public
+spaces and the State Public Health Officer shall issue directions. Such directions shall be in 72
+This is a digitally signed Gazette.
+Authenticity may be verified through
+accordance with the Building Rules made under the Kerala Panchayath Raj Act, 1994 (Act
+No.13 of 1994) and the Kerala Municipality Act, 1994 (Act No.20 of 1994).
+(2) The Local Self Governments shall arrange latrine facilities of required number
+and of proper standards which may be necessary for the use of general public at convenient
+places. They shall be neatly maintained, either by charging a nominal amount or not, in such
+a manner not to cause harm or nuisance to public health.
+(3) The owner or the dispenser of any building intended for human dwelling or use
+except those for individual residence shall arrange sufficient latrine facilities in accordance
+with the criteria prescribed. If such facilities are found to be inadequate, the public health
+officer shall issue notice in writing giving directions to carry out the facilities as may be
+required in the notice and shall take necessary measures to ensure such directions are complied.
+(4) It shall be ensured that user friendly latrine facilities are there for those including
+women, differently -abled and transgenders in all public places including work places, business
+establishments and shopping malls.
+(5) All latrines shall be, —
+(a) constructed in such a manner so as to ensure the health and privacy of users;
+(b) neatly maintained in a manner so as to avoid transmission of disease;
+(c) interlinked with the scientific disposal systems taking into account the
+peculiarities of the locality;
+(d) maintained in a manner, as to prevent accumulation of waste water in the
+premises and properly undertaking maintanence and without causing nuisance to the residents
+nearby.
+(6) If a latrine is erected or constructed in such a manner so as to offend public
+decency or is harmful or raise a threat to public health or does not comply with the provisions
+of sub -section (5), the Local Public Health Officer may, by notice in writing req uire the owner
+or dispenser to remove it or to carry out modifications required therein within the time
+specified in the notice.
+(7) The owner or dispenser of a building who fails to comply with the directions
+given by the public health officer under the provisions of sub -section (6) shall be punished with
+imprisonment for a term of six months or with fine which shall not be less than t en thousand
+rupees and which may extend to to twenty five thousand rupees or with both. 73
+This is a digitally signed Gazette.
+Authenticity may be verified through
+19. Ensuring sanitation facilities .—(1) The Public Health Officer or any officer not
+below the rank of Junior Health Inspector authorised by her shall conduct inspection in
+specified times and shall ensure that the sanitation criteria made by the State Public Health
+Officer is being follow ed in all institutions, except individual residence and where prescribed
+number of persons reside or work and in the event of noticing of any discrepancies, notice
+shall be given to the owner or the dispenser of the ins titution directing to rectify the same and
+the owner or dispenser shall implement it accordingly.
+(2) The owner of an institution who violates the provisions in sub -section (1) shall
+be liable to penalty as specified in section 65.
+20. Prohibition of deposit of filth, rubbish etc. in streets and in public places .—(1) No
+person shall deposit filth, rubbish or the like in streets or public places.
+(2) In the event where deposit of rubbish and filth in the street, public or private
+spaces causes threat to public health the public health officer shall taking into account the
+interest of general public give recommendation to the Local Self Government for the removal
+of filth and for taking further action.
+(3) Whoever commits the offence under sub -section (1) shall be punished with
+imprisonment for a term which may extend to three years or with fine which shall not be less
+than ten thousand rupees and may extend to rupees twenty five thousand or with both.
+CHAPTER 5
+REMOV AL OF NUISANCE
+21. Matters that are nuisance .—Without prejudice to the generality of the definition
+given to the word “nuisance” in section 2, the following shall specially be deemed to be
+nuisance for the purpose of this chapter, namely: —
+(i) making any premises in a manner which is injurious to health;
+(ii) making any water sources like river, backwater, pond, lake, ditch, brooke, water
+trough or drainage in a polluted or injurious to health condition;
+(iii) making any ash -pit, cow dung pit, compost pit, septic tank, biogas plant or filth
+collecting systems etc. in a polluted or injurious to health condition due to lack of proper
+maintenance and safety;
+(iv) keeping any animal individually or collectively in a manner or in such a place
+which is injurious to health;
+(v) accumulating or collecting any refuse, building wastes, industrial wastes or
+other matters which are injurious to health; 74
+This is a digitally signed Gazette.
+Authenticity may be verified through
+(vi) running any factory, workshop, work place, shops, hotels etc. in a condition
+that is injurious to health without providing sufficient ventilation facilities and protection from
+noxious effluvia and in a manner creating overcrowding in working time;
+(vii) cause smoke from fireplace, furnace etc. to remain in the atmosphere in a
+manner injurious to health;
+(viii) maintaining chimminies discharging smoke in a size, manner or height which
+is injurious to health;
+(ix) making sound, noise, vibration, dust, cinder, offensive odour, toxic substance or
+disgusting scene which is injurious to health;
+(x) maintaining x -ray unit, clinical laboratory, scan centre or hospital etc in a
+manner injurious to health without proper precautionary measures;
+(xi) running or maintaining any hotel or food handling establishment, slaughter
+house, meat stall, chicken stall, milk stall, market, ice factory, lodges or the like institutions
+meant for accommodation and other commercial establishments in a manne r injurious to
+health;
+(xii) maintaining burial ground, crematorium or vault in a manner injurious to
+health;
+(xiii) maintaining any tree or any type of construction in a manner injurious to
+health;
+(xiv) causing water logging in a manner which helps breeding of mosquitoes or
+creating or not removing water collections or water logs which are stagnant or flowing;
+(xv) creating or not removing circumstances for the breeding of flies, sand flies,
+cockroaches, ticks and snails in a manner which is injurious to health;
+(xvi) maintaining piggery, poultry, goat farm, cattle farm, hatchery and stable etc.
+in a manner which is injurious to health;
+(xvii) maintaining any godown or its premises or garbage dump or the like in a
+manner which helps harbouring of stray dogs or creatures belonging to rat species etc in a
+manner injurious to health;
+(xviii) carrying by vehicle or otherwise of any kind of garbage in a manner injurious
+to health;
+(xix) making false or fake propoganda which in any manner adversely affect the
+public health activities or its objects; and 75
+This is a digitally signed Gazette.
+Authenticity may be verified through
+(xx) any other matters prescribed for the purpose of this chapter.
+22. Information regarding nuisance .—Any person aggrieved by an act of nuisance or
+any person who has the knwoledge about the existence of such a nuisance in any area may
+lodge a complaint in writing to the Local Public Health Officer or to the Local Public Health
+Committee.
+23. Power of the Local Public Health Officer to remove nuisance .—(1) If the Local
+Public Health Officer is satisfied, upon information under section 22 or otherwise that there
+exists a nuisance, the officer may by notice direct the person by whose act or omission the
+nuisance arises or continues, or if such pers on cannot be found, by giving notice to the owner
+or occupier of the premises on which the nuisance continues, to take steps within the specified
+time for the removal of nuisance or to exec ute such works:
+Provided that, —
+(a) where the nuisance arises due to the structural defect of a building the notice
+shall be served to the owner;
+(b) if the nuisance which occured or persists is not by an act or omission of the
+owner or the occupier, the Local Public Health Officer shall recommend in writing to the Local
+Self Government to take immediate necessary action to prevent the reccurrence of nuisance or
+for its removal; and
+(c) the Local Public Health Committee may upon the application in writing by
+the person against whom the Local Public Health Officer had issued such notice, extend the
+period specified in such notice, based on the facts and circumstances of the case.
+(2) No occupier shall get any legal right, title or any other rights over such place
+merely on the ground that she had received a notice from the Public Health Officer as per sub section (1) for the removal of nuisance or had carried out actions for re moval of nuisance.
+(3) If any person, owner or occupier who had received a notice under sub -section
+(1) fails to comply with the directions specified therein, within such time or extended time,
+shall be liable to fine specified in section 65. The Local Public Health Officer, shall inform
+the Local Self Government, for the execution of the work as deems necessary, for removal of
+nuisance and to prevent its reccurence.
+(4) The Local Public Health Officer shall report to the Local Public Health
+Committee, the orders issued or the actions taken by her.
+24. Provision regarding house or building rendered unfit for human dwelling by
+nuisances. —Where a house or other building is, in the opinion of the Local Public Health
+Officer, unfit for human dwelling by reason of nuisance which persists therein, she shall 76
+This is a digitally signed Gazette.
+Authenticity may be verified through
+prohibit the use of such house or building for human dwelling until it is made fit for human
+dwelling.
+25. Disposal of articles shifted while removing nuisance .—Whenever the duties under
+this chapter is carried out or otherwise implementing its provisions, the Public Health Officer
+may handle the articles shifted from any premises including any public places in the manner as
+prescribed.
+26. Nuisance caused by an act or omission outside the local area .—If any Local Public
+Health Officer finds that any nuisance, affecting her local area or any part of it, is wholly or
+partly caused by any of the act or omission committed by or taken place outside such local area,
+the same shall be informed to the Distric t Public Health Officer, and who shall give directions
+to the Local Public Health Officer concerned to take necessary steps for the removal of such
+nuisance. If the local areas are s ituated in two districts, it shall be informed to the State Public
+Health Officer through the District Public Health Officer of the District in which the area of
+nuisance is comprised and who shall take steps for issuance of necessary directions.
+CHAPTER 6
+REPRODUCTIVE, MATERNAL, NEONATAL, CHILD AND ADOLESCENT HEALTH
+27. Functions of Local Public Health Officer to improve Reproductive, Maternal,
+Neonatal, Child And Adolescent Health .—(1) The State, District and Local Public Health
+Officers shall carry out programs pertaining to Reproductive, Maternal, Neonatal, Child and
+Adolescent Health, as per the directions issued by the Government from time to time.
+(2) For implementing the programs mentioned in sub -section (1), Government
+Departments and Local Self Government concerned shall give necessary support to the State
+Public Health Officer, the District Public Health Officer and the Local Public Health Off icer.
+(3) It shall be the duty of the Local Public Health Officer to implement all measures
+pertaining to prevention, promotion and management related to Reproductive, Maternal,
+Neonatal, Child and Adolescent Health as directed by the Government from time to time, in
+collaboration with other departments if it deems fit.
+(4) The Local Public Health Officer shall have the power to direct, in writing or
+otherwise, any person or institution to do or refrain from doing or to modify any activity with
+a view to promote and protect maternal -child health and welfare. However, if the person or the
+institution fails to do so within the time specified in the order, the Local Public Health Officer
+shall inform the same to the District Public Health Officer, and the District Public Health
+Officer in turn shall inform the State Publi c Health Officer and the State Public Health Officer
+to the Government and the decision of the Government thereon shall be final. 77
+This is a digitally signed Gazette.
+Authenticity may be verified through
+CHAPTER 7
+PREVENTION, NOTIFICATION AND TREATMENT OF COMMUNICABLE DISEASES
+AND NOTIFIABLE COMMUNICABLE DISEASES
+28. Communicable diseases and notifiable communicable diseases .—(1) All the diseases
+included in the definition of communicable disease as per sub -section (1) of section 2 of this
+Act shall deemed to be communicable diseases, for the purpose of this section.
+(2) For the purpose of this Act, notifiable communicable disease means, —
+(i) Tuberculosis;
+(ii) diseases which are included or to be added in future in the National Vector
+Borne Disease Control Programme, (Malaria, Filariasis, Japanese Encephalitis, Dengue Fever,
+Chikungunya, Kala Azar etc);
+(iii) Zika;
+(iv) all the fevers included in the category of Typhus (Scrub Typhus, Epidemic
+typhus etc);
+(v) Anthrax;
+(vi) fevers in the category of Influenza -A including Avian Influenza;
+(vii) all fevers having the symptoms of Encephalitis/Meningitis;
+(viii) diseases which are included or to be added in future in the Universal
+Immunisation Programme (Polio, Diphtheria, Pertussis, Tetanus, Measles,
+Hepatitis -B, Pneumonia or Meningitis caused by Haemo philus Influenza -B, diseases caused
+by Pneumococcus, Rubella etc);
+(ix) Accute flaccid paralysis;
+(x) Monkeypox;
+(xi) Rabies;
+(xii) Nipah;
+(xiii) SARS, Middle East Respiratory Syndrome, Corona virus infections like
+COVID -19;
+(xiv) Leptospirosis;
+(xv) Plague; 78
+This is a digitally signed Gazette.
+Authenticity may be verified through
+(xvi) Leprosy;
+(xvii) Infections which the Government decides to be reported in the
+background of the threat of Antimicrobial Resistance;
+(xviii) Diseases which are declared as notifiable by the Central or State
+Governments from time to time, throughout the State or a part of it.
+(3) Government may declare any disease, communicable or otherwise, for which
+government requires collection of data or following treatment protocols as a disease of public
+health importance.
+(4) When any notifiable communicable disease comes to the notice or knowledge
+of any person or Government Hospital or Private Hospital or Clinic or Laboratory or research
+institutions, such person or the institution shall forthwith report the same to the Public Health
+Officer. On receipt of such information, the Public Health Officers shall forthwith intervene to
+control the spread of such diseases and to eradicate them.
+(5) Any person or institution who fails to report an incident referred to in sub section (4), shall liable to fine specified in section 65.
+29. The healthcare and prevention of communicable diseases of migrant labourers .—
+The Local Public Health Officer shall with the co -operation of Health Department, Labour
+Department and Local Self Governments, undertake the following activities, —
+(i) shall with the assistance of Health Department arrange health check -ups for
+migrant labourers at regular intervals and ensure it is implemented;
+(ii) if communicable diseases or diseases for which health programmes for
+eradication from the State are in existence are found out in such check -ups, the Local Public
+Health Officer shall inform it in writing to the District Public Health Officer;
+(iii) when anyone in the dwelling places of migrant labourers is affected with
+communicable disease or there is a spread, it shall be ensured that treatment is available to
+such persons and steps are taken for prevention and control of communicable disease in such
+places.
+30. Maintenance of isolation hospitals and wards .—(1) The Local Public Health Officer
+shall with the assistance of Local Self Governments, if necessitated by the nature of the disease,
+take the following activities, namely: —
+(a) arrange hospitals, wards or other places for examining and treating persons
+having communicable disease or notifiable communicable disease;
+(b) provide and maintain conveyances for carrying persons having
+communicable disease or notifiable communicable disease; 79
+This is a digitally signed Gazette.
+Authenticity may be verified through
+(c) arrange facilities for diagnosis and treatment of persons who are suffering
+or suspected to suffer from communicable disease or notifiable communicable disease; and
+(d) ensure conveyances, cloths, beds or other articles which had been exposed
+to infection are disinfected in proper manner.
+(2) Each healthcare institutions shall report to the Local Public Health Officer and
+District Public Health Officer, —
+(a) information relating to communicable disease or notifiable communicable
+disease in an area;
+(b) the details of diagonosis or services, etc . provided to persons suffering or
+suspected of suffering from any communicable disease or notifiable communicable disease;
+and
+(c) the treatment required and the details thereof for such persons;
+31. Medical practitioners, to give information of communicable disease or notifiable
+communicable disease and to follow proposed treatment criteria .—(1) Each medical
+practitioner in any system of medicine, during her practice come to know that there exists any
+communicable disease or notifiable communicable disease in any private or public dwelling
+places, or come to know that death occured due to it or has reason to believe it shall, unless the
+same is not informed earlier, give information within a maxi mum of twenty four hours to the
+Local Public Health Officer or any other authorities notified by the Government in this behalf.
+(2) Where the Government notifies a commucable disease as per section 28 and
+directs the mode of management to be followed exclusively for that disease, including
+collection of specimen, diagnostic and therapeutic procedures, such mode of management and
+procedures shall be followed by all the registered medical practitioners and healthcare
+institutions, who treat the patients having the symptoms of such disease.
+(3) Any medical practitioner and healthcare institutions who contravenes the
+provisions under sub -section (1) and (2) shall be liable to fine specified in section 65.
+32. Instruction regarding the method of prevention of spread of communicable disease
+and notifiable communicable disease to be given. —Any medical practitioner who treats or
+examines with the intention to treat a person having a communicable disease or notifiable
+communicable disease shall, on the first visit, —
+(a) inform such person the need for treatment until the cure is effected;
+(b) give instruction to them about the scientific measures necessary for preventing
+the spread of the disease; 80
+This is a digitally signed Gazette.
+Authenticity may be verified through
+(c) furnish the details about the disease to such person, in the manner as specified
+by the State Public Health Officer.
+33. Registered medical practitioners to certify a person free from notifiable
+communicable disease .—(1) Whenever a person who is affected by communicable disease as
+specified under sub-section (2) of section 28 and sub -section (2) of section 31 or infections
+included in the National Health Programmes, and after getting free from the same, requires to
+be certified as free from the disease, the medical practitioner who treated the pers on herself
+shall, after conducting all the examinations including lab examinations, issue a certificate as to
+free from disease in the specified form.
+(2) If a medical practitioner without sufficient reason refuses to give the certificate
+as per sub -section (1), or issue a certificate without treating as per sub -section (1), shall be
+liable to fine specified in section 65.
+34. Prohibition of the use of water, food or beverage from suspicious source .—(1) If
+the Local Public Health Officer, after checking the hygiene and sanitation, is satisfied that the
+water in any tank, well, tanker containers or other place, if used or consumed or used for any
+other domestic or commercial purpose, may be likely to cause the spread of any communicable
+disease or notifiable communicable disease, shall have the power to prohibit the use of such
+water from such sources.
+(2) If the Local Public Health Officer, after checking the hygiene and sanitation, is
+satisfied that the food or beverage for public consumption or for any other domestic or
+commercial purpose is likely to cause the spread of any communicable disease, sh all have the
+power to prohibit the use of the said food or beverage for the purpose generally or specially
+mentioned.
+(3) The Local Public Health Officer shall have the power, to collect and send the
+sample for testing, if it is required to test the sample of water as per sub section (1) or if it is
+required to take sample of food for testing, can require the Circle Food Safe ty Officer to do so.
+(4) No person shall use or causes to use the food or beverage, the use of which is
+prohibited, as per sub -section (2).
+(5) The Local Public Health Officer who issues any prohibition under this section
+shall inform the same to the Local Self Government Institution as soon as possible, but within
+a maximum of twenty four hours.
+(6) Any institution or person who contravenes the provisions of sub -section (4) shall
+be liable to fine specified in section 65.
+35. Shifting of infected person to hospital .—(1) If the Local Public Health Officer is
+satisfied that any person suffering from a notifiable communicable disease is having any of the
+following conditions, shall with the assistance of the Local Self Government, take steps to shift 81
+This is a digitally signed Gazette.
+Authenticity may be verified through
+that person to required place in order to prevent the spread of disease and for treatment,
+namely: —
+(i) if residing in a place where more than one family resides;
+(ii) if there is no required measures for prevention of the spread of disease and
+for the supervision of treatment;
+(iii) if the presence of this patient in such place is detrimental to the health of
+others;
+(iv) If the public health officer is reasonably satisfied that for the safety of
+patient or for treatment or for any other reasons the patient should be shifted to hospital or
+places where such patients are taken care of.
+(2) No person shall leave or be take away such person, from any hospital or other
+place referred to in sub -section (1) without the permission of the Medical Officer in charge of
+such hospital or place.
+(3) Whoever obstructs the shifting of patient to a hospital or a place as per
+sub-section (1) or who leaves from such hospital in contravention of sub -section (2) shall be
+liable to fine specified in section 65.
+36. Prohibition of contact causing infection to persons .—(1) No person who knows that
+she is suffering from a notifiable communicable disease specified in this Chapter, shall cause
+the risk of infection by her presence or conduct in, —
+(i) any market, theatre or other place for entertainment or gathering; or
+(ii) any school, college, library, play ground and the like places; or
+(iii) any hostel, hotel, cafeteria, resort, stay home, wayside amenities, rented
+house, house boat or club or water theme park; or
+(iv) any factory, shop, workshop or work place; or
+(v) any public conveyance; or
+(vi) any public bathing place; or
+(vii) any other place for public entertainment or public place.
+Explanation :—For the purpose of this section a person shall be deemed to have
+knowledge if any medical practitioner or the Local Public Health Officer has informed such
+person that she has notifiable communicable disease. 82
+This is a digitally signed Gazette.
+Authenticity may be verified through
+(2) No person having the charge of giving care to a person or persons suffering from
+a notifiable communicable disease shall cause to put others under the chance of risk by the
+presence or conduct of such person in any place referred to in sub-section (1).
+(3) Any person who contravenes the provisions of sub -sections (1) and (2) shall be
+liable to fine specified in section 65.
+37. Infected person not to engage in certain trade or occupation .—(1) No person having
+a notifiable communicable disease, whenever such diseases is likely to be spread by her, shall
+not do the following, namely: —
+(a) make, distribute, carry or place for sale, or participate in job relating to
+making, placing or carrying for sale, any food items for consumption of others;
+(b) any activity which cause the spread the infection to others.
+(2) Any person who contravenes the provisions of sub -section (1) shall be liable for
+fine as specified in section 65.
+38. Taking over of buildings and places to prevent the spread of infection .—(1) For the
+purpose of effectively carrying out of the control and preventive measures of communicable
+diseases, the Public Health Officer may, with the permission of the District Collector, enter into
+any building for and if required may take over temporarily in the manner as may be prescribed.
+For conducting such acti vities the Public Health Officer shall ensure the co -operation of the
+Local Self Government Institutions.
+(2) When the purpose of taking over or use of aforesaid such building or place is
+over, the Public Health Officer shall with the assistance of the Local Self Government ensure
+that such building or place is completely disinfected and cleaned.
+39. Power of entry of the Local Public Health Officer to take preventive measures .—The
+Local Public Health Officer or any authorized officer in this behalf may, —
+(a) at all reasonable times, with assistants or otherwise, inspect without notice
+the factories, workshops, work -places, workspaces, business places, educational institutions,
+premises of buildings, plantation, etc ., which are reported or suspected with communicable
+disease or notifiable communicable disease and houses and residence including apartments
+after giving two hours prior notice;
+(b) take measures as may consider necessary to prevent the spread of disease
+beyond such place.
+(2) For conducting all these activities, the assistance and co -operation of Local Self
+Government Institutions shall be ensured. 83
+This is a digitally signed Gazette.
+Authenticity may be verified through
+40. Closure of food handling places and lodging houses .—(1) If the Local Public Health
+Officer is satisfied in the interest of public health that a lodging house or any place where
+articles of food are sold or prepared or exposed for sale or distributed should be closed on
+account of the existence of or that there occured recently a notifiable communicable disease
+in such lodging house or place, the Local Public Health Officer shall have power to direct
+through an order to such institution to be closed until the expiry of such period as may be
+specified in the order or until it is certified by a Medical Practitioner that it is free from illness.
+(2) Any institution or person who violates an order under sub -section (1) shall be
+liable to fine specified under section 65.
+41. Clothes used by infected persons not to be sent to laundry .—(1) No person shall send
+or carry to any laundry or any public water course or tank or public well, for washing any
+cloths, beds or any other articles used by the person or persons infected by communicable
+disease or notifiable communicable disease, witho ut doing the following activities, namely: —
+(a) disinfect in the manner as specified by public health officer;
+(b) to give prior notice that it is infected and to take adequate precaution .
+(2) Any person who contravenes the provisions of sub -section (1) shall be liable to
+fine as specified in section 65.
+42. Power of District Collector to control community gathering .—(1) When there exists
+a circumstance of any communicable disease or notifiable communicable disease in any local
+area or district and the District Collector is of the opinion that such assembly in such place or
+for such purpose would be likely to cause the spreading of communicable disease or notifiable
+communicable disease or of rendering it more virulent she shall, on the application of the Local
+Public Health Officer or otherwise, have power to prohibit, in any individual case, either by
+general or special order the community gathering of persons exceeding the number so specified
+in such order, in any place whether public or private or in any circumstances or for any purpose .
+(2) Any institution or person who contravenes an order issued under sub -section
+(1) shall be liable to fine specified under section 65.
+43. Power of Government to confer special power to officers for the control of
+communicable diseases or notifiable communicable diseases .—Government shall have power
+to confer special powers to the officers concerned for the control of communicable diseases or
+notifiable communicable diseases or both, if the circumstances so warrant.
+44. Prevention of communicable disease transmissible from animals .—If there is an out
+break or a chance of out break of communicable disease in any area transmissible from animals
+to human, the Local Public Health Officer shall immediately convene the Public Health
+Committee to prevent the spread of the disease and to di scuss such matters. The Local Public
+Health Committee shall ensure that the necessary steps for the prevention of disease is being 84
+This is a digitally signed Gazette.
+Authenticity may be verified through
+taken at local level. The Local Public Health Officer shall submit a report thereon to the District
+Public Health Officer.
+45. Control of rodents, dogs and other animals .—(1) The occupier of any premises, or
+if the premises are unoccupied, the owner thereof shall not dump waste, permit the growth of
+thickets and the like in a manner which attract the rodents, dogs and other animals and shall
+destroy the rodents which cause plague and leptospirosis and shall forthwith inform the Local
+Self Governments the details of the dogs which are infected or suspected to have infected with
+rabies.
+(2) Where the Local Public Health Officer is satisfied that the occupier or owner of
+any premises does not comply with the responsibility provided in sub -section (1), shall serve
+a notice to such occupier or owner requiring her to take steps within the tim e specified in the
+notice.
+(3) Any person who raise dogs and cats shall vaccinate them from rabies, at regular
+intervals.
+(4) Any person or institution who contravenes the provisions in sub -sections (1) and
+(3) shall be liable to fine as specified in section 65.
+46. Quarantine of persons suffering from disease .—The Local Public Health Officer
+shall have the power to put under quarantine or to isolate the persons affected by communicable
+disease or notifiable communicable disease in accordance with the guidelines formulated by
+the Government from time to time.
+47. Precuations while handling dead bodies .—The Local Public Health Officer shall
+have the power to bury scientifically the dead bodies of persons who died due to communicable
+disease or notifiable communicable disease, in accordance with the guidelines formulated by
+the Government from time to time.
+48. Guidelines issued by the Government to be implemented .—(1) The State Public
+Health Officer, the District Public Health Officer and the Local Public Health Officer shall
+have the power to implement the guidelines issued by the Government from time to time for
+the prevention, treatment and diagonisis of the not ifiable communicable diseases.
+(2) Each medical practitioner, private -public healthcare institutions shall be
+responsible to follow the treatment methods mentioned in the guidelines issued under
+sub-section (1) for the treatment of any disease included in notifiable communicable disease.
+(3) As per the requirement of the District Public Health Officer each medical
+practitioner and public -private healthcare institutions shall be responsible to provide the details
+with respect to any disease having public health importance in the locality to the District Public
+Health Officer or Local Public Health Officer. 85
+This is a digitally signed Gazette.
+Authenticity may be verified through
+(4) Any medical practitioner or public or private healthcare institutions who
+contravene the provisions in sub -section (2) and (3) shall liable to fine as specified in section
+65.
+49. Power of the Local Public Health Officer to inspect hostel and other common spaces
+for residence .—(1) No person shall manage hostel, paying guest facilities and other common
+spaces for residence without making arrangements for proper sanitation, scientific waste
+disposal facility, safe drinking water and other basic amenities.
+(2) The Local Public Health Officer shall inspect hostels and other common spaces
+for residence and ensure that no over crowding is there in those buildings or places and that
+arrangements have been made in such buildings and places for proper sanitati on, disposal of
+waste and for supply of drinking water in the manner as to the satisfaction of the Local Public
+Health Officer.
+(3) Any institution or person who contravenes the provision of sub -section (1) shall
+be liable to fine as specified in section 65.
+50. Guidelines for managing bio -medical waste .—(1) The Government and the Public
+Health Officer , as directed by the Government, shall have the power to issue guidelines as they
+deem necessary for the management of bio -medical waste and to prevent the spread of any
+infection from such waste and for t he proper disposal of such waste and also have the power to
+execute, implement and to undertake them through the District Public Health Officer and the
+Local Public Health Officer.
+(2) In managing bio -medical waste each medical practitioner and public -private
+healthcare institution shall be responsible to follow the practices as referred to in the guidelines
+issued under sub -section (1):
+Provided that nothing in the section shall contravene any of the provisions contained in
+sections 6 and 25 of the Environment (Protection) Act, 1986 (No.29 of 1986).
+(3) Any medical practitioner and public -private healthcare institutions, who fails to
+comply with the guidelines issued under sub -section (1) shall be liable to fine as specified in
+51. Blood Banks and control of communicable disease .—(1) The State Public Health
+Officer shall have the power to issue scientific guidelines for the maintanance of blood banks
+and to take steps to prevent the spread of any infection through blood transfusion, and to
+implement and execute the same through the District Public Health Officer or the Local Public
+Health Officer.
+(2) Each medical practitioner and public and private healthcare institutions shall be
+responsible to follow the practices specified under sub -section (1) for managing blood bank,
+donation of blood and giving and taking of blood. 86
+This is a digitally signed Gazette.
+Authenticity may be verified through
+(3) Each medical practitioner and public or private healthcare institutions who fails
+to comply with the guidelines issued under sub -section (1) shall be liable to fine as specified
+in section 65.
+CHAPTER 8
+VECTOR CONTROL
+52. Responsibilities of Local Public Health Officer for the control of insects and other
+vectors .—(1) An owner or occupier of land or premises shall by herself take measures to
+prevent the breeding of insects and shall, when directed by the Local Public Health Officer or
+an officer authorised by her, carry out such measures as specified therein.
+Explanation :—For the purpose of this section the term “insects” shall include mosquitoes,
+flies, lice, sand fly, tick, mite and ticks of flea categories, etc..
+(2) The Local Public Health Officer shall find out any cause or causes of breeding
+of insects and shall take measures for the prevention, control and removal of the same. In any
+circumstances, if the Local Public Health Officer is unable to prevent or control or remove such
+cause or causes, she shall report the same t o the Local Public Health Committee.
+53. Prevention of breeding of mosquitoes and other insects in small and large waterloggs
+and water collections .—(1) No person or institution shall cause or permit the following matters,
+namely: -
+(i) maintaining such waterloggs or stagnant water collections in which
+mosquitoes are breeding or likely to breed;
+(ii) keeping animals in a polluted manner which cause breeding of sand flies and
+mosquitoes ;
+(iii) When the presence of ticks in domestic animals is found in a manner likely
+to threaten public health, desist from doing necessary activities to eradicate the same ;
+(iv) causing the growth of insects including mites which cause flea fever (scrub
+typhus) by not maintaining the area owned, occupied or controlled by oneself;
+(v) refrain from preventing or removing water logged in coconut shell and
+spathe, etc in farms and plantation area owned, occupied or controlled by oneself;
+(vi) ignoring the instructions given by the health workers considering the threat
+to public health due to breeding or possiblity of breeding of mosquitoes, sand flies and other
+ticks. 87
+This is a digitally signed Gazette.
+Authenticity may be verified through
+(2) Any person or institution who contravenes the provisions of sub -section (1) shall
+be liable to fine as specified in section 65.
+54. Prevention of breeding of vectors which spread disease .—(1) The Local Public
+Health Officer shall require the owner or occupier of any place where breeding or chance of
+breeding of vectors may happen to prevent breeding of vectors within the time specified in the
+notice through measures which the Public Healt h Officer consider appropriate in the
+circumstance.
+(2) If the place mentioned in sub -section (1) is under the control of a Local Self
+Government Institution or Central Government or State Government, it shall be informed to
+the Head of the office concerned in advance and shall require in writing to init iate actions.
+(3) In the event of noticing of any circumstance of Kyasanur Forest disease
+(monkeypox) or unusual death of monkeys in any area under her jurisdiction, the Public Health
+Officer shall at once carry out required activities for the control of insects.
+(4) In the event of noticing of kala azar disease in any area under her jurisdiction,
+the Public Health Officer shall at once carry out required activities for the control of sand flies.
+55. Powers of the Local Public Health Officer in case of default .— In the event that any
+person who has received a notice under section 54, fails or refuses to take action or to initiate
+remedial measures as specified in the notice within the time stipulated therein the Local Public
+Health Officer may take or initiate such actions directly.
+56. Protection for vector control activities .—(1) In the event that no alterations has been
+carried out in any place or building in accordance with the directions given by the Local Public
+Health Officer or by any officer as directed by the Local Public Health Officer with the object
+of preventing the breeding of vectors, the alterations effected, the works undert aken, the
+measures adopted in such place or building shall not be obstructed, destroyed or cause to be
+weakened by the owner or occupier for the time being of such place.
+(2) Any institution or person who contravenes the provisions of sub -section (1)
+shall be liable to fine as specified in section 65.
+57. Prevention and management of insectborne communicable diseases or notifiable
+communicable diseases consequent to disaster .—(1) The Local Public Health Officer shall, as
+per the instructions of the State or District Public Health Officers, take all steps as may be
+necessary for the prevention and management of any disease including communicable diseases
+or notifiable communicab le diseases that may occur consequent to the natural calamity or other
+disasters:
+Provided that nothing in this section shall contravene the provisions of the Disaster
+Management Act, 2005 (No.53 of 2005). 88
+This is a digitally signed Gazette.
+Authenticity may be verified through
+(2) In the event of situations provided in sub -section (1), the Public Health Officers
+of respective levels shall call for Public Health Committees and shall take immediate necessary
+steps to prevent waterborne – insectborne – animalborne diseases .
+(3) Every person shall be bound to follow the instructions given by the Public Health
+Officer to control waterborne – insectborne – animalborne diseases in the manner as provided
+in sub -section (2).
+CHAPTER 9
+COMMUNITY GATHERINGS AND PUBLIC HEALTH
+58. Sanitary and other arrangements at the places of community gatherings .—(1)
+Person or persons or institutions who call for or convene community gatherings shall ensure
+the following matters, namely: —
+(i) sufficient space and air circulated areas based on the number of people who
+come or likely to come for avoiding accidents due to over crowding in such circumstances;
+(ii) when food is to be served as part of such gatherings, food safety, cleanliness
+and hygeine;
+(iii) safe drinking water;
+(iv) emergency health services;
+(v) required number of latrines are there in places of community gatherings
+and the waste there from are scientifically processed .
+(2) For community gatherings, —
+(i) the owner or the person or persons having occupation of places such as
+constructed halls, auditoriums shall conduct testing of water in sources of drinking water and
+shall ensure the safety of drinking water;
+(ii) the owner or the person or persons having occupation of places where spaces
+and buildings are let out shall ensure arrangement of required number of latrines and that latrine
+waste are processed scientifically .
+(3) In order to ensure that public health is not injuriously affected, the Public Health
+Officer shall do the following matters, namely: —
+(i) arrangement and mechanisms to prevent communicable diseases which are
+subsisting or likely to outbreak, as per warning of the Central and State Governments; 89
+This is a digitally signed Gazette.
+Authenticity may be verified through
+(ii) inspections as to the drinking water and food provided are pure;
+(iii) arrangements are made for emergency health services;
+(iv) equip hospitals to meet emergency situations.
+(4) If the provisions specified in sub -sections (1) and (2) or the directions given by
+the Public Health Officer as per the provisions are not complied with shall liable to fine as
+specified in section 65.
+59. Control over private sources of water supply .—(1) If the Local Public Health officer
+is of opinion that the water supplied for community gatherings is likely to endanger persons or
+the community, the Local Public Health Officer shall give direction to the owner or to other
+person having control to discontinue such water supply or get i t disinfected.
+(2) Any institution or person who contravenes the provisions of sub -section (1)
+shall be liable to fine as specified in section 65.
+60. Notification of community gathering .—(1) In connection with any community
+gathering or otherwise, the Government may by notification in the State or any other authority
+generally or specially authorised by the Government by an order in any area of the State may
+declare as festival area for a period specified therein and shall make necessary arrangements
+and restrictions with regard to public health.
+(2) Any person who contravenes the restrictions imposed as such shall be liable to
+fine as specified in section 65.
+CHAPTER 10
+HEALTHCARE PROGRAMME FOR THE AGED, BEDRIDDEN, SEVERELY ILL,
+DIFFERENTLY -ABLED ETC.
+61. Consideration and priority to be given to the persons facing physical, mental, social
+and economic challenges .—(1) The Local Public Health Officer shall ensure that the activities
+and services formulated as part of prevention of communicable diseases and protection of
+public health are available to the sections of people who need special consideration and
+attention such as aged, bedridden, severely ill, differently -abled etc.. The activities and
+programmes relating to this shall be reviewed by the Dist rict Public Health Officer at the
+District level and the State Public Health Officer at the State level. It shall also ensure that the
+healthcare programmes of Government including palliative care are effectively implemented
+among the section of people co ncerned.
+(2) The District Public Health Officer at district level and the State Public Health
+Officer at State level shall ensure whether programmes mentioned in sub -section (1) are
+effectively implemented. 90
+This is a digitally signed Gazette.
+Authenticity may be verified through
+CHAPTER 11
+CONTROL OF NON -COMMUNICABLE DISEASES
+62. Control of non -communicable diseases. — (1) For the purpose of this Chapter, “non communicable disease” means non -communicable diseases or conditions and which are not
+included in the definitions in clauses (c) and (i) of sub-section (1) of section 2.
+(2) A chronic disease means a non -communicable disease and deviations from
+normal and which includes one or more of the following conditions, namely: —
+(i) permanent impairment occurring due to disease or accident;
+(ii) persisting disability due to disease or accident;
+(iii) disability caused due to unidentifiable pathological condition;
+(iv) condition requiring special training for rehabilitation; and
+(v) requiring long term supervision and observation for cure.
+(3) The following shall normally deem to be non -communicable diseases,
+namely: —
+(i) Diabetes Mellitus;
+(ii) High Blood Pressure(Hypertension);
+(iii) Cancer;
+(iv) Chronic Lung Disease;
+(v) Chronic Renal Disease;
+(vi) Blindness;
+(vii) Heart Disease;
+(viii) Dementia including Alzheimer's Disease;
+(ix) Injuries caused by accidents;
+(x) Musculoskeletal diseases and Arthritis;
+(xi) Neurological Diseases;
+(xii) Obesity; 91
+This is a digitally signed Gazette.
+Authenticity may be verified through
+(xiii) Psychiatric disease;
+(xiv) Rheumatic heart disease;
+(xv) Stroke;
+(xvi) Liver Diseases; and
+(xvii) Genetic Diseases.
+(4) Subject to the provisions specified in sub -section (1) or sub -section (2), the
+Government may notify any other disease as non -communicable disease and if it is deem to be
+not communicable that may be excluded through a notification.
+(5) For the control of non -communicable di sease, t he Government shall bring
+guidelines for health providing, preventive, treatment, rehabilitative and palliative activities
+and shall ensure that the guidelines are followed by the Public Health Officers and the
+healthcare providers. The Government shall a lso formulate and frame policies for the
+prevention and control of the non -communicable diseases and for the implementation of such
+policies, shall give training to healthcare providers, through the Local Public Health Officers.
+(6) Subject to the prevailing health conditions of the people in the locality, the Local
+Public Health Officers shall implement the policies and guidelines formulated by the
+Government in the prevention and control of non -communicable diseases. The Local P ublic
+Health Officers shall also ensure that a situation to nurture healthy habits is created and the
+physical environment for the people of the locality to follow such lifestyles is sustained.
+(7) The Local Public Health Officers shall, as described, promote the prevention
+and control of non -communicable diseases through primary prevention, secondary prevention
+and tertiary prevention and shall include, namely: —
+(i) in primary prevention,
+(a) prevention of air pollution in and out of house;
+(b) arrangement of infrastructural facilities for exercise;
+(c) promotion of healthy food and eating habits;
+(d) promotion of healthy agricultural practices;
+(e) creation of health awareness among general public;
+(f) anti-addiction campaign and awareness thereof;
+(g) other health promotion activities; and 92
+This is a digitally signed Gazette.
+Authenticity may be verified through
+(ii) in secondary prevention,
+(a) early diagnosis and proper treatment;
+(b) conducting of health check -ups at regular intervals;
+(c) control and avoidance of excessive and unscientific use of anitbiotics;
+and
+(iii) in tertiary prevention,
+(a) physical and mental rehabilitation schemes;
+(b) palliative care;
+(c) vocational rehabilitation.
+(8) The Local Public Health Officer shall promote the following matters, namely: —
+(i) activites for exercise and for change of lifestyles which adversely affect
+health by ensuring peoples’ participation through public groups in the health sub -centres;
+(ii) Yoga training and Yoga practicing for the physical and mental rejuvenation
+and health care;
+(iii) Required diet control and lifestyle changes for the prevention of diseases
+when people susceptible to lifestyle diseases are found in health check -ups;
+(iv) enlighten and create awareness about the serious physical and mental illness
+caused to person by the use of intoxicating substances;
+(v) training to health workers to find out those having non-communicable
+diseases and who are susceptible to disease;
+(vi) scientific awareness campaign related to health;
+(vii) training to health workers and others with respect to providing of essential
+first aid in situations of heart attack, burns etc.;
+(viii) programs and activitites proposed by the Government in the school health
+programme.
+
+This is a digitally signed Gazette.
+Authenticity may be verified through
+CHAPTER 12
+MISCELLANEOUS
+63. Meetings of the Committee .—(1) The Committee shall meet at least once in three
+months, at the time and place as may be fixed by the Chairperson. The quorum and the
+procedings of the meeting shall be, as may be prescribed.
+(2) In case of urgent situations, the Member Secretary shall convene the meetings as
+per the direction of the Chairperson.
+(3) All members shall attend the meetings and if a member, in any unavoidable
+reason, is not in a position to attend any of the meeting of the Committee, such member shall
+inform the matter to the Chairperson of the Committee by prior notice in writing an d with the
+permission of the Chairperson, another responsible officer can attend such meeting on behalf
+of such member.
+(4) In relation to a matter, which comes up for the consideration of the meeting,
+officers of other departments or subject experts may be included as invitees with the permission
+of Chairperson.
+64. Manner of serving notices and orders. — (1) Whenever notice is to be given under
+this Act or any rule, regulation or order made thereunder, such notice or order shall be in writing
+and shall be given, —
+(a) by serving or tendering to such person; or
+(b) if such person cannot be found, by leaving it at their last known place of
+abode or business or by giving or tendering to the adult member of the family; or
+(c) even if such person does not reside in such local area and her address
+elsewhere is known, the same may be send in that address by registered post; or
+(d) if none of the manner as aforesaid is available, by affixing it in some
+conspicuous part of such place of abode or busines.
+(2) If a person is the owner or occupier of any building, it shall be necessary to
+mention the name of such owner or occupier in the notice or order, and in the case of joint
+owners and joint occupiers it may be sufficient to serve it to any one of such ow ners or
+occupiers.
+65. Punishments .—(1) Any person or institution who contravenes the other provisions of
+this Act except the provisions of sub -section (8) of section 15, sub -section (7) of section 18 and
+sub-section (3) of section 20 shall be liable to the penalty specified in the following table,
+namely: - 94
+This is a digitally signed Gazette.
+Authenticity may be verified through
+TABLE
+Sl. No. Section Offence Penality
+(1) (2) (3) (4)
+15 Contravene the provisions of sub -section
+(5) An amount not less than fifteen
+thousand rupees and which
+may not exceed thirty
+thousand rupees
+19 Non-compliance of the directions in the
+notice issued by the Public Health Officer
+or an officer not below the rank of Junior
+Health Inspector authorised by her under
+the provisions of sub -section (1) An amount not less than ten
+thousand rupees and which
+may not exceed twenty
+thousand rupees
+23 Failure to comply with the directions
+issued by the Local Public Health Officer
+under sub -section (1) An amount not less than three
+thousand rupees and which
+may not exceed ten thousand
+rupees
+28 Omission to report an incident referred to
+in sub -section (4) Maximum of twenty five
+thousand rupees
+31 Contravenes the provisions of sub sections (1) and (2) An amount not exceeding ten
+thousand rupees
+33 Refusal to furnish certificate stipulated
+under sub -section (1) without sufficient
+reason or issuance of certificate without
+providing treatment as mentioned in sub section (1) An amount not exceeding ten
+thousand rupees
+34 Contravenes the prohibition as per sub section (2) An amount not less than five
+thousand rupees and which
+may not exceed ten thousand
+rupees.
+35 (i) Obstruct the shifting of a patient to a (i) An amount not less than one
+thousand rupees and which 95
+This is a digitally signed Gazette.
+Authenticity may be verified through
+hospital or place as per sub-section (1)
+
+(ii) Leaving or taking from a hospital/other
+place contrary to sub-section (2). may not exceed five thousand
+rupees.
+
+(ii) An amount not less than
+one thousand rupees and which
+may not exceed five thousand
+rupees.
+36 A person having notifiable communicable
+disease or person responsible for taking
+care of such person makes the presence of
+her / patient at the places mentioned in
+rupees.
+37 Contravene the provisions of sub -section
+(1) Maximum ten thousand rupees.
+40 Contravenes an order issued by the Public
+Health Officer as per sub-section (1). Maximum ten thousand rupees.
+41 Contravene the provisions of sub-section
+(1) Maximum ten thousand rupees.
+42 Conduct community gathering in
+contravention of order issued by the
+District Collector under sub-section (1) Maximum twenty five
+thousand rupees.
+45 (i) Dumping of waste in the premises in
+such a manner as to attract rodents, dogs
+and other animals and permitting
+unwanted growth of thicket and the like,
+under
+sub-section (1)
+(ii) Failure to properly vaccinate pet dogs
+and cats against rabies as per sub -section
+(3). (i) Maximum five thousand
+rupees.
+
+(ii) Maximum two thousand
+rupees.
+48 Contravene the provisions of sub-sections
+(2) and (3) Maximum ten thousand rupees
+49 Contravene the provisions of sub -section (1) An amount not less than ten 96
+This is a digitally signed Gazette.
+Authenticity may be verified through
+thousand rupees and which
+may not exceed twenty five
+thousand rupees.
+50 Non- compliance of guidelines issued
+under sub -section (1). An amount not less than ten
+thousand rupees and which
+may not exceed fifty thousand
+rupees.
+51 Non- compliance of the guidelines issued
+under sub -section (2). A maximum amount up to
+twenty five thousand rupees.
+53 Contravene the provisions of
+sub-section (1) A maximum amount up to ten
+thousand rupees.
+56 Contravene the provisions of
+sub-section (1) Maximum ten thousand rupees
+58 Contravene the provisions of
+sub-sections (1) and (2) An amount not exceeding ten
+thousand rupees.
+59 Contravenes the provisions of
+sub-section (1) Maximum fifteen thousand
+rupees
+60 Contravene the restrictions in the order
+notified as per sub -section (1). Maximum ten thousand rupees
+
+(2) A person or institution after conviction for first time for an offence provided in
+columns 2 and 3 of the table under sub -section (1), or repeats such an offence after the offence
+has been compounded, shall be liable to fine for twice the amount specified in column (4).
+66. Cognizance of offences. —(1) Except as otherwise provided in this Act no court shall,
+take cognizance of such an offence unless a complaint in writing is made by the Local Public
+Health Office r, or by a person duly authorized in this behalf within three months from the
+commission of the offence, as per this Act.
+(2) The o ffences punishable under this Act except the offences under sub -section
+(8) of section 15 and sub -section (3) of section 20 shall be non-cognizable and shall be triable
+by a Court of Judicial Magistrate of the First Class.
+67. Special jurisdiction of Magistrate .—Notwithstanding anything contained in subsection (2) of section 29 of the Code of Criminal Procedure, 1973(Central Act 2 of 1974), the 97
+This is a digitally signed Gazette.
+Authenticity may be verified through
+court of judicial magistrate of the first class shall have jurisdiction to impose penalty for the
+offences under sub -section (8) of section 15 and sub -section (3) of section 20 with a fine upto
+two lakh rupees and twenty five thousand rupees respectively.
+68. Compounding of offences. —(1) Notwithstanding anything contained in the Code of
+Criminal Procedure 1973, any offence except offences for which imprisonment alone or both
+imprisonment and fine are provided under this Act, may be compounded, on an application
+made by a person against whom an offence is alleged to have been committed either before
+the institution of the prosecut ion or after the initiation of prosecution, with the permission of
+the court concerned, by the Local Public Health Officer for an amount which is prescribed in
+the rules made under this Act.
+(2) The Local Public Health Officer shall submit a monthly report regarding the
+offences to be compounded as per sub - section (1) to the Local Public Health Committee .
+(3) Application for compounding of offences shall be submitted in the manner
+prescribed.
+(4) When an offence is compounded before initiation of prosecution no prosecution
+proceedings of such offence shall be initiated against whom compounding had been entered
+into:
+Provided that, prosecution shall be initiated when the person repeats the same offence
+after compounding of an offence and such an offence shall not be compounded.
+69. Appeals. —In matters specified under this Act, a n appeal shall lie to the District Public
+Health Committee against the decisions or proceedings of Local Public Health Officer and to
+the State Public Health Committee against the decisions or proceedings of District Public
+Health Officer and to the Govern ment against the decisions or proceedings of State Public
+Health Committee and the decision of the Government thereon shall be final .
+70. Revision. —Any person aggrieved by the decision of the District Public Health
+Committee under section 69 may file revision before the State Public Health Authority and
+may submit to the Government the objections thereon and the decision of the Government
+therein shal l be final .
+71. Bar of jurisdiction of civil courts .—No civil court shall have the jurisdiction to
+entertain any suit, application or petition against any proceedings or decision done or purported
+to be done or taken or purported to be taken by the Public Health Officer or by any other officer
+authorised b y her or the Public Health Committe by exercising any powers as per this Act or
+rules made thereunder.
+72. Protection of actions done in good faith .—No suit, prosecution or other legal
+proceedings shall lie against the Public Health Officer or any officer acted as authorised by
+her or the Public Health Committee or the Members or Secretary of the Committee for anything 98
+This is a digitally signed Gazette.
+Authenticity may be verified through
+done or intended to be done in good faith in respect of any matter as per the provisions of this
+Act or the rules made thereunder.
+73. Act shall not derogatory to other laws .—The provisions of this Act shall be in
+addition to and shall not be derogatory to the provisions of any other laws for the time being
+in force.
+74. Public Health Officers and other officers and employees to be Public Servants .—The
+members of the Public Health Committee, the Public Health Officers and any officer or
+employee acting as authorised by them, shall, whenever they are working or deemed to have
+been working in accordance with the provisions of this Act or the rules and regulations made
+thereunder, be deemed to be public servants within the meaning of section 21 of the Indian
+Penal Code, 1860 (Central Act 45 of 1860).
+75. Delegation of powers by Government .—The Government may, by notification, and
+subject to any restrictions and limitations that may be specified therein authorize any person
+to exercise one or more of the powers conferred by this Act and may in like manner withdraw
+such power:
+Provided that nothing contained in this section shall apply to the power of the
+Government to make rules under this Act as per section 81.
+76. Power to enter and inspect. —For the purpose of enforcing the provisions of this Act,
+the Local Public Health Officer or an officer not below the rank of Junior Health Inspector
+authorised by her, may, without prejudice to the safety and privacy of persons, enter into and
+inspect any institution, building and premise:
+Provided that, no entry shall be made, —
+(a) to such places between sunset and sunrise unless there is an urgent necessity;
+(b) to the dwelling house without the permission of the dewellers unless two hours
+prior notice is given to the dwellers as to the intention of such entry.
+77. Matters to be considered while conducting inspection and imposing fine. —Whenever
+an inspection is conducted and before imposing fine as per this Act, the Local Public Health
+Officer shall consider whether any other authority empowered under any other law for the time
+being in force is or has been initiated proceeding and shall ensure that no contradictory
+decision is taken on the sam e matter.
+78. C onstitution of Public Health Fund .—(1) Immediately after the commencement of
+this Act there shall be constituted a Fund by name Public Health Fund for the implementation
+and co -ordination public health activities. Any fine imposed under this Act, other fees and any
+other amount collected shall be credited to the Fund in the manner prescribed. The amount 99
+This is a digitally signed Gazette.
+Authenticity may be verified through
+in this Fund shall be utilized for the public health activities of the Local Self Government
+Institutions concerned.
+(2) The administrative control, functions, maintenance of accounts and audit etc. of
+the Fund shall be in the manner as prescribed.
+79. Power to remove difficulties .—(1) If any difficulty arises in giving effect to the
+provisions of this Act, the Government may, by order published in the official gazette, make
+such provisions not inconsistent with the provisions of this Act and which appears it to be
+necessary or expedient for removing such difficulty:
+Provided that, no order under sub -section (1) shall be issued after the expiry of two years
+from the date of commencement of this Act.
+(2) Every order issued under sub -section (1) shall be laid as soon as may be after it
+is made before the Legislative Assembly.
+80. Power to make regulations. —(1) The State Public Health Officer may, with the
+previous approval of the Government, make regulations consistent with this Act or the rules
+made thereunder for carrying out the purposes of this Act.
+(2) Every regulation made under this Act, shall be laid as soon as may be after it is
+made, before the Legislative Assembly, while it is in session for a total period of fourteen days,
+which may be comprised in one session or in two successive sessions.
+81. Power of Government to make rules .—(1) The Government may, by notification,
+make rules either prospectively or retrospectively , for carrying out the purposes of this Act.
+(2) In particular and without prejudice to the generality of the powers conferred by
+sub-section (1) , the Government may make rules with respect to all matters expressly required
+or permitted under this Act.
+(3) Every rule made under this Act shall be laid, as soon as may be, after it is made,
+before the Legislative Assembly, while it is in session for a total period of fourteen days which
+may be comprised in one session or in two successive sessions, and if, before the expiry of the
+session in which it is so laid or the session immediately following, the Legislative Assembly
+makes any modification in the rule or decides that the rule should not be made, the rule shall
+thereafter have effect only in such modified form or be of no effect, as the case may be, so
+however that, any such modification or annulment shall not be without prejudice to the validity
+of anything previously done under that rule.
+82. Validation. —(1) Notwithstanding that the Kerala Public Health Ordinance, 2022
+(15 of 2022) ceased to operate on 15th January 2023, anything done or deemed to have been
+done or any action taken or deemed to have been taken as per the penal provisions of the said
+Ordinance shall be deemed to have been done or taken under this Act. 100
+This is a digitally signed Gazette.
+Authenticity may be verified through
+(2) Anything done or any action taken as per the provision of this Act, except the
+penal provisions, within a period from the date of commencement to the date of publication of
+this Act in the Gazette, which could have been done or deemed to have been tak en as per the
+provisions, had the provisions were in existence in the said period, shall be deemed to have
+been done or taken as per the provisions of this Act in so far as they are not inconsistent with
+the provisions of this Act. 101
+This is a digitally signed Gazette.
+Authenticity may be verified through
+PUBLISHED BY THE SUPERINTENDENT OF GOVERNMENT PRESSESAT THE GOVERNMENT CENTRAL PRESS, THIRUVANANTHAPURAM, 2023

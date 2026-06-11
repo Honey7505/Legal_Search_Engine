@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Legal Search Engine</title>
+
+<style>
+body {
+    margin:0;
+    font-family:Segoe UI;
+    background:#0f172a;
+    color:#e2e8f0;
+}
+
+.container {
+    display:flex;
+    height:100vh;
+}
+
+/* ================= SIDEBAR ================= */
+.sidebar {
+    width:320px;
+    background:#0f172a;
+    color:white;
+    padding:20px;
+    overflow-y:auto;
+}
+
+.logo{
+    font-size:24px;
+    font-weight:700;
+    color:#60a5fa;
+    margin-bottom:25px;
+}
+.sidebar-title {
+    margin-top:20px;
+    color:#93c5fd;
+    font-size:13px;
+    text-transform:uppercase;
+}
+
+.sidebar-item {
+    padding:10px;
+    background:#1e293b;
+    margin-top:8px;
+    border-radius:8px;
+    cursor:pointer;
+}
+
+.sidebar-item:hover {
+    background:#334155;
+}
+
+select {
+    width:100%;
+    padding:10px;
+    margin-top:8px;
+    border-radius:8px;
+    background:#1e293b;
+    color:white;
+    border:none;
+}
+
+/* ================= MAIN ================= */
+.main {
+    flex:1;
+    padding:20px;
+    overflow-y:auto;
+    background:#111827;
+}
+
+.search-box {
+    background:#1e293b;
+    padding:20px;
+    border-radius:10px;
+    margin-bottom:20px;
+    border:1px solid #334155;
+}
+
+.search-form {
+    display:flex;
+    gap:10px;
+}
+
+.search-form input {
+    flex:1;
+    padding:12px;
+}
+
+.search-form input{
+    flex:1;
+    padding:12px;
+    background:#0f172a;
+    color:white;
+    border:1px solid #334155;
+    border-radius:8px;
+}
+
+.search-btn {
+    padding:12px 20px;
+    background:#2563eb;
+    color:white;
+    border:none;
+    cursor:pointer;
+}
+
+.card {
+    background:#1e293b;
+    color:#e2e8f0;
+    padding:15px;
+    margin-top:10px;
+    border-radius:10px;
+    border:1px solid #334155;
+}
+.context-box{
+    margin-top:10px;
+    background:#0f172a;
+    color:#cbd5e1;
+    padding:12px;
+    border-left:4px solid #3b82f6;
+    border-radius:8px;
+    line-height:1.7;
+}
+
+.view-btn{
+    display:inline-block;
+    margin-top:10px;
+    padding:8px 14px;
+    background:#3b82f6;
+    color:white;
+    text-decoration:none;
+    border-radius:6px;
+    transition:0.3s;
+}
+
+.view-btn:hover{
+    background:#2563eb;
+}
+
+mark{
+    background:#facc15;
+    color:black;
+    padding:2px 4px;
+    border-radius:4px;
+}
+
+.stats{
+
+display:flex;
+gap:15px;
+margin-bottom:20px;
+
+}
+
+.stats div{
+    background:#1e293b;
+    color:white;
+    padding:15px;
+    border-radius:10px;
+    min-width:120px;
+    text-align:center;
+    border:1px solid #334155;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<!-- ================= SIDEBAR ================= -->
+<div class="sidebar">
+
+<div class="logo">⚖ Legal Portal</div>
+
+<div class="sidebar-title">Browse</div>
+
+<div class="sidebar-item" onclick="loadAllLaws()">
+    📄 All Laws
+</div>
+
+<div class="sidebar-title">States</div>
+
+<select id="stateSelect">
+    <option value="">Select State</option>
+    {% for s in states %}
+    <option value="{{ s }}">{{ s }}</option>
+    {% endfor %}
+</select>
+
+<div class="sidebar-title">Union Territories</div>
+
+<select id="utSelect">
+    <option value="">Select UT</option>
+    {% for u in uts %}
+    <option value="{{ u }}">{{ u }}</option>
+    {% endfor %}
+</select>
+
+</div>
+<!-- ================= MAIN PANEL ================= -->
+<div class="main">
+
+<div class="stats">
+
+    <div>
+        <b>Total Laws</b><br>
+        {{ total_laws }}
+    </div>
+
+    <div>
+        <b>Central Laws</b><br>
+        {{ central_laws }}
+    </div>
+
+    <div>
+        <b>State Laws</b><br>
+        {{ state_laws }}
+    </div>
+
+    <div>
+        <b>UT Laws</b><br>
+        {{ ut_laws }}
+    </div>
+
+</div>
+
+<div class="search-box">
+
+<form method="POST" class="search-form">
+    <input type="hidden" name="state" id="selectedState">
+    <input type="hidden" name="ut" id="selectedUT">    
+    <input type="text" name="query" id="searchInput" placeholder="Search laws..." required>
+    <button class="search-btn">Search</button>
+</form>
+
+</div>
+
+<!-- RESULTS -->
+<div id="results">
+
+{% if not data %}
+
+    {% for pdf in pdf_documents %}
+
+    <div class="card">
+
+        <h3>📄 {{ pdf.law_name }}</h3>
+
+        <p>
+            <b>State:</b>
+            {{ pdf.jurisdiction }}
+        </p>
+
+        <a href="/pdf/{{ loop.index0 }}"
+           target="_blank"
+           class="view-btn">
+           👁 View
+        </a>
+
+    </div>
+
+    {% endfor %}
+
+{% elif data and data.results %}
+
+    {% for r in data.results %}
+
+    <div class="card">
+
+        <h3>{{ r.law_name }}</h3>
+
+        <p><b>State:</b> {{ r.jurisdiction }}</p>
+        <p><b>Section:</b> {{ r.section }}</p>
+        <p><b>Title:</b> {{ r.title }}</p>
+        <p><b>Offence:</b> {{ r.offence }}</p>
+        <p><b>Penalty:</b> {{ r.penalty if r.penalty else "Not Found" }}</p>
+        <a href="/view_pdf/{{ r.chunk_id }}?section={{ r.section }}"
+            target="_blank"
+            class="view-btn">
+        👁 View Law
+        </a>    
+
+        <div style="margin-top:10px;background:#f8fafc;padding:10px;">
+            <div class="context-box">
+                     <b>Context</b><br><br>
+                        {{ r.context|safe }}
+            </div>
+        </div>
+
+    </div>
+
+    {% endfor %}
+
+{% endif %}
+
+
+</div>
+
+</div>
+<script>
+
+// ================= LOAD ALL LAWS =================
+function loadAllLaws(){
+
+    fetch("/all_pdfs")
+    .then(res => res.json())
+    .then(data => renderPDFs(data.results));
+
+}
+
+// ================= STATE FILTER =================
+document.getElementById("stateSelect").addEventListener("change", function(){
+    document.getElementById("selectedState").value = this.value;
+    fetch("/state_pdfs?state=" + this.value)
+    .then(res => res.json())
+    .then(data => renderPDFs(data.results));
+
+});
+
+// ================= UT FILTER =================
+document.getElementById("utSelect").addEventListener("change", function(){
+    document.getElementById("selectedUT").value = this.value;
+    fetch("/ut_pdfs?ut=" + this.value)
+    .then(res => res.json())
+    .then(data => renderPDFs(data.results));
+
+});
+
+// ================= RENDER FUNCTION =================
+function render(results){
+
+    let html = "";
+
+    results.forEach(r => {
+
+        html += `
+        <div class="card">
+
+            <h3>${r.law_name}</h3>
+            <p><b>State:</b> ${r.jurisdiction}</p>
+            <p><b>Section:</b> ${r.section}</p>
+            <p><b>Title:</b> ${r.title || "N/A"}</p>
+            <p><b>Offence:</b> ${r.offence}</p>
+            <p><b>Penalty:</b><br> ${r.penalty || "Not Found"}</p>
+
+            <div style="margin-top:10px;background:#f8fafc;padding:10px;">
+                <div class="context-box">
+                     ${r.context}
+            </div>
+            </div>
+
+        </div>
+        `;
+
+    });
+
+    document.getElementById("results").innerHTML = html;
+}
+
+function renderPDFs(results){
+
+    let html = "";
+
+    results.forEach(pdf => {
+
+        html += `
+        <div class="card">
+
+            <h3>📄 ${pdf.law_name}</h3>
+
+            <p>
+                <b>State:</b>
+                ${pdf.jurisdiction}
+            </p>
+
+            <a href="/view_pdf?pdf=${encodeURIComponent(pdf.pdf_path)}"
+               target="_blank"
+               class="view-btn">
+
+               👁 View Law
+
+            </a>
+
+        </div>
+        `;
+    });
+
+    document.getElementById("results").innerHTML = html;
+}
+</script>
+
+</body>
+</html>
+

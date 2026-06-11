@@ -1,0 +1,364 @@
+The Madhya Pradesh Information Technology (Electronic Service Delivery)
+Rules, 2017
+
+1. Short Title and Commencement
+2. Definitions
+3. System of Electronic Service Delivery
+4. Duty of the Competent Authority to notify the list of public services to be delivered through
+electronic mode
+5. Notification of signing authorities
+6. Powers and Functions of Director of Electronic Service Delivery
+7. Authorised Service Providers for Electronic Service Delivery
+8. Appointment of authorised agents by the Authorised Service Provider
+9. Com mencement of operations by Authorised Service Provider
+10. Authorised Service Provider to collect service charge
+11. Fee to be collected by service provider
+12. Remittance of service charge and fee by the service provider
+13. Presumption with regard to service charge paid to service provider and other conditions of
+obtaining e -services
+14. Receipt or payment of money by or in favour of Government adopting the system of Electronic
+Service Delivery
+15. Filing of form, application or any other document
+16. Issue or grant of any license, permit, sanction or approval
+17. Creation of repository of digitally signed electronic records
+18. Procedure for making changes in a repository of digitally signed electronic records
+19. Creation of secure application software for Electronic Service Delivery
+20. Delivery of e-Services by the Authorised Service Provider or Authorised Agent
+21. Verification of Digitally Signed documents
+22. Audit of the Information Systems and Accounts of Authorised Service Provider and authorised
+agents
+23. Use of special stationery in Electronic Serv ice Delivery
+24. Repeal And Saving
+
+The Madhya Pradesh Information Technology (Electronic Service Delivery)
+Rules, 2017
+:: NOTIFICATION ::
+Dated, 03/07/2017
+No-F 8-2/2016/Forty one(2) : -In exercise of the powers conferred under section 90 read with sections 6
+and 6A of the Information Technology Act, 2000, (No. 21 of 2000) and in supersession of the Department
+notification no. F 3 -1/2007/Fifty six, date 12/07/2011 the Government of Mad hya Pradesh hereby makes
+the following rules, namely:
+Rules
+1. Short Title and Commencement. -
+(1) These rules may be called the Madhya Pradesh Information Technology ( Electronic Service
+Delivery) Rules, 201 7.
+(2)They shall come into force on the date of their publication in the Official Gazette.
+
+2. Definitions .-
+( 1) In these rules, unless the context otherwise requires. -
+(a) "Act" means the Information Technology Act, 2000;
+(b) "authorised agent " means an agent of the Authorised Service Provider and includes an
+operator of an electronically enabled kiosk or front office who is permitted to deliver public
+services to the users with the help of a comput er resource or any communication device, by
+following the procedure specified u nder these rules;
+(c) "Authorised Service Provider " means an agency including a body corporate or an Agency of
+the Government, authorised by the Director of Electronic Service Delivery, to establish and
+manage a system o f delivering services electronically, in accordance with these rules;
+(d) "body corporate " means any company and includes a firm, sole proprietorship or other
+association of individuals engaged in commercial or professional activities;
+(e) "certificate " means a certificate required to be issued by an authority empowered under the
+respective Act, rule, regulation or order of the Government to issue a certificate to confirm the
+status. right or responsibility of a person, either natural or artificial, in accordance with any such
+Act, rule, regulation or order of the Government and includes a certificate in electronic form
+printed and delivered by an Authorised Service Provider with electronic signature on such
+stationery as may be determined by the Directo r of Electronic Service Delivery;
+(f) "Competent Authority " means the Secretaries to the Government, the Head of every
+Department of the State Government and the Heads of Government Organisations and
+Government Bodies, as notified by the State Government from time to time;
+(g) Director of Electronic Service Delivery" means the official of the Government notified as the
+Director of Electronic Service Delivery;
+
+(h) "e-service ", means a service as may be specified by notification and delivered electronicall y to
+the users;
+(i) "electronic service delivery " means the delivery of public services in the form of receipt of
+forms and applications, delivery of any license, permit, certificate, sanction or approval and the
+receipt or payment of money by electronic means or any other such public service rendered b y
+following the procedure specified under these rules;
+(j) "Government " means the Government of Madhya Pradesh;
+(k) "public service" means any service provided by the Government either through its Competent
+Authorities or any of its agencies either direc tly or through any authorized service provider, which
+shall include, inter alia, the receipt of forms and applications, delivery of any license, permit,
+certificate, sanction or approval and the receipt or payment of money;
+(l) "service charge " means the amount as may be specified by the Government to be payable to
+the Authorised Service Provider for electronic delivery of services rendered and does not include
+any duly authorised taxes, charges, dues or any other moneys due in respect of a ser vice payable
+by any person to the Competent Authority concerned that are otherwise payable under the
+respective Act, rule, regulation or order of the Government when making an application to the
+concerned Competent Authority;
+(m) "signing authority " means an authority empowered under the respective Act, rules,
+regulations or order of the Government to issue any license, permit, certificate, sanction or
+approval;
+(n) "Specified " means specified by notification in the Official Gazette by the concerned
+Government;
+(o) “Electronic signature ” means authentication of any electronic record by a subscriber by
+means of the electronic technique in the second schedule and includes digita l signature.
+(p) "State Electronic Records Repository " means an electronic repository of all electronically
+signed records, maintained by Competent Authorities, for the purpose of accessing such records
+and delivering them to the citizens.
+(2) Words and expressions used and not defined in these rules but defined in the Act shall have the
+same meanings assigned to them in the Act.
+3. System of Electronic Service Delivery. -
+( 1) For the purpose of efficient de livery, the Government may authorise an Authorised Service
+Provider to deliver public services through electronically enabled kiosks or any other mechanism for
+electronic service delivery.
+Explanation. - It is hereby clarified that the present rules provide for th e administration of e -service
+delivery through Authorised Service Providers and authorised agents whereas other mechanisms of e service delivery such as State Online portal, Government departmental outlets and online services
+provided to the users directly on the web shall be administered in the normal manner by the respective
+Government departments and agencies.
+
+(2) The form of application and the format of certificate issued under these rules in relation to any e service shall be such as may be specifie d by the Government.
+
+4. Duty of the Competent Authority to notify the list of public services to be delivered through
+electronic mode .-
+(1) Every Competent Authority shall notify within a period of one hundred and eighty days from the
+comi ng in to force of these rules ,-
+(a) the public services of the department, agency or body which can be delivered through electronic
+mode;
+(b) the date by which each such service shall be made available through electronic mode;
+(c) lay down norms for efficiency, quality and accuracy in the form of service levels; and
+(d) the designated officers for delivery of each such service through electronic mode.
+(2) The Competent Authority shall thereafter, review and update these public ations every year or as
+frequently as required.
+
+5. Notification of signing authorities. -
+( 1) The Competent Authorities shall notify the list of signing authorities in respect of different public
+services and local limits of their respective jurisdiction s in the State duly specifying the nature of such
+service, the names of the signing authorities, the duration of the authority and the extent of jurisdiction
+of each such authority.
+(2) The Competent Authorities shall inform the Director of Electronic Service Delivery immediately
+with respect to retirements, transfers, suspensions or termination from services of employees holding
+positions of signing authorities.
+(3) The sig ning authorities shall also inform their Competent Authorities immediately with respect to
+their retirements, transfers, suspensions and terminations and the Competent Authorities shall get the
+changes mentioned in clause (2) implemented in their respective application software.
+
+6. Powers and F unctions of Director of Electronic Ser vice Delivery. -
+(1) Collecting the list of all such services where provide the electronic before that rule & published
+including service provider, process charge, legal fee, service provider system & source through delivered
+service.
+(2) The Director of Electronic Service Delivery shall discharge the following functions and powers,
+namely: -
+(a) to authorise, suspend or terminate the services of the Authorised Service Providers;
+(b) to determine norms relating to the selection of authoris ed agents by the Authorised Service
+Providers;
+(c) to determine functions, responsibilities and liabilities of Authorised Service Providers and
+
+authorised agents;
+(d) to determine norms on the service levels to be complied with by the Authorised Service
+Providers and authorised agents;
+(e) to determine service charges to be charged by the Authorised Service Providers and authorised
+agents for providing e -services;
+(f) to determine terms and conditions relating to the authorisation, suspension or termina tion of the
+services of the Authorised Service Providers and authorised agents; and
+(g) to make alternative arrangements for delivery of e -services, in case of such suspension or
+termination of services of Authorised Service Providers and authorised agent s.
+
+7. Authorised Service Providers for Electronic Service Delivery. -
+The Authorised Service Provider shall provide the notified public services electronically to the users in
+conformity with these rules, by establishing appropriate delivery infrastructure and a network of
+authorised agents, as determined by the Director of Electronic Service Delivery.
+
+8. Appointment of authorised agents by the Authorised Service Provider -
+(1) The Authorised Service Provider may appoint such number of Authorised Agents, as may be
+required to deliver the services electronically to fulfil the norms of efficiency, quality and accuracy laid
+down by the Competent Authority.
+(2) The Authorised Service Provider shall ensure that he as well as all the authorised agents obtain
+Digital Signature Certificates before they commence operations for delive ry of public service
+electronically.
+(3) The Authorised Service Provider may also impart appropriate training to the authorised agent to
+impart them the skills required to deliver the electronic services efficiently and in an error -free manner.
+
+9. Comme ncement of operations by Authorised Service Provider. -
+The Authorised Service Provider shall commence its commercial operation for Electronic Service
+Delivery only after -
+(a) he has confirmed in writing or through e -mail duly signed by digital signature to the Director of
+Electronic Service Delivery with respect to the adoption of procedures and standards specified under
+these rules; and
+(b) he has installed fac ilities and infrastructure needed for efficient delivery of electronic services and
+in an err or-free manner in terms of norms laid down by the Director of Electronic Service Delivery and
+confirm the same in writing or through e -mail duly signed by digital signature to the Director of
+Electronic Service Delivery.
+
+10. Authorised Service Provider t o collect service charge. -
+(1) The application for an e -service submitted by a user to an Authorised Service Provider or an
+
+authorised agent shall be accompanied by such service charge as may be determined by the Director of
+Electronic Service Delivery which is payable in cash to the Authorised Service Provider, at the time of
+making the application.
+(2) The Director of Electronic Service Delivery may determine service charges by notification for e services.
+(3) The service charges may be different for different e -services such as, -
+(a) the status enquiry;
+(b) print -outs related to e -services;
+(c) the scanning of documents related to e -services;
+(d) the acknowledgement receipt; and
+(e) any other e -service.
+(4) The service charge shall not include any duly authorised taxes, charges, dues or any other moneys
+due in respect of a service payable by a ny person to the Competent Authority concerned that are
+otherwise payable under the respective Act, rule, regulation or order of the Government when making
+an application to the concerned Competent Authority.
+
+11. Fee to be collected by service provider. -
+(1) Any fee or duly authorised taxes, charges, dues or any other moneys due in respect of a service
+payable by any person to the Competent Authority concerned that are otherwise payable under the
+respective Act, rule, regulation or order of the Government when making an application to the
+concerned Competent Authority, shall also be collected by the Authorised Service Provider or the
+authorised agent as the case may be, except for those payments that are ordinarily required to be made
+in the form of court fee stamps or treasury challans.
+(2) The fee collected by the Authorised Service Provider or the authorised agent shall be remitted with
+the Government treasury as may be determined by the Director of Electronic Service Delivery as the
+case may be .
+
+12. Remittance of service charge and fee by the service provider. -
+(1) Out of the service charge collected by the Authorised Service Provider or the authorised agent for
+an e-service, a percentage of the service charge as may be determined from time to time b y the
+Director of Electronic Service Delivery may be apportioned to the Government.
+(2) The share of the Government out of the service charge so collected shall be remitted by the
+Authorised Service Provider or the authorised agent to Government treasury as may be determined by
+the Director of Electronic Service Delivery.
+13. Presumption with regard to service charge paid to service provider and other conditions of
+obtaining e -services. -
+(1) Where a ny person pays a service charge to an Authorised Service Provider or an authorised agent
+in respect of any notified e -service, the print -out or the electronic prompt acknowledging the payment
+
+in the relevant form and manner as may be determined by the Dire ctor of Electronic Service Delivery
+and provided to such person by the Authorised Service Provider or authorised agent shall normally be
+taken as proof of such payment and it shall be presumed that in normal circumstances the dues or
+claims, for which the acknowledgement is purportedly issued,
+have been satisfied to that extent.
+(2) The payment of service charges to the Authorised Service Provider or the authorised agent shall by
+no means create any right or title, temporary or permanent in nature in favour of a person conce rned
+regarding obtaining the notified e -services.
+(3) It would not be sufficient merely to make payment to all conditions associated with delivery of the
+service are not met fully at the time of making payment to the Authorised Ser vice Provider or the
+authorised agent.
+
+14. Receipt or payment of money by or in favour of Government adopting the system of Electronic
+Service Delivery -
+The receipt or payment of money by or in favour of Government adopting the system of Electronic
+Service Delivery shall be deemed to be a receipt or payment effected in compliance with the Financial
+Code and Treasury Code of the Government.
+
+15. Filing of form, application or any other document -
+( 1) Any form, application or any other document referred to in clause (a) of sub -section (1) of section 6
+of the Act may be filed with any office, authority, body, agency or Authorised Service Provider
+authorised by the Government of Madhya Pradesh using the application software specified by it.
+(2) The office, authority, agency or Authorised Service Provider referred to in sub -clause ( 1) shall,
+while developing such software, take into account the following features of the electronic record,
+namely: -
+(a) life time;
+(b) preservability;
+(c) accessibility;
+(d) readability;
+(e) comprehensibi lity in respect of linked information;
+(f) evidentiary value in terms of authenticity and integrity;
+(g) controlled destructibility; and
+(h) augmentability.
+
+16. Issue or grant of any license, permit, sanction or approval. -
+(1) Any license, permit, sanction or approval referred to in clause (b) of sub -section (1) of section 6 of
+the Act may be issued or granted by using the application software specified under rule 15.
+(2) The license, permit, certificate, sanction or approv al so issued shall be in the form prescribed in the
+respective Act, rule, regulation or order and shall contain the name and designation of the signing
+authority who had digitally signed and approved the electronic record along with the date and time of
+creation of such record.
+
+17. Creation of repository of digitally signed electronic records. -
+(1) The Competent Authorities may, as soon as, after the coming into effect of these rules create,
+establish and maintain a repository and database of digitally s igned electronic records together with the
+associated application software and workflow to enable Authorised Service Providers or the authorised
+agents to access such licenses, permits, certificates, sanctions or approvals, as the case may be, and
+deliver them to the user.
+(2) The relevant security procedures, as specified by the Government, shall be followed by such
+Competent Authorities, in respect of the electronic data, information, applications, repository of
+digitally signed electronic records and in formation technology assets under their respective control .
+
+18. Procedure for making changes in a repository of digitally signed electronic records. -
+( 1) Any Competent Authority or any signing authority, either suo motu, or on an application by an
+interested party, may make or order to make an appropriate change in a repository of digitally signed
+electronic records, after following the procedure prescribed in the respective Act, rule, regulation or
+order.
+(2) Any such au thority shall have privileges for making or ordering changes on ly in respect of the
+electronic records pertaining to its own jurisdiction.
+(3) Any change effected to any record in a repository of digitally signed electronic records, and any
+addition or de letion of a record from such repository of electronic records shall invariably be digitally
+signed by the respective authority and an electronic audit trail of all such changes shall be maintained.
+
+19. Creation of secure application software for Electron ic Service Delivery .-
+(1) The Competent Authorities shall get appropriate application software created, using which, the
+Signing Authorities, shall digitally sign the license, permit certificate, sanction or approvals, and get
+the same audited by a third p arty agency, so as to ensure its security, reliability, performance and
+consistency, before it is deployed.
+(2) Every such application software shall, inter alia, possess the capability to assign a unique
+identification to each license, permit, certificate, sanction or approval.
+(3) Every Authorised Service Provider shall create its own application software in consultation with
+the respective Competent Authorities, which shall enable such Authorised Service Providers to deliver
+
+electronic services in accordance with these rules.
+(4) Every such application software created either by the Competent Authority or the Authorised
+Service Provider shall, inter alia, possess the following features and capabilities, namely: -
+a) secure Login of Authorised Agents, as are required to access the application system, through use
+of Digital Signature Certificates;
+b) secure access of Authorised Agents, to the repositories of digi tally signed electronic records
+maintained by the Competent Authorities, for printing and delivery of the digitally signed
+license, permit, certificate, sanction or approvals; and
+c) to assign an unique identification to the voucher or receipt issued by any authorised agent while
+providing electronic services to the citizens.
+(5) The Director of Electronic Service Delivery shall get such application software audited by a third
+party agency, as to ensure its security, reliability, performance and consistency, before it is deployed
+by the Authorised Service Provider and also as and when changes are made in the application software.
+
+20. Delivery of e-Services by the Authorised Service Provider or Authorised Agent. -
+(1) On a request made by a use f or provision of a service, relating to the issue of any license, permit,
+certificate, sanction or approval and to the receipt or payment of money, the Authorised Service
+Provider or the authorised agent shall access the respective departmental repository of digitally sign ed
+electronic records through their secured application specified in rule 19, in respect of any license,
+permit, certificate or approval or the database in respect of any payment or receipt
+(2) The Authorised Service Provider or the authorised agent shall be permitted to have such access
+only with the use of its digital signature certificate.
+(3) The Authorised Service Provider or the authorised agent shall accept the specified fees, tax, duty or
+payment along with the service charge, down load the relate d license, permit, certificate, sanction or
+approval or the database record relating to any payment or receipt, print the license, permit, certificate,
+sanction or approval from the repository of digitally signed electronic records, or the payment voucher
+or receipt from the relevant database, and print the document using the secure application software
+and the secure stationery.
+
+21. Verification of Digitally Signed documents. -
+(1) The Competent Authorities shall cause to be created a system (portal /website) of online
+verification of any license, permit, certificate, sanction, approval or receipt delivered by any
+Authorised Service Provider or the authorised agent or the State Electronic Records Repository.
+(2) Any person or authority, desirous of ve rifying the authenticity of any document or certificate issued
+under these rules. may access such portal or the website using the unique identification printed on the
+document sought to be verified.
+
+22. Audit of the Information Systems and Accounts of Authorised Service Provider and authorised
+
+agents. -
+( 1) The Director of Electronic Service Delivery shall cause an audit to be conducted of the records
+and accounts of the Authorised Service Providers a nd their authorised agents in the State at such
+intervals as deemed necessary by an agency empanelled as an information security auditing
+organization.
+(2) The audit referred to in sub -rule (I) may cover aspects such as security, confidentiality and priva cy
+of information, the functiona lity and performance of any application software used in the electronic
+delivery of services and the accuracy of accounts kept by the Authorised Service Providers and their
+authorised agents.
+(3) It shall be incumbent on th e Authorised Service Provider and their authorised agents to provide
+such information and assistance to the audit agencies appointed by the Director of Electronic Service
+Delivery to comply with the directions given by the audit agencies and to rectify the defects and
+deficiencies pointed out by the audit agencies.
+
+23. Use of special stationery in Electronic Service Delivery .-
+( 1) The special stationery used by the Authorised Service Providers and its agents for delivery of the
+services shall be determined by the Director of Electronic Service Delivery with accompanying
+security features for forms, applications, licenses, permi ts, certificates, receipts of payment and such
+other documents as part of the Electronic Service Delivery.
+(2) The certificates, licenses and permits shall carry a declaration in the format as may be determined
+by the Director of Electronic Service Delive ry.
+
+24. Repeal And Saving :
+(1) The Madhya Pradesh Information Technology (Regulation of Electronic Delivery of Citizen
+Services and Appointment of Service Provider) Rules, 2011 are hereby repealed.
+(2) Notwith standing the repeal of the said rules, anything done or any action taken under the
+said rules shall be deemed to have been done or taken under the corresponding provisions of
+these rules.
+
+----------------

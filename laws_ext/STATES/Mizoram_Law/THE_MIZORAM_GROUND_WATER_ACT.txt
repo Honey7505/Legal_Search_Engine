@@ -1,0 +1,478 @@
+- PB - - 1 - Ex-341/2023 Ex-341/2023
+The Mizoram Gazette EXTRA ORDINARY Published by Authority RNI No. 27009/1973 Postal Regn. No. NE-313(MZ) 2006-2008
+VOL - LII Aizawl, Tuesday 4.07.2023 Ashadha 13, S.E. 1945, Issue No. 341
+NOTIFICATION No.H.12015/271/2023-LJD(PHE), the 3rd July, 2023 : The following Ordinance is hereby published
+for general information.
+‘The Mizoram Ground Water (Control and Regulation) Ordinance, 2023
+(No. 2 of 2023)
+(Received the assent of the Governor of Mizoram on 13.06.23)
+THE MIZORAM GROUND WATER (CONTROL AND REGULATION) ORDINANCE, 2023
+AN ORDINANCE to regulate and control the development and management of ground water in the State of Mizoram and for
+matters connected therewith and incidental thereto.
+WHEREAS, the Legislative Assembly of Mizoram is not in session, and the Governor of Mizoram is
+satisfied that circumstances exist which render it necessary for him to take immediate action;
+NOW, THEREFORE, in exercise of the powers conferred by clause (1) of article 213 of the Constitution,
+the Governor of Mizoram is please to promulgate the following Ordinance, namely :-
+- 2 - - 3 - Ex-341/2023 Ex-341/2023
+CHAPTER-1
+PRELIMINARY
+1. Short title, extent and commencement . (1) This Ordinance may be called “The Mizoram Ground Water (Control and Regulation) Ordinance,
+2023”.
+(2) It shall extend to the whole of Mizoram.
+(3) It shall come into force immediately.
+2. Definitions . (1) In this Ordinance, unless the context otherwise requires.-
+(a) “artificial recharge to ground water” means the process by which ground water reservoir is augmented
+at a rate exceeding that under natural condition of replenishment.
+(b) “Authority” means The State Ground Water Authority established in accordance with section 3 of this
+Ordinance.
+(c) “availability of water” means total estimated water available in a particular area during an assessment
+period and calculated with the standard prescribed procedures.
+(d) “business/ commercial” means users using ground water for sale, supply through tankers as earning
+business or as a raw material like packaged drinking & soft drinking water, distilleries, breweries,
+construction works and cooling system in industrial & commercial complexes, etc.
+(e) “drinking water” in relation to the use of water, means consumption or use of water by human
+population for drinking and for other domestic purposes and includes consumption of water for similar
+relevant purposes for domestic animals.
+Explanation: For the purposes of this clause, the expression “domestic purposes” shall include
+consumption or use of water for cooking, bathing, washing, cleansing and other day to day activities.
+(f) “Government” means the Government of Mizoram.
+(g) “ground water” means the water which exists below the ground surface of the zone of saturation and
+can be extracted through wells or any other means or emerges as springs and base flows in streams and
+rivers.
+(h) “Ground Water Authority” means an Authority prescribed or established under this Ordinance.
+(i) “Notified Area” means the area notified under section 10 of the Ordinance.
+(j) “Ordinance” means ‘The Mizoram Ground Water (Control and Regulation) Ordinance, 2023’.
+(k) “prescribed” means prescribed by rules made under this Ordinance.
+(l) “rainwater harvesting” is the technique of collection and storage of rain water at surface or in subsurface aquifer.
+(m) “sink” with all its grammatical variations and cognate expression in relation to a well includes any
+digging, drilling or boring of new well or deepening carried out to the existing wells.
+(n) “spring ” location where ground water naturally emerges from the Earth’s subsurface in a defined flow
+and in an amount large enough to form a pool or stream-like flow.
+- 2 - - 3 - Ex-341/2023 Ex-341/2023
+(o) “Technical Officers” means hydrogeologists in the office of Ground Water Resources Assessment Cell
+of PHE Department, not below the rank of Assistant Hydrogeologist.
+(p) “user of ground water” means the person or persons an institution including a Company or an
+Establishment, whether Government or non-government who or which extract or use or sell ground
+water for any purpose including domestic use made either on a personal or community basis.
+(q) “well” means a well sunk for the search or extraction of ground water and includes open dug well,
+drilled well, point collector well, infiltration gallery, recharge well or any of their combinations or
+variations.
+(2) Words and expressions used herein but not defined herein shall have the same meaning assigned to
+them in any other relevant Act.
+CHAPTER-II CONSTITUTION OF THE MIZORAM GROUND WATER AUTHORITY
+3. Constitution of the Mizoram Ground Water Authority . (1) The State Government may, by notification in the Official Gazette, constitute with effective from such
+date as may be specified in the notification, an authority called the Mizoram Ground Water Authority, State
+Level Working Group and District Committee as follows.
+(a) The Authority shall consist of following members:
+(i) Secretary, Public Health Engineering Department - Chairman
+(ii) Engineer-in-Chief, Public Health Engineering Department - Member Secretary
+(iii) PCCF, Environment, Forest & Climate Change Department - Member
+(iv) Regional Director, CGWB, NE India - Member
+(v) Chief Engineer, Irrigation & Water Resources Department - Member
+(vi) Director, Land Resources Soil & Water Conservation Department- Member
+(vii) Director, Directorate of Geology and Mining - Member
+(viii) Director, Agriculture Department - Member
+(ix) Director, Rural Development Department - Member
+(x) Director, Horticulture Department - Member
+(xi) Director, AH and Veterinary Department - Member
+(xii) Member Secretary, Mizoram State Pollution Control Board - Member
+(xiii) Director, Land Revenue and Settlement Department - Member
+(xiv) Head of Department, Department of Geology, Mizoram University- Member
+(xv) Hydro-geologist, Public Health Engineering Department - Member
+(b) State Level Working Group shall consist of the following members.
+Chairman : Secretary, PHE Department Member Secretary : Hydrogeologist, PHE Department
+- 4 - - 5 - Ex-341/2023 Ex-341/2023
+Members : Representative from
+(i) Environment, Forests & Climate Change Department
+(ii) Irrigation & Water Resources Department
+(iii) Land Resources Soil & Water Conservation Department
+(iv) Agriculture Department
+(v) Directorate of Geology and Mining
+(vi) Mizoram University
+(c) District Committee shall consist of the following members.
+Chairman : Deputy Commissioner Member Secretary : Executive Engineer, PHE Department Members : Representative from
+(i) Environment, Forests & Climate Change Department.
+(ii) Irrigation & Water Resources Department
+(iii) Land Resources Soil & Water Conservation Deptt.
+(iv) Agriculture Department
+(v) Directorate of Geology and Mining
+(vi) Rural Development Department
+(vii) Horticulture Department
+(viii) AH and Veterinary Department
+(ix) Land Revenue and Settlement Department
+(2) The Authority constituted under sub-section (1) shall be a body corporate having perpetual succession
+with power to contract, acquire, hold and dispose of property, both movable and immovable and to do all
+things necessary for the purpose of this Ordinance and may sue and be sued by the said name.
+4. Meeting of the Mizoram Ground Water Authority. The Mizoram Ground Water Authority shall meet at least once in a year at such place and time as the
+Chairman may decide.
+5. Staff of the Mizoram Ground Water Authority. (1) The State Government may for the purpose of enabling the Ground Water Authority to perform its
+functions efficiently and exercise its powers under the Ordinance, appoint such number of technical officer
+and other relevant staff as it may consider necessary to implement the purpose of ground water development
+in the State.
+(2) The functions as well as the terms and conditions of service of such employees shall be such as may
+be prescribed.
+- 4 - - 5 - Ex-341/2023 Ex-341/2023
+6. Members and employees of the Mizoram ground Water Authority to be Public Servants. All members and employees of the Ground Water Authority shall when acting or purporting to act in
+pursuance of the provisions of this Ordinance or of any rules made there under be deemed to be Public
+Servants within the meaning of section 21 of the Indian Penal Code, 1860 (Act No. 45 of 1860).
+7. Powers of the Mizoram Ground Water Authority . (1) The Mizoram Ground Water Authority or any other official authorized by it in writing in this behalf
+shall have power: (a) to enter any property (private or government owned) with the right to collect information and to
+investigate and make any measurements concerning the land or the water located on the surface and
+underground;
+(b) to inspect the well, which is being sunk or has been sunk and take the specimens of the soils and
+other materials or water sample extracted from such wells;
+(c) to give necessary directive for submitting the boreholes record and soil samples;
+(d) to order in writing the persons sinking a well to keep and preserve in the prescribed manner specimens
+of soils or any material excavated therefrom for such period not exceeding three months from the date
+of completion or abandonment of the work as may be specified by the Authority and such person shall
+comply with such requisition;
+(e) to inspect and to take copies of the relevant records or documents and ask any questions necessary
+for obtaining any information (including diameter and depth of the well which is being or has been
+sunk; the level at which the water is or was struck and subsequently restored/rested, the types of strata
+encountered in sinking of the well and the quality of the ground water struck, etc) required for carrying
+out the purposes of this Ordinance;
+(f) to give necessary directives to users of ground water to install water measuring devices on any water
+supplies when necessary to properly administer the water or where there is reason to believe that the
+user does not comply with the provisions contained in this Ordinance or any other sufficient reason for
+defending the public interest:
+Provided that where the user of ground water does not comply with the requisition issued to him
+within a period of sixty days, the ground water authority itself may install such water-measuring device
+and recover the cost from the defaulting user of ground water;
+- 6 - - 7 - Ex-341/2023 Ex-341/2023
+(g) to seize any equipment/device utilized for illegal sinking of well and demolish any structure for
+illegal abstraction of ground water;
+(h) to direct any user of ground water who does not comply with the provision of this Ordinance and
+rules framed there under to close down the extraction of ground water, disconnect power supply or
+destroy any hydraulic work found to be illegal as per the provisions of this Ordinance and the rules
+framed there under;
+
+(i) to enter and search with such assistance, if any, as it considers necessary, any place in which it had
+reason to believe that offence under this Ordinance has been or is being committed and order in writing
+the person who has been or is committing the offence not to extract or use the ground water for specified
+period exceeding thirty days;
+(j) to retrieve or enforce regulatory authority on the land given to any individual by village council or
+local council on the ground that such areas(s) is/are potential areas(s) for artificial groundwater recharge
+to prevent drought of a spring water, while that spring water is drinking water source of the concerned
+village/area.
+(k) to exercise such other powers as may be necessary for carrying out the purposes of this Ordinance
+or any rules made there under.
+(2) The power conferred by sub-section (1) includes the power to break open the door of any premise
+where sinking, extraction and use of ground water may be going on;
+Provided that the power to break open the door shall be exercised only after the owner or any other
+person in occupation of the premises, if he is present therein, refuse to open the door on being called to do
+so.
+(3) The provisions of the Code of Criminal Procedure 1973 (2 of 1974), shall so far as may be, apply to any
+search or seizure under this section as they apply to any search or seizure under this section as they apply
+to any under section 93 of the said Code.
+(4) Where the Authority seizes any mechanical equipment under clause (g) of sub-section (1) of section 7,
+it shall as soon as may be inform the Magistrate within whose area of jurisdiction such seizure took place
+and take orders as to the custody thereof.
+
+(5) To impose and charge Ground water fees, penalties and environmental charges in the prescribed manner.
+- 6 - - 7 - Ex-341/2023 Ex-341/2023
+8. Delegation of power and duties. The Authority may delegate any of their powers to the District level authorities or any Department or
+Officer of the Government for the purpose of carrying out the provisions of this Ordinance. The Authority
+may, by general or special order in writing, direct that all or any of the duties which may be exercised or
+discharged by it shall, in such circumstances and under such conditions, if any, as may be specified in its
+order be exercised or discharged also by any other officer/official of the Ground Water Authority, specified
+in this behalf in the order.
+9. Functions of the Mizoram Ground Water Authority.Subject to any special or general directions by the Government in this behalf, the Authority shall perform
+the following functions, namely:
+(a) Regulate and control ground water development in the State. The Authority will monitor the
+overlapping of the different schemes in the same area and will conduct the impact study and make
+coordination with different Departments and Central Government Departments/ Agencies, which are
+implementing the various kinds of schemes in the State for water conservation to control the depletion of
+natural ground water resources;
+(b) make rules for functioning of the authorities at State level as well as District level and Working Group
+constituted under the Ordinance;
+(c) advise the Government on the legislative and administrative measures to be taken from time to time
+for the conservation of ground water resources and its protection from pollution;
+(d) advise on economic measures to be taken by the Government as incentives or disincentives relating
+to taxes, levies, fees or other charges to regulate over- exploitation and water quality of ground water,
+promote conservation and recharge of ground water;
+(e) advise on any other matter that may be referred to it by the Government.
+10. Power to notify any areas as “Notified Area” for Control and Regulation of Ground Water
+Development.(1) The Authority shall function under the overall control and supervision of the State Government.
+(2) If the Authority is of the opinion that it is necessary or expedient in the interest of the public to regulate
+the extraction or the use of ground water in any form in any area, it will advise the State Government
+- 8 - - 9 - Ex-341/2023 Ex-341/2023
+to declare any such area to be a notified area for the purpose of this Ordinance, with effect from such
+date as may be specified therein. This declaration will be notified in the Official Gazette;
+Provided that the date so specified in the notification shall not be earlier than three months
+from the date of publication of the said notification.
+(3) Every such notification shall, in addition to its publication in the Official Gazette, be published in
+not less than one daily regional language newspaper having wide circulation in the State, and shall also
+be served in such manner as the State Government may think fit and all or any of the following modes
+may be followed in affecting such service, namely: -
+(a) by putting on the website of the authority
+(b) by affixing a copy of the notification to some conspicuous part of the offices of the Village Council/
+Local Council located in the said area;
+(c) by proclaiming by beat of drum or by means of loudspeakers the content of the notification in the
+said area;
+(d) in such other manner as may be prescribed.
+(4) If in the opinion of the Authority, the availability of the ground water has improved in a notified
+area, it may advise State Government to de-notify such area and the State Government may do so
+according to the procedure prescribed under sub-section (3).
+(5) The Authority will also take steps to ensure that exploitation of ground water resources does not
+exceed the natural replenishment to the aquifers. Whenever there is mismatch, steps will be taken
+to ensure augmentation of ground water resources in addition to regulatory measures.
+(6) The authority shall maintain and upkeep the data-base on ground water related information.
+11. Grant of permit to extract and use Ground water in the Notified Area . (1) User of ground water desiring to sink a well or to convert the existing well into pumping well in the
+notified area for any purpose either on personal or community basis, shall apply to the Authority
+for grant of a permit for this purpose, and shall not proceed with any activity connected with such
+sinking or conversion unless a permit has been granted by the Authority.
+(2) Every application under sub-section (1) shall be made in such form, and shall contain such
+particulars and in such manner as may be prescribed.
+(3) On receipt of an application under sub-section (1), if the Authority is satisfied that it shall not be
+against public interest to do so, it may grant, subject to such conditions and restriction as may be
+specified, a permit authorizing the extraction and use of ground water. The conditions will include
+- 8 - - 9 - Ex-341/2023 Ex-341/2023
+mandatory provision of artificial recharge structures of appropriate size to be constructed by the
+applicant within a period as specified by the Authority:
+Provided that no person shall be refused a permit unless he has been given an opportunity
+of being heard.
+(4) The decision regarding the grant or refusal of the permit shall be intimated by the Authority to the
+applicant within a period of 60 days from the receipt of the application.
+(5) In granting or refusing a permit under sub-section (3), the Authority shall have regard to:
+(a) the purpose or purposes for which ground water is to be used;
+(b) the existence of other competitive users;
+(c) the availability of ground water;
+(d) quantity of ground water to be drawn;
+(e) quality of ground water with reference to use;
+(f) spacing of ground water structures keeping in consideration the purpose for which ground
+water is to be used;
+(g) long-term ground water level behavior;
+(h) its likelihood of adversely affecting water availability of any drinking water source in its
+vicinity;
+(i) any other factor relevant thereto.
+(6) The permit shall be in such form as may be prescribed, and shall include: (a) the devices used;
+(b) the quantity of ground water withdrawal and hours of operation per day;
+(c) the total period of use in each year;
+(d) the purpose or purposes for which ground water is being extracted;
+(e) in case the requirement of ground water is for purpose of drinking water, the approximate
+population to be served;
+(f) in case of irrigation well, the location and extend of area irrigated; and
+(g) in the case of State, Municipal or Community run water supply schemes, the details of the
+services involved in addition to the quantities of ground water extracted, the diversion or the
+pumping points and their locations.
+(7) Agriculture sector may be exempted from having NOC for ground water extraction and drawing
+of ground water less than 10cum per day.
+(8) Any user of groundwater desiring to sink a well within the forest reserved area, should take
+prior permission from Environment, Forest and Climate Change Department before apply to the
+authority.
+- 10 - - 11 - Ex-341/2023 Ex-341/2023
+CHAPTER-III GROUND WATER PROTECTION MEASURES
+12. Registration of existing users in Notified Area . (1) Every existing user of ground water in the notified area of the State shall, within a period of 90 (Ninety)
+days from the date of establishment of the Authority by the State Government, apply to the Authority for
+the grant of a certificate of registration recognizing its existing use in such form and in such manner as may
+be prescribed:
+Provided that the Authority may entertain any such application after the expiry of the said period of
+(Ninety) days, if it is satisfied that the user was prevented by sufficient cause from filing the application
+in time.
+
+(2) The details to be furnished in applications under sub-section (1) shall include the following, namely:
+(a) the description of the source of water, such as type of well, its exact location, size and specifications
+and date of installation;
+(b) the device used for lifting water;
+(c) the quantity of ground water extracted and hours of operation per day;
+(d) the total period of use in each year;
+(e) the purpose or purposes for which the water is being extracted;
+(f) the period of use in each year for the purpose or purposes;
+(g) in case the requirement of ground water is for drinking water, the approximate population to be served;
+and
+(h) in the case of irrigation well, the location and extent of the area irrigated.
+(3) On receipt of an application under sub-section (1) if the Ground Water Authority is satisfied that it shall
+not be against the public interest to do so, it may grant, subject to such conditions and restriction as may be
+specified, a certificate of registration authorizing the continued use of the water:
+Provided that no person shall be refused a certificate of registration unless he has been given an
+opportunity of being heard.
+(4) The decision regarding the grant or refusal of the registration shall be intimated by the Ground Water
+Authority to the applicant within a period of 60 days from the receipt of the application. A copy of this
+refusal may also be sent to the concerned Department including Mizoram State Pollution Control Board,
+District Administration etc. so that further action in the matter is taken by Department concerned.
+(5) In granting or refusing a certificate of registration under sub-section (4) the Ground water Authority
+- 10 - - 11 - Ex-341/2023 Ex-341/2023
+shall have regard to: -
+(a) the purpose or purposes for which ground water is being used.
+(b) the existence or other competitive users;
+(c) the availability of ground water;
+(d) any other fact relevant thereto.
+(6) If a registered well becomes defunct, this fact should be immediately brought to the notice of the
+Ground Water Authority by the user of such ground water and the defunct well should be sealed properly.
+13. Grant of permit to extract Ground Water and registration of users of existing and new wells in nonnotified area. (1) The provisions under section 11 will also be applicable in the non-notified area.
+(2) All wells sunk/installed in the State shall have to be registered including the areas not notified under sub
+section (2) of section 10 of the Act.
+(3) The provisions under sub-section (6) of section 12 will also be applicable for the purpose of this section.
+14. Registration of drilling agencies . –
+(1) Every drilling rig which are utilized within the State shall be registered to the Authority in such manner
+and on payment of such fees as may be prescribed.
+(2) Every rig owner or operator shall follow the instructions issued by the Authority from time to time.
+15. Power to alter, amend or vary the terms of the permit/certificate of registration . –
+At any time after granting permit/certificate of registration, as the case may be the Authority may, for
+any reasons, alter, amend or vary the terms of the permit or certificate of registration, as the case may be,
+provided that the user of ground water has been given an opportunity of being heard:
+Provided that before taking such action, the Ground Water Authority shall ensure that the standing
+crop(s) are not damaged.
+16. Cancellation of permission/certificate of registration . If the Ground Water Authority is satisfied either on a reference made to it in this behalf or otherwise that: -
+(1) the permit/ certificate of registration granted, has been obtained by fraud or misrepresentation as to
+an essential fact under sub-section (3) of section 11, or sub-section (3) of section 12;
+(2) the holder of the permit/certificate of registration has without reasonable cause failed to comply with
+the conditions subject to which the permission or certificate of registration has been granted or has
+contravened any of the provisions of this Ordinance or the rules made there under;
+- 12 - - 13 - Ex-341/2023 Ex-341/2023
+(3) a situation has arisen which warrants limiting of the use or extraction of ground water then without
+prejudice to any other penalty to which the holder of the permission or of the certificate of registration
+may be liable under this Ordinance or any other law, the Ground Water Authority may after giving
+the holder of the permission, certificate of registration, an opportunity for showing cause, cancel the
+permit or certificate of registration, as the case may be.
+17. Service of orders, etc . (1) Every order under sub-section (1) of section 16 shall be served: -
+(a) by giving or tendering the order of the notice or by sending it by post to the users for whom it is
+intended; or
+(b) if such user cannot be found, by affixing the order of notice on some conspicuous part of his last
+known abode or place of business or by giving or tendering of the notice to some adult member/servant
+of this family or by affixing on some conspicuous part of the land or building in such violation of the
+provisions of this Ordinance is being done.
+(2) Where the persons on whom an order or a notice is to be served is a minor, service upon his guardian
+in the manner provided in sub-section (1) shall be deemed to be served upon the minor.
+18. Bar to claim compensation. No person shall be entitled to claim any damages or compensation from the Government for any losses
+sustained by him by virtue of any action taken under this Ordinance.
+
+19. Bar of jurisdiction by civil courts . No Civil Court shall have jurisdiction in respect of any matter which the State Government or the Ground
+Water Authority is empowered by this Ordinance to determine and no injunction shall be granted by any
+Court or any other Authority in respect of any action that is being taken or to be taken in pursuance of any
+powers conferred by or under this Ordinance.
+20. Protection of action taken in good faith . No prosecution, suit or other legal proceeding shall be instituted against the Government or the Ground
+Water Authority or any other officer of the Government or any member or other employee of the Ground
+Water Authority for anything done or intended to be done in good faith under this Ordinance, or the rules
+made there under.
+
+21. Cognizance and trial of offences . (1) No prosecution for an offence under this Ordinance shall be instituted except by or with the written
+consent of the Chairman, Mizoram Ground Water Authority or a person authorized in this behalf by the
+Ground Water Authority.
+- 12 - - 13 - Ex-341/2023 Ex-341/2023
+(2) No Court inferior to that of a Magistrate of First Class shall try any offence under this Ordinance.
+CHAPTER-IV FUNDS, ACCOUNTS AND AUDIT
+22. Funds of the authority . (1) The Authority shall have and maintain a separate fund called the Mizoram Ground Water Authority
+Fund to which shall be credited, -
+(a) such sums as may be placed at the disposal of the Authority from time to time by way of grant or loan
+or otherwise by the State Government;
+(b) grants and loans received from the Central Government;
+(c) loans raised with prior concurrence of the Government by the Authority from the financial agencies;
+(d) the proceeds of any fees, charges and fines levied;
+(e) such other sums received by the Authority from any other source;
+(2) All the new appointments in the establishment of the Authority, whether temporary or permanent
+with appropriate scale of pay and purchase of new vehicles shall be made with the concurrence of the
+Government;
+(3) The Authority may impose appropriate charges on the quantum of ground water extracted for domestic,
+industrial, commercial, mining, infrastructure projects, bulk water suppliers and entertainment purposes
+with the approval of the Government in such manner as may be prescribed.
+(4) The fund shall be applied for the purpose of this Ordinance in such manner as may be prescribed.
+(5) The fund shall be kept in such deposit and drawn in such manner as may be prescribed.
+23. Budget of the authority. –
+The Authority shall prepare in such form and at such time every year, as may be prescribed, a budget
+for the next financial year showing estimated receipts and expenditure of the Authority in respect of the
+implementation of the Ordinance and shall forward to the Government such number of copies thereof, as
+may be prescribed.
+24. Accounts and audit . (1) The Authority shall maintain a true and proper account and other relevant records and prepare annual
+statements of accounts including the balance sheet in such form as may be prescribed.
+(2) The accounts of the Authority shall be subject to audit annually by the Controller of State Accounts. A
+copy of annual statement of accounts together with a copy of the report of the auditor shall be forwarded
+annually to the Government.
+- 14 - - 15 - Ex-341/2023 Ex-341/2023
+CHAPTER –V RAIN WATER HARVESTING AND RECHARGE FOR GROUND WATER
+25. Rain water harvesting for ground water recharge . (1) To improve the ground water situation, the Authority may identify the recharge worthy areas in the State
+and issue necessary guidelines for adoption of rain water harvesting for ground water recharge in these
+areas. In rural areas, watershed management to facilitate ground water recharge may be encouraged through
+community participation. The Authority may give appropriate directions to the concerned departments of
+the State Government to include rain water harvesting in all developmental schemes falling under notified
+areas. The Authority may issue directives for constructing appropriate rain water harvesting structures
+in all residential, commercial and other premises having an area of 100 Sq.m. or more in the manner
+prescribed within a stipulated period, failing which the Authority may get such rain water harvesting
+structure constructed and recover the cost incurred along with penalty as may be prescribed.
+(2) Notwithstanding anything contained in the relevant laws, the Municipal Corporation or any other
+local Authority as the case may be, may impose stipulated conditions for providing roof top rain water
+harvesting structures in the building plan in an area of 100 Sq.mt. or more, while according approval for
+construction, and permanent water and electricity connections shall be extended only after compliance of
+the directions given in this regard.
+(3) The Authority shall take steps for promotion of Mass Awareness Training Programmes on Rain
+Water Harvesting, scientific groundwater research and artificial recharge to groundwater for sustainable
+groundwater resources through Government Agencies/Non-Government Organizations (NGOs)/V olunteer
+Organizations (VOs)/Academic and Educational Institutions / Industries / Individuals.
+- 14 - - 15 - Ex-341/2023 Ex-341/2023
+CHAPTER-VI MISCELLANEOUS
+26. Prohibition on ground water contamination . No ground water resources shall be contaminated in any manner by anybody including Municipal and
+Local Bodies, industrial waste and agriculture inputs. Direct disposal of wastewater into the aquifers will
+be a punishable offence.
+27. Prohibition on springs encroachment . (1) No springs and their catchment areas shall be encroached upon in any manner by any body,
+municipal and local bodies, industrial and agricultural activities.
+(2) Construction of houses, dumping sites or any other structures crossing streams or spring water
+channels is prohibited.
+28. Power to remove difficulties . If any difficulty arises in giving effect to the provision of this Ordinance, the Government may, as occasion
+arises, by order do anything, which appears to it necessary or expedient to remove the difficulty:
+Provided that, no such order shall be made after the expiry of the period of two years from the date
+of commencement of this Ordinance.
+29. Offences and penalties . Any person who
+(1) Contravenes or fail to comply with any of the provisions of this Ordinance or any rule made there
+under,
+(2) Obstructs the Ground Water Authority or any other person authorized by it to exercise any of the power
+under this Ordinance shall be punishable: -
+(a) for the first offence with a penalty of Rs.5000/- which may extend to Rs.1lakh, and
+(b) for the second and subsequent offence, penalty not less than Rs.1 lakh or simple imprisonment for a
+term which may extend upto 6 months or both;
+(c) if any person contravenes the provisions of this Ordinance for third time, he/she shall be punishable
+with a penalty of Rs.1lakh in addition to the penalties mentioned at (a) and (b) above, for every day till
+such contravention continues.
+(3) Direct disposal of wastes into the springs and their catchment areas, construction of houses, dumping
+sites or any other structures crossing streams or spring water channels shall be punishable with a fine
+not less than Rs 10,000 or simple imprisonment for a term which may extend up to three years or both.
+- 16 - - 17 - Ex-341/2023 Ex-341/2023
+30. Compounding of offences. –
+Any offence under this Ordinance may be compounded by the Authority as prescribed, either before or
+after the institution/initiation of the proceedings subject to such conditions as may be prescribed.
+31. Offences by companies . (1) Whenever an offence under this Ordinance has been committed by a Company, every person who at the
+time the offence is committed was in charge of, or was responsible to the company for the conduct of the
+business of the Company, as well as the Company shall be deemed to be guilty of the offence and shall be
+liable to be proceeded against and punished accordingly.
+(2) Notwithstanding anything contained in sub-section (1), where an offence under this Ordinance has been
+committed by a Company and that the offence has been committed with the consent or connivance, or is
+attributable to any neglect on the part of any Director, Manager, Secretary or other officers of the Company,
+such Director, Manager, Secretary or other officer shall also be deemed to be guilty of that offence and shall
+be liable to be proceeded against and punished accordingly:
+Provided that nothing contained in this sub-section shall render any such person liable to any
+punishment under this Ordinance if he proves that the offence was committed without his knowledge or
+that he exercised all due diligence to prevent the commission of such offence.
+Explanation: - For the purpose of this section-
+(1) ‘Company’ means any body corporate and includes a firm or other association of individuals, and
+(2) ‘Director’ in relation to a firm, means a partner in the firm.
+32. Appeals . (1) Any person aggrieved by a decision or action of the Authority under this Ordinance may, within
+a period of sixty days from the date on which the action is taken or the decision is communicated
+to him / her and on payment of such fees as may be prescribed, prefer such an appeal to such
+Appellate Authority as may be specified by the State Government in this behalf:
+Provided that the Appellate Authority may entertain an appeal after the expiry of the said
+period of sixty days, if it is satisfied that the applicant was prevented by sufficient cause from filing
+the appeal in time.
+(2) On receipt of an appeal under sub- section (1), the Appellate Authority shall, after giving the
+applicant an opportunity of being heard, dispose of the appeal as expeditiously as possible.
+33. Fines to be credited to the fund of the authority. All fines recovered under this Ordinance by or under the order of a Court shall be paid to the credit of the
+Fund of the Authority.
+- 16 - - 17 - Ex-341/2023 Ex-341/2023
+34. Power to make rules . (1) The State Government may, by notification in the Official Gazette, make rules to carry out the purposes
+of this Ordinance .
+(2) In particular and without prejudice to the generality of the foregoing power, such rules may provide for
+(a) the term of office and manner of filling vacancies and other conditions of service among the
+members and Chairman of the Ground Water Authority.
+(b) the functions and the terms and conditions of service of the employees of the Ground Water
+Authority;
+(c) any other manner of affecting service of the notification under Clause (d) of sub-section (3) of
+(d) the form of application under sub-section (2) of section 11 and the particulars that may be furnished
+with these applications;
+(e) the form of application under section sub-section (1) of section12;
+(f) the form of the permit and certificate of registration under sub-section (6) of section 11 and subsection (5) of section 12.
+(g) the manner in which the specimens of soils or other material shall be kept and preserved under
+clause (d) of sub-section (1) of section 7;
+(h) Exemption for ground water users if required.
+(i) any other matter which is to be or may be prescribed.
+Secretary
+Law and Judicial Deptt.
+Govt. of Mizoram.
+Published and Issued by Controller, Printing & Stationery Department, Government of Mizoram Printed at the Mizoram Government Press, Aizawl. C/110
